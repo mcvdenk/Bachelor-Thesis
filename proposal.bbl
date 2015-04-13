@@ -1,3 +1,28 @@
 \begin{thebibliography}{}
 
+\bibitem [\protect \citeauthoryear {%
+Smith%
+\ \BBA {} Ragan%
+}{%
+Smith%
+\ \BBA {} Ragan%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+smithragan}
+\APACinsertmetastar {%
+smithragan}%
+\begin{APACrefauthors}%
+Smith, P\BPBI L.%
+\BCBT {}\ \BBA {} Ragan, T\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2005}.
+\newblock
+\APACrefbtitle {Instructional Design} {Instructional design}.
+\newblock
+\APACaddressPublisher{}{John Wiley \& Sons, Inc.}
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}

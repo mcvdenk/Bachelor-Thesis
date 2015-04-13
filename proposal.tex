@@ -28,12 +28,7 @@
 \usepackage{array} % for better arrays (eg matrices) in maths
 \usepackage{paralist} % very flexible & customisable lists (eg. enumerate/itemize, etc.)
 \usepackage{verbatim} % adds environment for commenting out blocks of text & for better verbatim
-\usepackage[font=small,labelfont=it]{caption}
 \usepackage{subfig} % make it possible to include more than one captioned figure/table in a single float
-\usepackage{pdfpages}
-\usepackage{hyperref}
-\usepackage{bibtopic}
-\usepackage{wrapfig}
 % These packages are all incorporated in the memoir class to one degree or another...
 
 %%% HEADERS & FOOTERS
@@ -46,7 +41,6 @@
 %%% SECTION TITLE APPEARANCE
 \usepackage{sectsty}
 \allsectionsfont{\sffamily\mdseries\upshape} % (See the fntguide.pdf for font help)
-\setcounter{secnumdepth}{-2} 
 % (This matches ConTeXt defaults)
 
 %%% RULE
@@ -55,14 +49,15 @@
 
 %%% BIBLIOGRAPHY
 
-\usepackage[sectionbib]{apacite}                           %bibliography in apa-style
-\addbibresource{references.bib}
-
+\usepackage{apacite}                           %bibliography in apa-style
 
 %%% ToC (table of contents) APPEARANCE
+\usepackage[nottoc,notlof,notlot]{tocbibind} % Put the bibliography in the ToC
 \usepackage[titles,subfigure]{tocloft} % Alter the style of the Table of Contents
 \renewcommand{\cftsecfont}{\rmfamily\mdseries\upshape}
 \renewcommand{\cftsecpagefont}{\rmfamily\mdseries\upshape} % No bold!
+
+\setcounter{secnumdepth}{-2}
 
 %%% END Article customizations
 
@@ -165,8 +160,6 @@ Presentation & 19 June \\
 \end{center}
 
 \bibliographystyle{apacite}
-\begin{btSect}{references}
-\btPrintCited
-\end{btSect}
+\bibliography{references}
 
 \end{document}
