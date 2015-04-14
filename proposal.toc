@@ -12,6 +12,10 @@
 \contentsline {subsection}{Analyzing the learning task}{7}
 \contentsline {section}{Literature research}{8}
 \contentsline {section}{Design}{8}
-\contentsline {section}{Development}{8}
-\contentsline {chapter}{Planning}{9}
-\contentsline {chapter}{References}{10}
+\contentsline {section}{Development}{9}
+\contentsline {section}{Formative Evalutation}{9}
+\contentsline {section}{Implementation and Summative Evaluation}{9}
+\contentsline {section}{Conclusion and Discussion}{10}
+\contentsline {chapter}{Planning}{11}
+\contentsline {chapter}{References}{12}
+\contentsline {part}{Appendix A: Evaluation matchboard}{13}
