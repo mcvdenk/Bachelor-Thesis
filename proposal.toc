@@ -10,5 +10,8 @@
 \contentsline {subsection}{Analyzing the learning context}{7}
 \contentsline {subsection}{Analyzing the learners}{7}
 \contentsline {subsection}{Analyzing the learning task}{7}
+\contentsline {section}{Literature research}{8}
+\contentsline {section}{Design}{8}
+\contentsline {section}{Development}{8}
 \contentsline {chapter}{Planning}{9}
 \contentsline {chapter}{References}{10}

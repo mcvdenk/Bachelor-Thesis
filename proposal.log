@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  14 APR 2015 11:08
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  14 APR 2015 11:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -633,7 +633,7 @@ s/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmss12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmss17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmti12.pfb>
-Output written on proposal.pdf (11 pages, 181102 bytes).
+Output written on proposal.pdf (11 pages, 182391 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
