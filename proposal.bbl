@@ -80,4 +80,32 @@ Smith, P\BPBI L.%
 \APACaddressPublisher{Oklahoma}{John Wiley \& Sons, Inc.}
 \PrintBackRefs{\CurrentBib}
 
+\bibitem[\protect\citeauthoryear{%
+Steehouder%
+\ \protect\BOthers{.}}{%
+Steehouder%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2006}}%
+}]{%
+lerencomm}%
+\APACinsertmetastar{%
+lerencomm}%
+Steehouder, M.%
+, Jansen, C.%
+, Maat, K.%
+, Staak, J. van~der%
+, Vet, D. de%
+, Witteveen, M.%
+\BCBL{}\ \BOthersPeriod{.}%
+\unskip\
+\newblock
+\APACrefYear{2006}.
+\newblock
+\APACrefbtitle{Leren communiceren: Handboek voor mondelinge en schriftelijke
+  communicatie}{Leren communiceren: Handboek voor mondelinge en schriftelijke
+  communicatie}\ (\PrintOrdinal{5}\ \BEd; M.~Gijsen, \BED{}).
+\newblock
+\APACaddressPublisher{Groningen/Houten}{Noordhoff Uitgevers}.
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}

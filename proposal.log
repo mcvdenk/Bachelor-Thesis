@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  14 APR 2015 12:13
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  14 APR 2015 13:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -612,35 +612,28 @@ Package pdftex.def Info: genericmodel.png used on input line 148.
 
 [6
 
- <./genericmodel.png>] [7]
-
-LaTeX Warning: Citation `lerencomm' undefined on input line 170.
-
-[8] (./proposal.bbl [9
+ <./genericmodel.png>] [7] [8] (./proposal.bbl [9
 
 ]) [10
 
-] (./proposal.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+] (./proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 4429 strings out of 493633
- 65346 string characters out of 3143378
- 140714 words of memory out of 3000000
- 7654 multiletter control sequences out of 15000+200000
+ 4430 strings out of 493633
+ 65364 string characters out of 3143378
+ 140811 words of memory out of 3000000
+ 7655 multiletter control sequences out of 15000+200000
  11898 words of font info for 41 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 44i,10n,43p,1722b,358s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
-></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></us
-r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr
-/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on proposal.pdf (11 pages, 183166 bytes).
+ 44i,10n,43p,1726b,358s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmcsc10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmss12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmss17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmti12.pfb>
+Output written on proposal.pdf (11 pages, 183771 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
