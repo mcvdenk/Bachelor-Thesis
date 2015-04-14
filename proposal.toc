@@ -6,6 +6,9 @@
 \contentsline {section}{Conceptual Framework}{5}
 \contentsline {section}{Relevance}{5}
 \contentsline {chapter}{Design approach}{6}
-\contentsline {section}{Analyses}{6}
-\contentsline {chapter}{Planning}{7}
-\contentsline {chapter}{References}{8}
+\contentsline {section}{Analyses}{7}
+\contentsline {subsection}{Analyzing the learning context}{7}
+\contentsline {subsection}{Analyzing the learners}{7}
+\contentsline {subsection}{Analyzing the learning task}{7}
+\contentsline {chapter}{Planning}{9}
+\contentsline {chapter}{References}{10}
