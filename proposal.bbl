@@ -156,6 +156,32 @@ Steehouder, M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Wouters%
+\ \BBA{} Oostendorp%
+}{%
+Wouters%
+\ \BBA{} Oostendorp%
+}{%
+{\protect\APACyear{2012}}%
+}]{%
+wouters}%
+\APACinsertmetastar{%
+wouters}%
+Wouters, P.%
+\BCBT{}\ \BBA{} Oostendorp, H. van.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+\BBOQ{}\APACrefatitle{A Meta-analytic Review of the Role of Instructional
+  Support in Game-based Learning}{A meta-analytic review of the role of
+  instructional support in game-based learning}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Computers \& Education}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Zeilinger%
 }{%
 Zeilinger%
