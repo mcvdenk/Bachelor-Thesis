@@ -2,20 +2,22 @@
 \contentsline {chapter}{General Information}{3}
 \contentsline {chapter}{Summary}{4}
 \contentsline {chapter}{Description}{5}
-\contentsline {section}{Rationale}{5}
-\contentsline {section}{Conceptual Framework}{5}
-\contentsline {section}{Relevance}{5}
-\contentsline {chapter}{Design approach}{6}
-\contentsline {section}{Analyses}{7}
-\contentsline {subsection}{Analyzing the learning context}{7}
-\contentsline {subsection}{Analyzing the learners}{7}
-\contentsline {subsection}{Analyzing the learning task}{7}
-\contentsline {section}{Literature research}{8}
-\contentsline {section}{Design}{8}
-\contentsline {section}{Development}{9}
-\contentsline {section}{Formative Evalutation}{9}
-\contentsline {section}{Implementation and Summative Evaluation}{9}
-\contentsline {section}{Conclusion and Discussion}{10}
-\contentsline {chapter}{Planning}{11}
-\contentsline {chapter}{References}{12}
-\contentsline {part}{Appendix A: Evaluation matchboard}{13}
+\contentsline {section}{Background}{5}
+\contentsline {section}{Content}{6}
+\contentsline {section}{Technology}{6}
+\contentsline {subsection}{Minecraft}{7}
+\contentsline {section}{Conceptual framework}{7}
+\contentsline {chapter}{Design approach}{8}
+\contentsline {section}{Analyses}{9}
+\contentsline {subsection}{Analyzing the learning context}{9}
+\contentsline {subsection}{Analyzing the learners}{9}
+\contentsline {subsection}{Analyzing the learning task}{9}
+\contentsline {section}{Literature Study}{10}
+\contentsline {section}{Design}{10}
+\contentsline {section}{Development}{11}
+\contentsline {section}{Formative Evalutation}{11}
+\contentsline {section}{Implementation and Summative Evaluation}{11}
+\contentsline {section}{Conclusion and Discussion}{12}
+\contentsline {chapter}{Planning}{13}
+\contentsline {chapter}{References}{14}
+\contentsline {part}{Appendix A: Evaluation matchboard}{15}

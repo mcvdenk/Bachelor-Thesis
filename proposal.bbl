@@ -31,6 +31,28 @@ Bloom, B\BPBI S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem[\protect\citeauthoryear{%
+Griffiths%
+}{%
+Griffiths%
+}{%
+{\protect\APACyear{2005}}%
+}]{%
+qumech}%
+\APACinsertmetastar{%
+qumech}%
+Griffiths, D\BPBI J.%
+%
+\unskip\
+\newblock
+\APACrefYear{2005}.
+\newblock
+\APACrefbtitle{Introduction to quantum mechanics}{Introduction to quantum
+  mechanics}\ (\PrintOrdinal{2}\ \BEd).
+\newblock
+\APACaddressPublisher{Delhi}{Pearson education, inc}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
 Nieveen%
 , Folmer%
 \BCBL{}\ \BBA{} Vielgen%
@@ -131,6 +153,29 @@ Steehouder, M.%
   communicatie}\ (\PrintOrdinal{5}\ \BEd; M.~Gijsen, \BED{}).
 \newblock
 \APACaddressPublisher{Groningen/Houten}{Noordhoff Uitgevers}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Zeilinger%
+}{%
+Zeilinger%
+}{%
+{\protect\APACyear{2005}}%
+}]{%
+dance}%
+\APACinsertmetastar{%
+dance}%
+Zeilinger, A.%
+%
+\unskip\
+\newblock
+\APACrefYear{2005}.
+\newblock
+\APACrefbtitle{Einsteins spuk. Teleportation und weitere Mysterien der
+  Quantenphysik}{Einsteins spuk. teleportation und weitere mysterien der
+  quantenphysik}.
+\newblock
+\APACaddressPublisher{M{\"u}nchen}{C. Bertelsman Verlag}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
