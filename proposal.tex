@@ -117,6 +117,7 @@ In this document the reader can find a proposal for designing a course on quantu
 
 \chapter{General Information}
 
+\begin{table}[h]
 \begin{center}
 \begin{tabular}{ l p{8cm} }
 Researcher & Micha van den Enk (s1004654) \\
@@ -129,6 +130,8 @@ Keywords & Quantum mechanics, Middle school Education, Netherlands \\
 Title & \\
 \end{tabular}
 \end{center}
+\caption{\footnotesize General information about the bachelor thesis}
+\end{table}
 
 \chapter{Summary}
 
@@ -159,10 +162,6 @@ The other way of teaching quantum mechanics is by teaching the key principles of
 The course will make use of qCraft, a modification made by members of Google for the game Minecraft. This game supports an accessible way for the player to get introduced and to interact with the aforementioned principles superposition, observer dependency and entanglement.
 
 First, a short introduction is given which broadly describes the current state of research in Game-Based Learning. Then the concept of the game Minecraft is outlined, first by specifying the game mechanics and secondly by portraying the potentials for the game being a fit learning environment. This is followed by a depiction of the modification qCraft itself, consisting of a description of what qCraft adds to Minecraft and how this can be beneficial for learning quantum mechanics. 
-
-\subsection{Game-Based Learning}
-
-GBL refers to the use of games for educational purposes. Relatively speaking, only little research has been carried out to investigate GBL, but recent reviews revealed a potential of games being an effective tool for instruction, "even more effective than conventional instruction" \cite[p.~1]{wouters}. In order for GBL to take place, the game has to supersede sole entertainment purposes by having an educational value, so that the player learns something about the real world by playing the game. Examples of these games are historical games like Assassin's Creed, Age of Empires or Valiant Hearts, in which the player is exposed to certain historical events or figures, or puzzle games like Portal, in which the player develops an understanding about physics. However. these games are often only intended for entertainment purposes and are only tangentially fit for educational purposes. Most research within GBL is conducted on games which are specifically designed to have an educational value. These games often contain explicit formulated learning goals which can be tested by pre- and post-testing. They are designed with the primary goal of education rather than entertainment, and are therefore a subset of Serious Games. This term refers to the set of games designed for a primary goal other than pure entertainment. This goal can be teaching, but also raising awareness about a certain topic or persuading the player to believe something.
 
 \subsection{Minecraft}
 
@@ -198,6 +197,53 @@ However, qCraft does more than only tangential learning. As already mentioned be
 
 \section{Conceptual framework}
 
+The use of games for educational purposes is called GBL. Relatively speaking, only little research has been carried out to investigate GBL, but recent reviews revealed a potential of games being an effective tool for instruction, "even more effective than conventional instruction" \cite[p.~1]{wouters}. In order for GBL to take place, the game has to supersede sole entertainment purposes by having an educational value, so that the player learns something about the real world by playing the game. Examples of these games are historical games like Assassin's Creed, Age of Empires or Valiant Hearts, in which the player is exposed to certain historical events or figures, or puzzle games like Portal, in which the player develops an understanding about physics. However. these games are often only intended for entertainment purposes and are only tangentially fit for educational purposes. Most research within GBL is conducted on games which are specifically designed to have an educational value. These games often contain explicit formulated learning goals which can be tested by pre- and post-testing. They are designed with the primary goal of education rather than entertainment, and are therefore a subset of Serious Games. This term refers to the set of games designed for a primary goal other than pure entertainment. This goal can be teaching, but also raising awareness about a certain topic or persuading the player to believe something.
+
+\citeA{smithragan} list different kinds of learning, and of these kinds this instruction will be focused on \emph{concept learning} and \emph{principle learning}. The instruction will be structured according to the events of instruction \cite{smithragan} (see table~\ref{tab:eventsinstruction}). These events can be filled in in a supplantive manner or in a generative manner. When the event is supplantive, the instruction will already supply the education in such a way that the learner does not have to elaborate for himself, for example by using scaffolding. A generative event however will let the learner elaborate the education for himself, for example by asking questions about the material. It is important to note that most events are not entirely supplantive or generative but are somewhere in between.
+
+The game will be used to let the student discover the principles for himself by using the learning environment. This strategy of teaching is called \emph{inquiry strategy} \cite{smithragan}, fitting within constructivist theories. When using the inquiry strategy, the events should be more generative than supplantive.
+
+\begin{table}
+\begin{tabular}{| p{7cm} | p{7cm} |}
+\hline
+\multicolumn{2}{|c|}{Expanded Events of Instruction} \\ \hline
+Generative & Supplantive \\ \hline
+\multicolumn{2}{|c|}{Introduction} \\ \hline
+Activate attention to activity & Gain attention to learning activity \\ \hline
+Establish purpose & Inform learner of purpose \\ \hline
+Arouse interest and motivation & Stimulate recall of prior knowledge \\ \hline
+Preview learning activity & Provide overview \\ \hline
+\multicolumn{2}{|c|}{Body} \\ \hline
+Recall relevant prior knowledge & Stimulate recall of prior knowledge \\ \hline
+Process information and examples & Present information and examples \\ \hline
+Focus attention & Gain and direct attention \\ \hline
+Employ learning strategies & Guide or prompt use of learning strategies \\ \hline
+Practice & Provide for and guide practice \\ \hline
+Evaluate feedback & Provide feedback \\ \hline
+\multicolumn{2}{|c|}{Conclusion} \\ \hline
+Summarize and review & Provide summary and review \\ \hline
+Transfer learning & Enhance transfer \\ \hline
+Remotivate and cease & Provide remotivation and closure \\ \hline
+\multicolumn{2}{|c|}{Assessment} \\ \hline
+Assess learning & Conduct assessment \\ \hline
+Evaluate feedback & Provide feedback and remediation \\ \hline
+\end{tabular}
+\caption{\footnotesize The Expanded Events of Instruction \protect \cite{smithragan} \label{tab:eventsinstruction}}
+\end{table}
+
+Another theory which will be used is the taxonomy of \citeA{bloom}. According to this taxonomy, learning objectives can be catched in six catagories:
+
+\begin{enumerate}
+\item Knowledge
+\item Understanding
+\item Application
+\item Analysis
+\item Synthesis
+\item Evaluation
+\end{enumerate}
+
+These catagories all have their own appropriate action verbs, which will be used to formulate the learning goals for this instruction.
+
 \chapter{Design approach}
 
 A model which describes the process of developing educational resources is the Generic Model \cite{genericmodel} (see figure~\ref{fig:genmod}). It describes the phases Analysis, Design, Development, Implementation and Evaluation. This model will be partly used for this project. Because of time constraints and the limited size of the project it will only go as far as the horizontal bar of development, this will be elaborated further later in this chapter.
@@ -222,7 +268,7 @@ The second analysis is that of the learners \cite{smithragan}. The purpose of th
 
 \subsection{Analyzing the learning task}
 
-The final step is analyzing the learning task \cite{smithragan}. In this analysis the goals from the needs assessment during the analysis of the learning context have to be translated to test specifications, with which the content of the instruction can be established. In order to achieve these test specifications, first the type of learning has to be established. Having this established, the information-processing analysis can be conducted. Every type of learning has its own kind of information-processing analysis. \citeA{dance} will be used to conduct this information-processing analysis. The next step is the prerequisite analysis. The outcome of this has to correspond to the outcome of the learner analysis. Finally, the learning objectives can be written, which form the test specifications. Every learning objective has to contain a description of the terminal behavior or actions that will demontsrate learning, a description of the conditions of demonstration of that action and a description of the standard or criterion \cite{smithragan}. Every learning objective will fall into a catagory of Bloom his taxanomy of learning objectives \cite{bloom}, and will use appropriate action verbs.
+The final step is analyzing the learning task \cite{smithragan}. In this analysis the goals from the needs assessment during the analysis of the learning context have to be translated to test specifications, with which the content of the instruction can be established. In order to achieve these test specifications, first the type of learning has to be established. Having this established, the information-processing analysis can be conducted. Every type of learning has its own kind of information-processing analysis. \citeA{dance} will be used to conduct this information-processing analysis. The next step is the prerequisite analysis. The outcome of this has to correspond to the outcome of the learner analysis. Finally, the learning objectives can be written, which form the test specifications. Every learning objective has to contain a description of the terminal behavior or actions that will demontsrate learning, a description of the conditions of demonstration of that action and a description of the standard or criterion \cite{smithragan}. Every learning objective will fall into a catagory of Bloom his taxanomy of learning objectives \cite{bloom}, and will use appropriate action verbs. Most learning objectives within will be knowledge objectives, because there is a lot of new knowledge which has to be provided and it forms the basis for all other objectives. There will be no or very vew synthesis and evaluation objectives, because these objectives would take too much time within the instruction to achieve to be feasible to use.
 
 \section{Literature Study}
 
@@ -247,7 +293,7 @@ After the design phase comes the development phase, in which all the resources a
 
 \section{Formative Evalutation}
 
-After the first development phase, the formative evaluations will take place. These evaluations are derived from the \emph{Evaluation Matchboard} \cite{evamatchboard}. After each evaluation, adjustments of the products have to take place as well. First, the resources will be screened to check whether the resources confirm to the design principles. Then, a focus group evaluation will take place. In this evaluation a subject matter expert will be interviewed to check whether the text contains statements which have to be adjusted or corrected with the current knowledge on quantum teleportation. Finally, a micro-evaluation will take place, in which the final product will be tested upon members of the target audience, or people similar to the target group audience. With this evaluation, the actual practicality can be tested by interviewing the participants. The actual effectiveness will also be tested by letting the participants make the posttest.
+After the first development phase, the formative evaluations will take place. These evaluations are derived from the \emph{Evaluation Matchboard} \cite{evamatchboard}. After each evaluation, adjustments of the products have to take place as well. First, the resources will be screened to check whether the resources confirm to the design principles. Then, a focus group evaluation will take place. In this evaluation a subject matter expert will be interviewed to check whether the text contains statements which have to be adjusted or corrected with the current knowledge on quantum teleportation. Finally, a micro-evaluation will take place, in which the final product will be tested upon members of the target audience, or people similar to the target group audience. With this evaluation, the actual practicality can be tested by interviewing the participants. The actual effectiveness will also be tested by letting the participants make the posttest. The posttest will be open book, and ask mostly about learning objectives within \emph{understanding}, \emph{application} and \emph{analysis}.
 
 \section{Implementation and Summative Evaluation}
 
@@ -261,6 +307,9 @@ When the micro-evaluation has taken place, the resulting data has to be processe
 
 \chapter{Planning}
 
+All the steps in the design approach are to be ready in the week numbers mentioned in table~\ref{tab:planning}.
+
+\begin{table}[h]
 \begin{center}
 \begin{tabular}{ l r }
 Analyses & Week 18 \\
@@ -272,6 +321,8 @@ Conclusion/Discussion & Week 25 \\
 Presentation & Week 26 \\
 \end{tabular}
 \end{center}
+\caption{A general planning for the bachelor thesis \label{tab:planning}}
+\end{table}
 
 \bibliographystyle{apacite}
 \bibliography{references}
