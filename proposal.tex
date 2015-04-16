@@ -113,6 +113,7 @@ Second \textsc{supervisor} \\
 
 \end{titlepage}
 
+\setcounter{tocdepth}{1}
 \tableofcontents
 
 \chapter{Preface}
@@ -139,7 +140,9 @@ Title & \\
 
 \chapter{Summary}
 
+This assignment will revolve around the creation of an instruction about quantum mechanics. This creation is nessecary because of the implementation of the new domain "kwantumwereld" (quantum world) within the Central Exam of the Netherlands. The topic of the instruction is quantum teleportation, and it will focus itself on the three principles observer dependency, superposition and quantum entanglement. The instruction will make use of qCraft, a modification of the game Minecraft. This mod is designed to teach the principles to Minecraft players. The instruction will make use of the Expanded Events of instruction and of constructivist theories \cite{smithragan}, and of the Taxonomy of \citeA{bloom}.
 
+The assignment will take place in different steps from the generic model by \citeA{genericmodel} (see figure~\ref{fig:genericmodel} on page~\pageref{fig:genericmodel}). First analyses will take place. These are an analysis of the context, an analysis of the learner and an analysis of the learning task. On the basis of these analyses and the conceptual framework, a literature study will take place. The results of the literature study will then be used to frase design principles. After this, a global outline will be made for the instruction. This outline will then be developed, and the resulting instruction will be formatively evaluated.
 
 \chapter{Description}
 
@@ -171,8 +174,6 @@ First, a short introduction is given which broadly describes the current state o
 
 \subsection{Minecraft}
 
-\subsubsection{Mechanics}
-
 Minecraft is a sandbox game developed by Mojang which can at best be described as a first-person Lego game: the player controls an Avatar who moves around in a three-dimensional world which consists of blocks, all being 1 cubic meter in size. The terrain generator uses a seed to randomly create a terrain. The player can move through walking, running and jumping around in the world. The blocks are the atoms of the game: they are the smallest components of the game and they can be instances of certain block-types, which can be compared to atoms as instances of different elements. Every element has its own texture and mechanics. Some block-types can be found naturally in the world, other block-types can only be crafted by combining other items together in a crafting recipe. Next to the blocks, the player can also find entities in the game called mobs, which can be friendly animals or destructive monsters. Animals are generated with the terrain generator, but they also have a rare chance of spawning randomly. Monsters only spawn randomly if the right spawning conditions are met. In the settings these mobs can be turned on or off. Finally, the game also contains items. Most of the time these are just portable versions of the aforementioned blocks, but there are also items which cannot be placed as blocks. The latter are most of the time utility items like maps, clocks or tools. The player also has an inventory in which he can store items for later use. A full list of blocks, entities, items and mechanics can be found on the minecraft wiki: http://minecraft.gamepedia.com/.
 
 As in version 1.7 of minecraft, there are three different game modes: Survival Mode, Creative Mode and Adventure Mode. In Survival Mode, the player can find and harvest blocks in order to gain items, which can be placed somewhere else in the world as blocks or use them in crafting recipes to create different blocks. In order to harvest the blocks, the player sometimes has to use different tools, e.g. he has to use a pickaxe to mine stone blocks. Other blocks can be harvested with the players bare hands, but can often still be harvested faster when using a tool, e.g. dirt can be harvested faster with a shovel. The player also has a health bar, a hunger bar and an experience bar. If his health drops to zero, he drops all the items in his inventory on the spot and dies. He will then respawn at his original spawning point or next to the bed he most recently slept in. If his hunger bar drops to zero, the player slowly loses health. The player has to eat in order to raise his food bar, and if his  food bar is completely full, the player also will regenerate health. Finally, the player can gain experience points from certain tasks. This can be harvesting certain blocks or slaying mobs. By getting experience, the player can obtain levels. These levels can be spend on enchanting, which enhances certain weapons or tools. The focus of Survival Mode is therefore on staying alive, harvesting blocks, setting up farms in order to get certain items like food, getting tools, weapons and armors, and building a nice home.
@@ -191,11 +192,11 @@ Minecraft is already being used in order to facilitate learning on schools, made
 There are also some drawbacks of using Minecraft for teaching. One of them is that Minecraft is not a very realistic simulation, so the learning opportunities come mostly in the form of analogies. Another drawback is that both teacher and student have to learn how to play Minecraft before they can construct premade maps or learn from playing the game.
 qCraft
 
-\subsubsection{qCraft}
+\subsection{qCraft}
 
 qCraft is a modification for Minecraft which adds four principles of quantum mechanics to minecraft. It is developed in order to teach quantum mechanics to players in an intuitive game. Because of this, qCraft can be qualified as an educational game. The introduced principles of quantum mechanics are Observational Dependency, Superposition, Entanglement and Quantum Teleportation. Observational dependency is implemented by introducing observational dependent blocks, which behave like different block-types depending on the angle from which the player views the block. Superpositional blocks are similar to observational dependent blocks, with the difference that only the dimension in which the player is standing matters and that the block metamorphoses to different block-types at random if the player observes the block. Blocks can also be entangled, this means that if one of the blocks takes on a block-type, all entangled blocks also take that same block-type. Quantum Teleportation is implemented in two ways, one way swaps blocks of a certain area with the blocks of a certain other area, the other way teleports the player itself from one portal to a connected other portal.
 
-\subsubsection{Learning opportunities of qCraft}
+\subsection{Learning opportunities of qCraft}
 
 In the very least, the player can learn about quantum mechanics by tangential learning. This is the concept of confronting players with a certain name or concepts, him getting curious and researching the name or concept and thereby learning more about it. A famous example is the adversary from the game Final Fantasy VII which is called Sephiroth. Although it was just a name without it having any influence on the game, players still got curious where the name came from and thereby learned about the Sephirot in Jewish Kabbalah. The same way a player of qCraft could encounter the word "Entanglement", getting curious and looking up on the internet what it is. A problem with tangential learning is that not everybody will be curious enough in order to research certain names or that some players will not notice the name to be special.
 
@@ -252,12 +253,12 @@ These catagories all have their own appropriate action verbs, which will be used
 
 \chapter{Design approach}
 
-A model which describes the process of developing educational resources is the Generic Model \cite{genericmodel} (see figure~\ref{fig:genmod}). It describes the phases Analysis, Design, Development, Implementation and Evaluation. This model will be partly used for this project. Because of time constraints and the limited size of the project it will only go as far as the horizontal bar of development, this will be elaborated further later in this chapter.
+A model which describes the process of developing educational resources is the Generic Model \cite{genericmodel} (see figure~\ref{fig:genericmodel}). It describes the phases Analysis, Design, Development, Implementation and Evaluation. This model will be partly used for this project. Because of time constraints and the limited size of the project it will only go as far as the horizontal bar of development, this will be elaborated further later in this chapter.
 
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.7\textwidth]{genericmodel}
-\caption{\footnotesize The generic model by \protect\citeA{genericmodel}\label{fig:genmod}}
+\caption{\footnotesize The generic model by \protect\citeA{genericmodel}\label{fig:genericmodel}}
 \end{figure}
 
 \section{Analyses}
@@ -278,13 +279,13 @@ The final step is analyzing the learning task \cite{smithragan}. In this analysi
 
 \section{Literature Study}
 
-After the analyses have been conducted, the literature study will take place. \citeA{lerencomm} state the different steps which go into doing literature research and writing the theoretic framework. The first step of the literature study will be considering the search terms. For this, the results of the analyses will have to be taken into account, especially the characterizations of the learners and the learning task. The search terms will then be expanded by finding synonyms and similar relevant terms by using the Thesaurus. After the search terms are determined, it has to be established which databases will provide useful results. Then a cyclic process will take place in which the amount of results will be assessed with these databases and search terms and then if needed the results are limited or expanded by using more search terms and filters. The results will always be constrained to peer-reviewed articles. Other filters could than be the recency of the articles or the educational level of the test subjects. When there is an appropriate amount of results, they will be filtered manually. First, the articles which seem relevant by their title and keywords will be selected. This will be done in a very broad sense, so only the really irrelevant results will be filtered out. These selected articles will then be skimmed by their abstract, introduction and conclusion and will be filtered out when they actually are not relevant. The remaining articles will then be used for constructing the theoretic framework. It could be that new keywords can be found in these articles. In this case this keyword will be added to the search terms in order to find even more results.
+After the analyses have been conducted, the literature study will take place. \citeA{lerencomm} state the different steps which go into doing literature research and writing the theoretic framework. The first step of the literature study will be considering the search terms. For this, the results of the analyses will have to be taken into account, especially the characterizations of the learners and the learning task. It will also make use of the concepual framework, described earlier. The search terms will then be expanded by finding synonyms and similar relevant terms by using the Thesaurus. After the search terms are determined, it has to be established which databases will provide useful results. Then a cyclic process will take place in which the amount of results will be assessed with these databases and search terms and then if needed the results are limited or expanded by using more search terms and filters. The results will always be constrained to peer-reviewed articles. Other filters could than be the recency of the articles or the educational level of the test subjects. When there is an appropriate amount of results, they will be filtered manually. First, the articles which seem relevant by their title and keywords will be selected. This will be done in a very broad sense, so only the really irrelevant results will be filtered out. These selected articles will then be skimmed by their abstract, introduction and conclusion and will be filtered out when they actually are not relevant. The remaining articles will then be used for constructing the theoretic framework. It could be that new keywords can be found in these articles. In this case this keyword will be added to the search terms in order to find even more results.
 
 From the resulting articles a literature matrix will be constructed \cite{lerencomm}. This matrix will contain research questions in the top row and the resulting articles in the left row. By using this technique, every question can be answered per resulting article. The columns can then be summarized in order to answer every question separately. These answers ultimately are the content of the theoretic framework.
 
 \section{Design}
 
-The second phase of the Generic Model \cite{genericmodel} is the design phase. In this phase the results from the analyses are used to form design principles, which can be used to develop the instruction. There will be design principles for:
+The second phase of the Generic Model \cite{genericmodel} (see figure~\ref{fig:genericmodel} on page~\pageref{genericmodel}) is the design phase. In this phase the results from the analyses are used to form design principles, which can be used to develop the instruction. There will be design principles for:
 \begin{itemize}
 \item a pretest for information about the preknowledge and the experience with playing games of the participants;
 \item the text of the instruction;
@@ -295,7 +296,7 @@ Furthermore, a global design plan will be made, which is a distribution of the l
 
 \section{Development}
 
-After the design phase comes the development phase, in which all the resources are finally fully developed, based on the earlier made design. This will be the developing of the pre- and posttest, the writing of the text and the developing of the learning environment in Minecraft. The development of the resources will be based on the earlier developed design principles and the global design plan.
+After the design phase comes the development phase \cite{genericmodel} (see figure~\ref{fig:genericmodel} on page~\pageref{genericmodel}), in which all the resources are finally fully developed, based on the earlier made design. This will be the developing of the pre- and posttest, the writing of the text and the developing of the learning environment in Minecraft. The development of the resources will be based on the earlier developed design principles and the global design plan.
 
 \section{Formative Evalutation}
 
