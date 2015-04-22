@@ -32,6 +32,36 @@ Bloom, B\BPBI S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Einstein%
+, Podolsky%
+\BCBL {}\ \BBA {} Rosen%
+}{%
+Einstein%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1935}}%
+}]{%
+EPR}
+\APACinsertmetastar {%
+EPR}%
+\begin{APACrefauthors}%
+Einstein, A.%
+, Podolsky, B.%
+\BCBL {}\ \BBA {} Rosen, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1935}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Can Quantum-Mechanical Description of Physical Reality
+  Be Considered Complete?} {Can quantum-mechanical description of physical
+  reality be considered complete?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Physical Review}{47}{10}{777-780}.
+\newblock
+\begin{APACrefDOI} \doi{10.1103/PhysRev.47.777} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Griffiths%
 }{%
 Griffiths%
@@ -160,35 +190,6 @@ Steehouder, M.%
   communicatie}\ (\PrintOrdinal{5}\ \BEd; M.~Gijsen, \BED{}).
 \newblock
 \APACaddressPublisher{Groningen/Houten}{Noordhoff Uitgevers}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Wouters%
-\ \BBA {} van Oostendorp%
-}{%
-Wouters%
-\ \BBA {} van Oostendorp%
-}{%
-{\protect \APACyear {2012}}%
-}]{%
-wouters}
-\APACinsertmetastar {%
-wouters}%
-\begin{APACrefauthors}%
-Wouters, P.%
-\BCBT {}\ \BBA {} van Oostendorp, H.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2012}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {A Meta-analytic Review of the Role of Instructional
-  Support in Game-based Learning} {A meta-analytic review of the role of
-  instructional support in game-based learning}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Computers \& Education}{}{}{}.
-\newblock
-\begin{APACrefDOI} \doi{10.1016/j.compedu.2012.07.018} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
