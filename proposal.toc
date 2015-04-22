@@ -4,22 +4,18 @@
 \contentsline {chapter}{Description}{5}
 \contentsline {section}{Background}{5}
 \contentsline {section}{Content}{6}
-\contentsline {section}{Technology}{6}
-\contentsline {subsection}{Minecraft}{7}
-\contentsline {subsection}{qCraft}{9}
-\contentsline {subsection}{Learning opportunities of qCraft}{10}
-\contentsline {section}{Conceptual framework}{10}
-\contentsline {chapter}{Design approach}{13}
-\contentsline {section}{Analyses}{14}
-\contentsline {subsection}{Analyzing the learning context}{14}
-\contentsline {subsection}{Analyzing the learners}{14}
-\contentsline {subsection}{Analyzing the learning task}{14}
-\contentsline {section}{Literature Study}{15}
-\contentsline {section}{Design}{16}
-\contentsline {section}{Development}{16}
-\contentsline {section}{Formative Evalutation}{16}
-\contentsline {section}{Implementation and Summative Evaluation}{17}
-\contentsline {section}{Conclusion and Discussion}{17}
-\contentsline {chapter}{Planning}{18}
-\contentsline {chapter}{References}{19}
-\contentsline {part}{Appendix A: Evaluation matchboard}{20}
+\contentsline {section}{Conceptual framework}{7}
+\contentsline {chapter}{Design approach}{8}
+\contentsline {section}{Analyses}{9}
+\contentsline {subsection}{Analyzing the learning context}{9}
+\contentsline {subsection}{Analyzing the learners}{9}
+\contentsline {subsection}{Analyzing the learning task}{9}
+\contentsline {section}{Literature Study}{10}
+\contentsline {section}{Design}{11}
+\contentsline {section}{Development}{11}
+\contentsline {section}{Formative Evalutation}{11}
+\contentsline {section}{Implementation and Summative Evaluation}{13}
+\contentsline {section}{Conclusion and Discussion}{13}
+\contentsline {chapter}{Planning}{14}
+\contentsline {chapter}{References}{15}
+\contentsline {part}{Appendix A: Evaluation matchboard}{16}
