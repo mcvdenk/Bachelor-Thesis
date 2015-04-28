@@ -1,3 +1,110 @@
 \begin{thebibliography}{}
 
+\bibitem [\protect \citeauthoryear {%
+Bloom%
+, Englehart%
+, Furst%
+, Hill%
+\BCBL {}\ \BBA {} Hrathwohl%
+}{%
+Bloom%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1956}}%
+}]{%
+bloom}
+\APACinsertmetastar {%
+bloom}%
+\begin{APACrefauthors}%
+Bloom, B\BPBI S.%
+, Englehart, M\BPBI D.%
+, Furst, E\BPBI J.%
+, Hill, W\BPBI H.%
+\BCBL {}\ \BBA {} Hrathwohl, D\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1956}.
+\newblock
+\APACrefbtitle {Taxonomy of educational objectives: Handbook I, cognitive
+  domain} {Taxonomy of educational objectives: Handbook i, cognitive domain}.
+\newblock
+\APACaddressPublisher{New York}{McKay}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Plomp%
+, Feteris%
+\BCBL {}\ \BBA {} Pieters%
+}{%
+Plomp%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1992}}%
+}]{%
+genericmodel}
+\APACinsertmetastar {%
+genericmodel}%
+\begin{APACrefauthors}%
+Plomp, T.%
+, Feteris, A.%
+\BCBL {}\ \BBA {} Pieters, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1992}.
+\newblock
+\APACrefbtitle {Ontwerpen van onderwijs en trainingen} {Ontwerpen van onderwijs
+  en trainingen}\ (W.~Toic, \BED{}).
+\newblock
+\APACaddressPublisher{Utrecht}{LEMMA}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Smith%
+\ \BBA {} Ragan%
+}{%
+Smith%
+\ \BBA {} Ragan%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+smithragan}
+\APACinsertmetastar {%
+smithragan}%
+\begin{APACrefauthors}%
+Smith, P\BPBI L.%
+\BCBT {}\ \BBA {} Ragan, T\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2005}.
+\newblock
+\APACrefbtitle {Instructional Design} {Instructional design}.
+\newblock
+\APACaddressPublisher{Oklahoma}{John Wiley \& Sons, Inc.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zeilinger%
+}{%
+Zeilinger%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+dance}
+\APACinsertmetastar {%
+dance}%
+\begin{APACrefauthors}%
+Zeilinger, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2005}.
+\newblock
+\APACrefbtitle {Einsteins spuk. Teleportation und weitere Mysterien der
+  Quantenphysik} {Einsteins spuk. teleportation und weitere mysterien der
+  quantenphysik}.
+\newblock
+\APACaddressPublisher{M{\"u}nchen}{C. Bertelsman Verlag}.
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}

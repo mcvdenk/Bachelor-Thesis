@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  28 APR 2015 12:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  28 APR 2015 15:50
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -636,9 +636,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 jpg>]
 (./Thesis.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 2.
+(Font)              <14.4> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 2.
+(Font)              <7> on input line 3.
 )
 \tf@toc=\write3
 \openout3 = `Thesis.toc'.
@@ -647,52 +647,63 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] [2] [3
 
-] [4
+]
+<genericmodel.png, id=21, 249.18094pt x 248.42813pt>
+File: genericmodel.png Graphic file (type png)
+ <use genericmodel.png>
+Package pdftex.def Info: genericmodel.png used on input line 127.
+(pdftex.def)             Requested size: 292.77629pt x 291.91824pt.
 
-] [5
+[4
 
-] [6
+ <./genericmodel.png>] [5
+
+] [6] [7
 
 ]
-Overfull \vbox (90.80318pt too high) has occurred while \output is active []
+<needsassessment.png, id=37, 34.1275pt x 55.20625pt>
+File: needsassessment.png Graphic file (type png)
+ <use needsassessment.png>
+Package pdftex.def Info: needsassessment.png used on input line 153.
+(pdftex.def)             Requested size: 34.1274pt x 55.2061pt.
 
+[8 <./needsassessment.png>] [9
 
-[7] [8
+] [10] [11
 
-] [9
+] [12] [13
 
-] [10
+] [14
 
-] [11
+] [15
 
-] [12
+] [16
 
-] (./Thesis.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-) [13
+]
+(./Thesis.bbl) [17
 
 ] (./Thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 5873 strings out of 493117
- 86630 string characters out of 6135433
- 169281 words of memory out of 5000000
- 9236 multiletter control sequences out of 15000+600000
- 12166 words of font info for 42 fonts, out of 8000000 for 9000
+ 5908 strings out of 493117
+ 87199 string characters out of 6135433
+ 169739 words of memory out of 5000000
+ 9269 multiletter control sequences out of 15000+600000
+ 12513 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,11n,43p,232b,269s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,11n,43p,1666b,380s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmcsc10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmss12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmss17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmti12.pfb>
-Output written on Thesis.pdf (14 pages, 155055 bytes).
+s/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmss12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmss17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ti12.pfb>
+Output written on Thesis.pdf (18 pages, 203834 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 99 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

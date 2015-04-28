@@ -2,7 +2,6 @@ This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Thesis.aux
 The style file: apacite.bst
-I found no \citation commands---while reading file Thesis.aux
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
@@ -14,45 +13,44 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: references.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 0 entries,
+You've used 4 entries,
             6951 wiz_defined-function locations,
-            1268 strings with 10648 characters,
-and the built_in function-call counts, 43 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 1
-:= -- 32
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+            1292 strings with 11153 characters,
+and the built_in function-call counts, 7439 in all, are:
+= -- 925
+> -- 72
+< -- 314
++ -- 358
+- -- 8
+* -- 439
+:= -- 1306
+add.period$ -- 16
+call.type$ -- 4
+change.case$ -- 68
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 8
+duplicate$ -- 228
+empty$ -- 313
+format.name$ -- 123
+if$ -- 1449
 int.to.chr$ -- 0
-int.to.str$ -- 0
+int.to.str$ -- 12
 missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+newline$ -- 106
+num.names$ -- 34
+pop$ -- 197
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 16
 quote$ -- 0
-skip$ -- 1
+skip$ -- 423
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 397
+swap$ -- 116
+text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 0
+type$ -- 320
 warning$ -- 0
-while$ -- 0
+while$ -- 42
 width$ -- 0
-write$ -- 2
-(There was 1 error message)
+write$ -- 135
