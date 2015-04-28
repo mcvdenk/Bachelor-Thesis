@@ -12,42 +12,42 @@
 \contentsline {subsection}{Learning goals}{8}
 \contentsline {subsection}{Priority and suitability}{8}
 \contentsline {section}{Learning Environment}{8}
-\contentsline {subsection}{Teachers}{8}
-\contentsline {subsection}{Existing curricula}{8}
-\contentsline {subsection}{Equipment}{8}
-\contentsline {subsection}{Facilities}{8}
-\contentsline {subsection}{Organization}{8}
-\contentsline {subsection}{Larger system}{8}
-\contentsline {chapter}{Learner Analysis}{9}
-\contentsline {section}{Stable Similarities}{10}
-\contentsline {subsection}{Sensory capacities}{10}
-\contentsline {subsection}{Information processing}{10}
-\contentsline {subsection}{Types and conditions of learning}{10}
-\contentsline {section}{Changing Similarities}{10}
-\contentsline {subsection}{Intellectual development processes}{10}
-\contentsline {subsection}{Language development processes}{10}
-\contentsline {subsection}{Psychosocial development processes}{10}
-\contentsline {subsection}{Moral development processes}{10}
-\contentsline {subsection}{Other development processes}{10}
-\contentsline {section}{Stable Differences}{10}
-\contentsline {subsection}{Aptitudes}{10}
-\contentsline {subsection}{Cognitive styles}{10}
-\contentsline {subsection}{Psychosocial traits}{10}
-\contentsline {subsection}{Gender, ethnicity, \& racial group}{10}
-\contentsline {section}{Changing Differences}{10}
-\contentsline {subsection}{Intellectual development state}{10}
-\contentsline {subsection}{Other development state}{10}
-\contentsline {subsection}{General prior learning}{10}
-\contentsline {subsection}{Specific prior learning}{10}
-\contentsline {chapter}{Task Analysis}{11}
-\contentsline {section}{Learning goal}{12}
-\contentsline {section}{Types of learning}{12}
-\contentsline {section}{Information-processing analysis}{12}
-\contentsline {section}{Prerequisite analysis}{12}
-\contentsline {section}{Learning objectives}{12}
-\contentsline {section}{Test specifications}{12}
-\contentsline {chapter}{Theoretic Framework}{13}
-\contentsline {part}{Design}{14}
-\contentsline {part}{Development}{15}
-\contentsline {part}{Formative Evaluation}{16}
-\contentsline {chapter}{References}{17}
+\contentsline {subsection}{Teachers}{9}
+\contentsline {subsection}{Existing curricula}{9}
+\contentsline {subsection}{Equipment}{9}
+\contentsline {subsection}{Facilities}{9}
+\contentsline {subsection}{Organization}{9}
+\contentsline {subsection}{Larger system}{9}
+\contentsline {chapter}{Learner Analysis}{10}
+\contentsline {section}{Stable Similarities}{11}
+\contentsline {subsection}{Sensory capacities}{11}
+\contentsline {subsection}{Information processing}{11}
+\contentsline {subsection}{Types and conditions of learning}{11}
+\contentsline {section}{Changing Similarities}{11}
+\contentsline {subsection}{Intellectual development processes}{11}
+\contentsline {subsection}{Language development processes}{11}
+\contentsline {subsection}{Psychosocial development processes}{11}
+\contentsline {subsection}{Moral development processes}{11}
+\contentsline {subsection}{Other development processes}{11}
+\contentsline {section}{Stable Differences}{11}
+\contentsline {subsection}{Aptitudes}{11}
+\contentsline {subsection}{Cognitive styles}{11}
+\contentsline {subsection}{Psychosocial traits}{11}
+\contentsline {subsection}{Gender, ethnicity, \& racial group}{11}
+\contentsline {section}{Changing Differences}{11}
+\contentsline {subsection}{Intellectual development state}{11}
+\contentsline {subsection}{Other development state}{11}
+\contentsline {subsection}{General prior learning}{11}
+\contentsline {subsection}{Specific prior learning}{11}
+\contentsline {chapter}{Task Analysis}{12}
+\contentsline {section}{Learning goal}{13}
+\contentsline {section}{Types of learning}{13}
+\contentsline {section}{Information-processing analysis}{13}
+\contentsline {section}{Prerequisite analysis}{13}
+\contentsline {section}{Learning objectives}{13}
+\contentsline {section}{Test specifications}{13}
+\contentsline {chapter}{Theoretic Framework}{14}
+\contentsline {part}{Design}{15}
+\contentsline {part}{Development}{16}
+\contentsline {part}{Formative Evaluation}{17}
+\contentsline {chapter}{References}{18}
