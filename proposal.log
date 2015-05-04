@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  28 APR 2015 13:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  4 MAY 2015 12:48
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -636,9 +636,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 jpg>]
 (./proposal.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 21.
+(Font)              <14.4> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 21.
+(Font)              <7> on input line 20.
 )
 \tf@toc=\write3
 \openout3 = `proposal.toc'.
@@ -657,104 +657,110 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <genericmodel.png, id=35, 249.18094pt x 248.42813pt>
 File: genericmodel.png Graphic file (type png)
  <use genericmodel.png>
-Package pdftex.def Info: genericmodel.png used on input line 181.
+Package pdftex.def Info: genericmodel.png used on input line 177.
 (pdftex.def)             Requested size: 292.77629pt x 291.91824pt.
 
 [8
 
- <./genericmodel.png>] [9] [10]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 211.
+ <./genericmodel.png>] [9] <bloom.png, id=43, 589.20125pt x 503.8825pt>
+File: bloom.png Graphic file (type png)
+
+<use bloom.png>
+Package pdftex.def Info: bloom.png used on input line 199.
+(pdftex.def)             Requested size: 292.77629pt x 250.37984pt.
+ [10 <./bloom.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 213.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 211.
-
-Overfull \hbox (5.28487pt too wide) in paragraph at lines 219--243
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 213.
+ [11]
+Overfull \hbox (5.28487pt too wide) in paragraph at lines 221--245
 [][] 
  []
 
-[11] [12] [13] (./proposal.bbl [14
+[12] [13] [14] (./proposal.bbl [15
 
-]) [15
+]) [16
 
-] [16
+] [17
 
 ]
-<Evaluation_matchboard.pdf, id=66, 1195.01462pt x 845.0471pt>
+<Evaluation_matchboard.pdf, id=72, 1195.01462pt x 845.0471pt>
 File: Evaluation_matchboard.pdf Graphic file (type pdf)
 
 <use Evaluation_matchboard.pdf>
-Package pdftex.def Info: Evaluation_matchboard.pdf used on input line 288.
+Package pdftex.def Info: Evaluation_matchboard.pdf used on input line 290.
 (pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
 File: Evaluation_matchboard.pdf Graphic file (type pdf)
  <use Evaluation_matchboard.pdf>
-Package pdftex.def Info: Evaluation_matchboard.pdf used on input line 288.
+Package pdftex.def Info: Evaluation_matchboard.pdf used on input line 290.
 (pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
 
-<Evaluation_matchboard.pdf, id=69, page=1, 1195.01462pt x 845.0471pt>
+<Evaluation_matchboard.pdf, id=75, page=1, 1195.01462pt x 845.0471pt>
 File: Evaluation_matchboard.pdf Graphic file (type pdf)
 
 <use Evaluation_matchboard.pdf, page 1>
-Package pdftex.def Info: Evaluation_matchboard.pdf, page1 used on input line 28
-8.
+Package pdftex.def Info: Evaluation_matchboard.pdf, page1 used on input line 29
+0.
 (pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
 File: Evaluation_matchboard.pdf Graphic file (type pdf)
 
 <use Evaluation_matchboard.pdf, page 1>
-Package pdftex.def Info: Evaluation_matchboard.pdf, page1 used on input line 28
-8.
+Package pdftex.def Info: Evaluation_matchboard.pdf, page1 used on input line 29
+0.
 (pdftex.def)             Requested size: 597.50584pt x 422.52252pt.
 File: Evaluation_matchboard.pdf Graphic file (type pdf)
 
 <use Evaluation_matchboard.pdf, page 1>
-Package pdftex.def Info: Evaluation_matchboard.pdf, page1 used on input line 28
-8.
+Package pdftex.def Info: Evaluation_matchboard.pdf, page1 used on input line 29
+0.
 (pdftex.def)             Requested size: 597.50584pt x 422.52252pt.
 File: Evaluation_matchboard.pdf Graphic file (type pdf)
 
 <use Evaluation_matchboard.pdf, page 1>
-Package pdftex.def Info: Evaluation_matchboard.pdf, page1 used on input line 28
-8.
+Package pdftex.def Info: Evaluation_matchboard.pdf, page1 used on input line 29
+0.
 (pdftex.def)             Requested size: 597.50584pt x 422.52252pt.
 File: Evaluation_matchboard.pdf Graphic file (type pdf)
 
 <use Evaluation_matchboard.pdf, page 1>
-Package pdftex.def Info: Evaluation_matchboard.pdf, page1 used on input line 28
-8.
-(pdftex.def)             Requested size: 597.50584pt x 422.52252pt.
- [17 <./Evaluation_matchboard.pdf>]
-<Evaluation_matchboard.pdf, id=148, page=2, 1195.01462pt x 845.0471pt>
-File: Evaluation_matchboard.pdf Graphic file (type pdf)
-
-<use Evaluation_matchboard.pdf, page 2>
-Package pdftex.def Info: Evaluation_matchboard.pdf, page2 used on input line 28
-8.
-(pdftex.def)             Requested size: 597.50584pt x 422.52252pt.
-File: Evaluation_matchboard.pdf Graphic file (type pdf)
-
-<use Evaluation_matchboard.pdf, page 2>
-Package pdftex.def Info: Evaluation_matchboard.pdf, page2 used on input line 28
-8.
-(pdftex.def)             Requested size: 597.50584pt x 422.52252pt.
-File: Evaluation_matchboard.pdf Graphic file (type pdf)
-
-<use Evaluation_matchboard.pdf, page 2>
-Package pdftex.def Info: Evaluation_matchboard.pdf, page2 used on input line 28
-8.
+Package pdftex.def Info: Evaluation_matchboard.pdf, page1 used on input line 29
+0.
 (pdftex.def)             Requested size: 597.50584pt x 422.52252pt.
  [18 <./Evaluation_matchboard.pdf>]
+<Evaluation_matchboard.pdf, id=155, page=2, 1195.01462pt x 845.0471pt>
+File: Evaluation_matchboard.pdf Graphic file (type pdf)
+
+<use Evaluation_matchboard.pdf, page 2>
+Package pdftex.def Info: Evaluation_matchboard.pdf, page2 used on input line 29
+0.
+(pdftex.def)             Requested size: 597.50584pt x 422.52252pt.
+File: Evaluation_matchboard.pdf Graphic file (type pdf)
+
+<use Evaluation_matchboard.pdf, page 2>
+Package pdftex.def Info: Evaluation_matchboard.pdf, page2 used on input line 29
+0.
+(pdftex.def)             Requested size: 597.50584pt x 422.52252pt.
+File: Evaluation_matchboard.pdf Graphic file (type pdf)
+
+<use Evaluation_matchboard.pdf, page 2>
+Package pdftex.def Info: Evaluation_matchboard.pdf, page2 used on input line 29
+0.
+(pdftex.def)             Requested size: 597.50584pt x 422.52252pt.
+ [19 <./Evaluation_matchboard.pdf>]
 (./proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 5953 strings out of 493117
- 88033 string characters out of 6135433
- 177298 words of memory out of 5000000
- 9310 multiletter control sequences out of 15000+600000
+ 5959 strings out of 493117
+ 88108 string characters out of 6135433
+ 174307 words of memory out of 5000000
+ 9315 multiletter control sequences out of 15000+600000
  12513 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,18n,46p,1790b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,18n,46p,2027b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmcsc10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfont
@@ -764,10 +770,10 @@ cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm
 cmss17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
 msy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 ti12.pfb>
-Output written on proposal.pdf (19 pages, 484429 bytes).
+Output written on proposal.pdf (20 pages, 502241 bytes).
 PDF statistics:
- 187 PDF objects out of 1000 (max. 8388607)
- 120 compressed objects within 2 object streams
+ 193 PDF objects out of 1000 (max. 8388607)
+ 123 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -4,7 +4,6 @@
 \contentsline {chapter}{Description}{5}
 \contentsline {section}{Background}{5}
 \contentsline {section}{Content}{6}
-\contentsline {section}{Conceptual framework}{7}
 \contentsline {chapter}{Design approach}{8}
 \contentsline {section}{Analyses}{9}
 \contentsline {subsection}{Analyzing the learning context}{9}
@@ -12,10 +11,10 @@
 \contentsline {subsection}{Analyzing the learning task}{9}
 \contentsline {section}{Literature Study}{10}
 \contentsline {section}{Design}{11}
-\contentsline {section}{Development}{11}
-\contentsline {section}{Formative Evalutation}{11}
+\contentsline {section}{Development}{13}
+\contentsline {section}{Formative Evaluation}{13}
 \contentsline {section}{Implementation and Summative Evaluation}{13}
-\contentsline {section}{Conclusion and Discussion}{13}
-\contentsline {chapter}{Planning}{14}
-\contentsline {chapter}{References}{15}
-\contentsline {part}{Appendix A: Evaluation matchboard}{16}
+\contentsline {section}{Conclusion and Discussion}{14}
+\contentsline {chapter}{Planning}{15}
+\contentsline {chapter}{References}{16}
+\contentsline {part}{Appendix A: Evaluation matchboard}{17}
