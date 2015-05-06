@@ -85,6 +85,59 @@ Griffiths, D\BPBI J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Groenen%
+\ \protect \BOthers {.}}{%
+Groenen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+eindexamen2016}
+\APACinsertmetastar {%
+eindexamen2016}%
+\begin{APACrefauthors}%
+Groenen, E.%
+, Michels, B.%
+, Smeets, P.%
+, de Leeuw, A.%
+, van~de Poppe, D.%
+, Bouwens, R.%
+\BDBL {}Meek, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{April}{}.
+\newblock
+\APACrefbtitle {Syllabus natuurkunde vwo Centraal Examen 2016, nader
+  vastgesteld.} {Syllabus natuurkunde vwo centraal examen 2016, nader
+  vastgesteld.}
+\newblock
+\APACaddressPublisher{Utrecht}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Laan%
+}{%
+Laan%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+eindexamen2015}
+\APACinsertmetastar {%
+eindexamen2015}%
+\begin{APACrefauthors}%
+Laan, H\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{April}{}.
+\newblock
+\APACrefbtitle {Syllabus Natuurkunde VWO centraal examen 2015.} {Syllabus
+  natuurkunde vwo centraal examen 2015.}
+\newblock
+\APACaddressPublisher{Utrecht}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Nieveen%
 , Folmer%
 \BCBL {}\ \BBA {} Vielgen%
