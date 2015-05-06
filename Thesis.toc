@@ -5,41 +5,41 @@
 \contentsline {subsection}{Needs Assessment}{3}
 \contentsline {paragraph}{The condition}{4}
 \contentsline {paragraph}{The problem}{4}
-\contentsline {paragraph}{Cause of the problem}{4}
+\contentsline {paragraph}{Cause of the problem}{5}
 \contentsline {paragraph}{Is the solution learning}{5}
 \contentsline {paragraph}{Instruction currently offered}{5}
 \contentsline {paragraph}{Nature of the innovation}{5}
 \contentsline {paragraph}{Learning goals}{5}
 \contentsline {paragraph}{Priority and suitability}{5}
-\contentsline {subsection}{Learning Environment}{5}
-\contentsline {paragraph}{Teachers}{5}
-\contentsline {paragraph}{Existing curricula}{5}
-\contentsline {paragraph}{Equipment}{5}
-\contentsline {paragraph}{Facilities}{5}
-\contentsline {paragraph}{Organization}{5}
-\contentsline {paragraph}{Larger system}{5}
-\contentsline {section}{Learner Analysis}{5}
-\contentsline {subsection}{Stable Similarities}{6}
-\contentsline {paragraph}{Sensory capacities}{6}
-\contentsline {paragraph}{Information processing}{6}
-\contentsline {paragraph}{Types and conditions of learning}{6}
-\contentsline {subsection}{Changing Similarities}{6}
-\contentsline {paragraph}{Intellectual development processes}{6}
-\contentsline {paragraph}{Language development processes}{6}
-\contentsline {paragraph}{Psychosocial development processes}{6}
-\contentsline {paragraph}{Moral development processes}{6}
-\contentsline {paragraph}{Other development processes}{6}
-\contentsline {subsection}{Stable Differences}{6}
-\contentsline {paragraph}{Aptitudes}{6}
-\contentsline {paragraph}{Cognitive styles}{6}
-\contentsline {paragraph}{Psychosocial traits}{6}
+\contentsline {subsection}{Learning Environment}{6}
+\contentsline {paragraph}{Teachers}{6}
+\contentsline {paragraph}{Existing curricula}{6}
+\contentsline {paragraph}{Equipment}{6}
+\contentsline {paragraph}{Facilities}{6}
+\contentsline {paragraph}{Organization}{6}
+\contentsline {paragraph}{Larger system}{6}
+\contentsline {section}{Learner Analysis}{6}
+\contentsline {subsection}{Stable Similarities}{7}
+\contentsline {paragraph}{Sensory capacities}{7}
+\contentsline {paragraph}{Information processing}{7}
+\contentsline {paragraph}{Types and conditions of learning}{7}
+\contentsline {subsection}{Changing Similarities}{7}
+\contentsline {paragraph}{Intellectual development processes}{7}
+\contentsline {paragraph}{Language development processes}{7}
+\contentsline {paragraph}{Psychosocial development processes}{7}
+\contentsline {paragraph}{Moral development processes}{7}
+\contentsline {paragraph}{Other development processes}{7}
+\contentsline {subsection}{Stable Differences}{7}
+\contentsline {paragraph}{Aptitudes}{7}
+\contentsline {paragraph}{Cognitive styles}{7}
+\contentsline {paragraph}{Psychosocial traits}{7}
 \contentsline {paragraph}{Gender, ethnicity, \& racial group}{7}
 \contentsline {subsection}{Changing Differences}{7}
 \contentsline {paragraph}{Intellectual development state}{7}
 \contentsline {paragraph}{Other development state}{7}
 \contentsline {paragraph}{General prior learning}{7}
 \contentsline {paragraph}{Specific prior learning}{7}
-\contentsline {section}{Task Analysis}{7}
+\contentsline {section}{Task Analysis}{8}
 \contentsline {subsection}{Learning goal}{8}
 \contentsline {subsection}{Types of learning}{8}
 \contentsline {subsection}{Information-processing analysis}{8}
