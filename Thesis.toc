@@ -5,46 +5,43 @@
 \contentsline {subsection}{Needs Assessment}{3}
 \contentsline {subsubsection}{The problem}{4}
 \contentsline {subsubsection}{The innovation}{5}
-\contentsline {paragraph}{Nature of the innovation}{5}
-\contentsline {paragraph}{Learning goals}{5}
-\contentsline {paragraph}{Priority and suitability}{5}
-\contentsline {subsection}{Learning Environment}{5}
+\contentsline {subsection}{Learning Environment}{6}
 \contentsline {paragraph}{Teachers}{6}
 \contentsline {paragraph}{Existing curricula}{6}
-\contentsline {paragraph}{Equipment}{6}
-\contentsline {paragraph}{Facilities}{6}
-\contentsline {paragraph}{Organization}{6}
-\contentsline {paragraph}{Larger system}{6}
-\contentsline {section}{Learner Analysis}{6}
-\contentsline {subsection}{Stable Similarities}{6}
-\contentsline {paragraph}{Sensory capacities}{6}
+\contentsline {paragraph}{Equipment}{7}
+\contentsline {paragraph}{Facilities}{7}
+\contentsline {paragraph}{Organization}{7}
+\contentsline {paragraph}{Larger system}{7}
+\contentsline {section}{Learner Analysis}{7}
+\contentsline {subsection}{Stable Similarities}{7}
+\contentsline {paragraph}{Sensory capacities}{7}
 \contentsline {paragraph}{Information processing}{7}
 \contentsline {paragraph}{Types and conditions of learning}{7}
 \contentsline {subsection}{Changing Similarities}{7}
 \contentsline {paragraph}{Intellectual development processes}{7}
 \contentsline {paragraph}{Language development processes}{7}
-\contentsline {paragraph}{Psychosocial development processes}{7}
-\contentsline {paragraph}{Moral development processes}{7}
-\contentsline {paragraph}{Other development processes}{7}
-\contentsline {subsection}{Stable Differences}{7}
-\contentsline {paragraph}{Aptitudes}{7}
-\contentsline {paragraph}{Cognitive styles}{7}
-\contentsline {paragraph}{Psychosocial traits}{7}
-\contentsline {paragraph}{Gender, ethnicity, \& racial group}{7}
-\contentsline {subsection}{Changing Differences}{7}
-\contentsline {paragraph}{Intellectual development state}{7}
-\contentsline {paragraph}{Other development state}{7}
-\contentsline {paragraph}{General prior learning}{7}
-\contentsline {paragraph}{Specific prior learning}{7}
+\contentsline {paragraph}{Psychosocial development processes}{8}
+\contentsline {paragraph}{Moral development processes}{8}
+\contentsline {paragraph}{Other development processes}{8}
+\contentsline {subsection}{Stable Differences}{8}
+\contentsline {paragraph}{Aptitudes}{8}
+\contentsline {paragraph}{Cognitive styles}{8}
+\contentsline {paragraph}{Psychosocial traits}{8}
+\contentsline {paragraph}{Gender, ethnicity, \& racial group}{8}
+\contentsline {subsection}{Changing Differences}{8}
+\contentsline {paragraph}{Intellectual development state}{8}
+\contentsline {paragraph}{Other development state}{8}
+\contentsline {paragraph}{General prior learning}{8}
+\contentsline {paragraph}{Specific prior learning}{8}
 \contentsline {section}{Task Analysis}{8}
-\contentsline {subsection}{Learning goal}{8}
-\contentsline {subsection}{Types of learning}{8}
-\contentsline {subsection}{Information-processing analysis}{8}
-\contentsline {subsection}{Prerequisite analysis}{8}
-\contentsline {subsection}{Learning objectives}{8}
-\contentsline {subsection}{Test specifications}{8}
-\contentsline {chapter}{Theoretic Framework}{9}
-\contentsline {chapter}{Design}{10}
-\contentsline {chapter}{Development}{11}
-\contentsline {chapter}{Formative Evaluation}{12}
-\contentsline {chapter}{References}{13}
+\contentsline {subsection}{Learning goal}{9}
+\contentsline {subsection}{Types of learning}{9}
+\contentsline {subsection}{Information-processing analysis}{9}
+\contentsline {subsection}{Prerequisite analysis}{9}
+\contentsline {subsection}{Learning objectives}{9}
+\contentsline {subsection}{Test specifications}{9}
+\contentsline {chapter}{Theoretic Framework}{10}
+\contentsline {chapter}{Design}{11}
+\contentsline {chapter}{Development}{12}
+\contentsline {chapter}{Formative Evaluation}{13}
+\contentsline {chapter}{References}{14}
