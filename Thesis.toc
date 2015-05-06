@@ -3,15 +3,12 @@
 \contentsline {chapter}{Analyses}{3}
 \contentsline {section}{Context Analysis}{3}
 \contentsline {subsection}{Needs Assessment}{3}
-\contentsline {paragraph}{The condition}{4}
-\contentsline {paragraph}{The problem}{4}
-\contentsline {paragraph}{Cause of the problem}{5}
-\contentsline {paragraph}{Is the solution learning}{5}
-\contentsline {paragraph}{Instruction currently offered}{5}
+\contentsline {subsubsection}{The problem}{4}
+\contentsline {subsubsection}{The innovation}{5}
 \contentsline {paragraph}{Nature of the innovation}{5}
 \contentsline {paragraph}{Learning goals}{5}
 \contentsline {paragraph}{Priority and suitability}{5}
-\contentsline {subsection}{Learning Environment}{6}
+\contentsline {subsection}{Learning Environment}{5}
 \contentsline {paragraph}{Teachers}{6}
 \contentsline {paragraph}{Existing curricula}{6}
 \contentsline {paragraph}{Equipment}{6}
@@ -19,8 +16,8 @@
 \contentsline {paragraph}{Organization}{6}
 \contentsline {paragraph}{Larger system}{6}
 \contentsline {section}{Learner Analysis}{6}
-\contentsline {subsection}{Stable Similarities}{7}
-\contentsline {paragraph}{Sensory capacities}{7}
+\contentsline {subsection}{Stable Similarities}{6}
+\contentsline {paragraph}{Sensory capacities}{6}
 \contentsline {paragraph}{Information processing}{7}
 \contentsline {paragraph}{Types and conditions of learning}{7}
 \contentsline {subsection}{Changing Similarities}{7}
