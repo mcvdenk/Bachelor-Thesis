@@ -32,6 +32,27 @@ Bloom, B\BPBI S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Cursussen Leraar Natuurkunde (Professional Master) Tilburg |
+  Fontys}}{%
+\APACcitebtitle {Cursussen Leraar Natuurkunde (Professional Master) Tilburg |
+  Fontys}}{%
+{\protect \APACyear {2015}}%
+}]{%
+leraarnatuurkundemaster}
+\APACinsertmetastar {%
+leraarnatuurkundemaster}%
+\APACrefbtitle {Cursussen Leraar Natuurkunde (Professional Master) Tilburg |
+  Fontys.} {Cursussen leraar natuurkunde (professional master) tilburg |
+  fontys.}
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+\begin{APACrefURL} \url{http://fontys.nl/Werk-en-studie/
+  Opleidingen-en-cursussen/Leraar-Natuurkunde-Master/
+  Studiekosten-59/Inhoud-opleiding/Cursussen.htm} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Groenen%
 \ \protect \BOthers {.}}{%
 Groenen%
