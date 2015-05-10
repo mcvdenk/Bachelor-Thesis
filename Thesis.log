@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2015.4.6)  10 MAY 2015 16:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2015.4.6)  10 MAY 2015 16:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -646,36 +646,29 @@ Package pdftex.def Info: genericmodel.png used on input line 128.
  [2 <./genericmodel.png>] [3
 
 ]
-<needsassessment.png, id=24, 747.79375pt x 1056.94875pt>
+<needsassessment.png, id=24, 524.9211pt x 260.8947pt>
 File: needsassessment.png Graphic file (type png)
 
 <use needsassessment.png>
 Package pdftex.def Info: needsassessment.png used on input line 152.
-(pdftex.def)             Requested size: 418.25368pt x 591.17764pt.
-
-
-LaTeX Warning: Float too large for page by 23.39743pt on input line 154.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[4]
+(pdftex.def)             Requested size: 418.25368pt x 207.884pt.
+ [4 <./needsassessment.png>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 174.
 
- (e:/Program Files/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 174.
+ [5]
+[6] [7] [8] [9] [10] [11
 
-[5] [6] [7] [8] [9] [10] [11 <./needsassessment.png>] [12
+] [12
 
 ] [13
 
-] [14
-
-]
-(./Thesis.bbl [15
+] (./Thesis.bbl [14
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 46--54
@@ -694,13 +687,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--54
 \OT1/cmtt/m/n/12 Opleidingen-en-cursussen/Leraar-Natuurkunde-Master/
  []
 
-) [16
+) [15
 
 ] (./Thesis.aux) ) 
 Here is how much of TeX's memory you used:
  5942 strings out of 493109
  88611 string characters out of 6132292
- 173315 words of memory out of 5000000
+ 172314 words of memory out of 5000000
  9301 multiletter control sequences out of 15000+600000
  12668 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -715,10 +708,10 @@ dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><e:/Program Files/texlive/2014/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><e:/Program Files/texlive/2
 014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><e:/Program Files/texl
 ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Thesis.pdf (17 pages, 237313 bytes).
+Output written on Thesis.pdf (16 pages, 306828 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
+ 97 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
