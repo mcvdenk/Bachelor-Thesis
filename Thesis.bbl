@@ -53,6 +53,29 @@ leraarnatuurkundemaster}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Gardner%
+}{%
+Gardner%
+}{%
+{\protect \APACyear {1993}}%
+}]{%
+intelligences}
+\APACinsertmetastar {%
+intelligences}%
+\begin{APACrefauthors}%
+Gardner, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1993}.
+\newblock
+\APACrefbtitle {Frames of mind: the theory of multiple intelligences.} {Frames
+  of mind: the theory of multiple intelligences.}
+\newblock
+\APACaddressPublisher{New York}{Basic Books}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Groenen%
 \ \protect \BOthers {.}}{%
 Groenen%
