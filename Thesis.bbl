@@ -47,9 +47,9 @@ leraarnatuurkundemaster}%
 \newblock
 \APACrefYearMonthDay{2015}{}{}.
 \newblock
-\begin{APACrefURL} \url{http://fontys.nl/Werk-en-studie/
-  Opleidingen-en-cursussen/Leraar-Natuurkunde-Master/
-  Studiekosten-59/Inhoud-opleiding/Cursussen.htm} \end{APACrefURL}
+\begin{APACrefURL} \url{\allowbreak
+  http://fontys.nl/Werk-en-studie/Opleidingen-en-cursussen/Leraar-Natuurkunde-Master/Studiekosten-59/Inhoud-opleiding/Cursussen.htm}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
