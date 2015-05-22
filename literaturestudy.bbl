@@ -1,0 +1,33 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Steehouder%
+\ \protect \BOthers {.}}{%
+Steehouder%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2006}}%
+}]{%
+lerencomm}
+\APACinsertmetastar {%
+lerencomm}%
+\begin{APACrefauthors}%
+Steehouder, M.%
+, Jansen, C.%
+, Maat, K.%
+, van~der Staak, J.%
+, de Vet, D.%
+, Witteveen, M.%
+\BCBL {}\ \BBA {} Woudstra, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2006}.
+\newblock
+\APACrefbtitle {Leren communiceren: Handboek voor mondelinge en schriftelijke
+  communicatie} {Leren communiceren: Handboek voor mondelinge en schriftelijke
+  communicatie}\ (\PrintOrdinal{5}\ \BEd; M.~Gijsen, \BED{}).
+\newblock
+\APACaddressPublisher{Groningen/Houten}{Noordhoff Uitgevers}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
