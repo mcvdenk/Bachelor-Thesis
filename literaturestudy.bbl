@@ -1,6 +1,68 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Adegoke%
+}{%
+Adegoke%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+adegoke}
+\APACinsertmetastar {%
+adegoke}%
+\begin{APACrefauthors}%
+Adegoke, B\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Impact of Interactive Engagement on Reducing the Gender
+  Gap in Quantum Physics Learning Outcomes among Senior Secondary School
+  Students.} {Impact of interactive engagement on reducing the gender gap in
+  quantum physics learning outcomes among senior secondary school
+  students.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Physics Education}{47}{4}{462 - 470}.
+\newblock
+\begin{APACrefURL}
+  \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ1001308&site=ehost-live}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Asikainen%
+\ \BBA {} Hirvonen%
+}{%
+Asikainen%
+\ \BBA {} Hirvonen%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+asikainen}
+\APACinsertmetastar {%
+asikainen}%
+\begin{APACrefauthors}%
+Asikainen, M\BPBI A.%
+\BCBT {}\ \BBA {} Hirvonen, P\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Probing Pre-and In-Service Physics Teachers\&apos;
+  Knowledge Using the Double-Slit Thought Experiment.} {Probing pre-and
+  in-service physics teachers\&apos; knowledge using the double-slit thought
+  experiment.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Science \& Education}{23}{9}{1811 - 1833}.
+\newblock
+\begin{APACrefURL}
+  \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ1040923&site=ehost-live}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Barnes%
 , Garner%
 \BCBL {}\ \BBA {} Reid%
@@ -31,6 +93,42 @@ Barnes, M\BPBI B.%
 \newblock
 \begin{APACrefURL}
   \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ925107&site=ehost-live}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dori%
+, Dangur%
+, Avargil%
+\BCBL {}\ \BBA {} Peskin%
+}{%
+Dori%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+dori}
+\APACinsertmetastar {%
+dori}%
+\begin{APACrefauthors}%
+Dori, Y\BPBI J.%
+, Dangur, V.%
+, Avargil, S.%
+\BCBL {}\ \BBA {} Peskin, U.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Assessing Advanced High School and Undergraduate
+  Students\&apos; Thinking Skills: The Chemistry--From the Nanoscale to
+  Microelectronics Module.} {Assessing advanced high school and undergraduate
+  students\&apos; thinking skills: The chemistry--from the nanoscale to
+  microelectronics module.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Chemical Education}{91}{9}{1306 - 1317}.
+\newblock
+\begin{APACrefURL}
+  \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ1040100&site=ehost-live}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -149,6 +247,33 @@ Hobson, A.%
 \newblock
 \begin{APACrefURL}
   \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ984073&site=ehost-live}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hubber%
+}{%
+Hubber%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+hubber}
+\APACinsertmetastar {%
+hubber}%
+\begin{APACrefauthors}%
+Hubber, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Year 12 Students' Mental Models of the Nature of Light.}
+  {Year 12 students' mental models of the nature of light.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Research in Science Education}{36}{4}{419 - 439}.
+\newblock
+\begin{APACrefURL}
+  \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ748089&site=ehost-live}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -397,6 +522,35 @@ Steehouder, M.%
   communicatie}\ (\PrintOrdinal{5}\ \BEd; M.~Gijsen, \BED{}).
 \newblock
 \APACaddressPublisher{Groningen/Houten}{Noordhoff Uitgevers}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Thacker%
+}{%
+Thacker%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+thacker}
+\APACinsertmetastar {%
+thacker}%
+\begin{APACrefauthors}%
+Thacker, B\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A Study of the Nature of Students' Models of Microscopic
+  Processes in the Context of Modern Physics Experiments.} {A study of the
+  nature of students' models of microscopic processes in the context of modern
+  physics experiments.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{American Journal of Physics}{71}{6}{599 - 606}.
+\newblock
+\begin{APACrefURL}
+  \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ679754&site=ehost-live}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
