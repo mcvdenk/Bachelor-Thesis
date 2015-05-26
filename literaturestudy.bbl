@@ -1,6 +1,40 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Henriksen%
+\ \protect \BOthers {.}}{%
+Henriksen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+henriksen}
+\APACinsertmetastar {%
+henriksen}%
+\begin{APACrefauthors}%
+Henriksen, E\BPBI K.%
+, Bungum, B.%
+, Angell, C.%
+, Tellefsen, C\BPBI W.%
+, Fr\r{a}g\r{a}t, T.%
+\BCBL {}\ \BBA {} B\oe, M\BPBI V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Relativity, Quantum Physics and Philosophy in the Upper
+  Secondary Curriculum: Challenges, Opportunities and Proposed Approaches.}
+  {Relativity, quantum physics and philosophy in the upper secondary
+  curriculum: Challenges, opportunities and proposed approaches.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Physics Education}{49}{6}{678 - 684}.
+\newblock
+\begin{APACrefURL}
+  \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ1044233&site=ehost-live}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 McKagan%
 \ \protect \BOthers {.}}{%
 McKagan%
@@ -34,6 +68,34 @@ McKagan, S\BPBI B.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{http://dx.doi.org/10.1119/1.2885199} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+M\"uller%
+\ \BBA {} Wiesner%
+}{%
+M\"uller%
+\ \BBA {} Wiesner%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+muller}
+\APACinsertmetastar {%
+muller}%
+\begin{APACrefauthors}%
+M\"uller, R.%
+\BCBT {}\ \BBA {} Wiesner, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Teaching quantum mechanics on an introductory level}
+  {Teaching quantum mechanics on an introductory level}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{American Journal of physics}{70}{3}{200-209}.
+\newblock
+\begin{APACrefDOI} \doi{10.1119/1.1435346} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
