@@ -553,4 +553,37 @@ Thacker, B\BPBI A.%
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
+\bibitem [\protect \citeauthoryear {%
+Velentzas%
+, Halkia%
+\BCBL {}\ \BBA {} Skordoulis%
+}{%
+Velentzas%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+velentzas}
+\APACinsertmetastar {%
+velentzas}%
+\begin{APACrefauthors}%
+Velentzas, A.%
+, Halkia, K.%
+\BCBL {}\ \BBA {} Skordoulis, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Thought Experiments in the Theory of Relativity and in
+  Quantum Mechanics: Their Presence in Textbooks and in Popular Science Books.}
+  {Thought experiments in the theory of relativity and in quantum mechanics:
+  Their presence in textbooks and in popular science books.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Science \& Education}{16}{3-5}{353 - 370}.
+\newblock
+\begin{APACrefURL}
+  \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ924554&site=ehost-live}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}

@@ -12,47 +12,45 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: references.bib
-Warning--I didn't find a database entry for "papathotis2"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 18 entries,
+You've used 19 entries,
             6951 wiz_defined-function locations,
-            1395 strings with 15150 characters,
-and the built_in function-call counts, 39637 in all, are:
-= -- 4734
-> -- 285
-< -- 2237
-+ -- 2281
-- -- 37
-* -- 2858
-:= -- 8000
-add.period$ -- 72
-call.type$ -- 18
-change.case$ -- 322
+            1402 strings with 15455 characters,
+and the built_in function-call counts, 42160 in all, are:
+= -- 5028
+> -- 304
+< -- 2399
++ -- 2439
+- -- 39
+* -- 3047
+:= -- 8540
+add.period$ -- 76
+call.type$ -- 19
+change.case$ -- 339
 chr.to.int$ -- 0
-cite$ -- 36
-duplicate$ -- 960
-empty$ -- 1426
-format.name$ -- 496
-if$ -- 7076
+cite$ -- 38
+duplicate$ -- 1016
+empty$ -- 1507
+format.name$ -- 528
+if$ -- 7508
 int.to.chr$ -- 0
-int.to.str$ -- 58
+int.to.str$ -- 61
 missing$ -- 0
-newline$ -- 479
-num.names$ -- 146
-pop$ -- 462
+newline$ -- 507
+num.names$ -- 154
+pop$ -- 487
 preamble$ -- 1
-purify$ -- 72
+purify$ -- 76
 quote$ -- 0
-skip$ -- 2322
+skip$ -- 2457
 stack$ -- 0
-substring$ -- 2420
-swap$ -- 614
-text.length$ -- 36
+substring$ -- 2584
+swap$ -- 650
+text.length$ -- 38
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1440
+type$ -- 1520
 warning$ -- 0
-while$ -- 165
+while$ -- 177
 width$ -- 0
-write$ -- 583
-(There was 1 warning)
+write$ -- 620

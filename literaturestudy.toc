@@ -6,6 +6,5 @@
 \contentsline {subsection}{Current experience from quantum mechanics teaching}{5}
 \contentsline {subsection}{Pre-existing conceptions from students about microscopic phenomena}{6}
 \contentsline {subsection}{Existing teaching strategies}{6}
-\contentsline {subsection}{Aspects important for implementing quantum mechanics teaching}{6}
-\contentsline {section}{Conclusion}{6}
-\contentsline {chapter}{References}{7}
+\contentsline {subsection}{Aspects important for implementing quantum mechanics teaching}{7}
+\contentsline {chapter}{References}{8}
