@@ -1,6 +1,42 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+McKagan%
+\ \protect \BOthers {.}}{%
+McKagan%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+mckagan}
+\APACinsertmetastar {%
+mckagan}%
+\begin{APACrefauthors}%
+McKagan, S\BPBI B.%
+, Perkins, K\BPBI K.%
+, Dubson, M.%
+, Malley, C.%
+, Reid, S.%
+, LeMaster, R.%
+\BCBL {}\ \BBA {} Wieman, C\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Developing and researching PhET simulations for teaching
+  quantum mechanics} {Developing and researching phet simulations for teaching
+  quantum mechanics}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{American Journal of Physics}{76}{4}{406-417}.
+\newblock
+\begin{APACrefURL}
+  \url{http://scitation.aip.org/content/aapt/journal/ajp/76/4/10.1119/1.2885199}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{http://dx.doi.org/10.1119/1.2885199} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Steehouder%
 \ \protect \BOthers {.}}{%
 Steehouder%
