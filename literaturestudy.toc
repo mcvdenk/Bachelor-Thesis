@@ -3,7 +3,7 @@
 \contentsline {section}{Results}{5}
 \contentsline {subsection}{Motivations to teach quantum mechanics}{5}
 \contentsline {subsection}{Intrinsic difficulties of teaching quantum mechanics}{5}
-\contentsline {subsection}{Current experience from quantum mechanics teaching}{6}
+\contentsline {subsection}{Current experience from quantum mechanics teaching}{5}
 \contentsline {subsection}{Aspects important for implementing quantum mechanics teaching}{6}
 \contentsline {subsection}{Pre-existing conceptions from students about microscopic phenomena}{6}
 \contentsline {subsection}{Existing teaching strategies}{6}
