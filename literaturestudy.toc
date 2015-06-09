@@ -1,10 +1,11 @@
 \contentsline {section}{Introduction}{4}
 \contentsline {section}{Method}{4}
 \contentsline {section}{Results}{5}
+\contentsline {subsection}{Topics within quantum mechanics education}{5}
 \contentsline {subsection}{Motivations to teach quantum mechanics}{5}
 \contentsline {subsection}{Intrinsic difficulties of teaching quantum mechanics}{5}
-\contentsline {subsection}{Current experience from quantum mechanics teaching}{5}
+\contentsline {subsection}{Quantum mechanics in current secondary education}{6}
 \contentsline {subsection}{Pre-existing conceptions from students about microscopic phenomena}{6}
-\contentsline {subsection}{Existing teaching strategies}{6}
+\contentsline {subsection}{Teaching strategies}{6}
 \contentsline {subsection}{Aspects important for implementing quantum mechanics teaching}{7}
 \contentsline {chapter}{References}{8}
