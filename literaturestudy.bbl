@@ -190,6 +190,36 @@ Gianino, C.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Groenen%
+\ \protect \BOthers {.}}{%
+Groenen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+eindexamen2016}
+\APACinsertmetastar {%
+eindexamen2016}%
+\begin{APACrefauthors}%
+Groenen, E.%
+, Michels, B.%
+, Smeets, P.%
+, de Leeuw, A.%
+, van~de Poppe, D.%
+, Bouwens, R.%
+\BDBL {}Meek, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{April}{}.
+\newblock
+\APACrefbtitle {Syllabus natuurkunde vwo Centraal Examen 2016, nader
+  vastgesteld.} {Syllabus natuurkunde vwo centraal examen 2016, nader
+  vastgesteld.}
+\newblock
+\APACaddressPublisher{Utrecht}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Henriksen%
 \ \protect \BOthers {.}}{%
 Henriksen%
@@ -275,6 +305,60 @@ Hubber, P.%
 \begin{APACrefURL}
   \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ748089&site=ehost-live}
   \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kuttner%
+\ \BBA {} Rosenblum%
+}{%
+Kuttner%
+\ \BBA {} Rosenblum%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+kuttner}
+\APACinsertmetastar {%
+kuttner}%
+\begin{APACrefauthors}%
+Kuttner, F.%
+\BCBT {}\ \BBA {} Rosenblum, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bell's Theorem and Einstein's "Spooky Actions" from a
+  Simple Thought Experiment.} {Bell's theorem and einstein's "spooky actions"
+  from a simple thought experiment.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Physics Teacher}{48}{2}{124 - 130}.
+\newblock
+\begin{APACrefURL}
+  \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ876109&site=ehost-live}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Laan%
+}{%
+Laan%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+eindexamen2015}
+\APACinsertmetastar {%
+eindexamen2015}%
+\begin{APACrefauthors}%
+Laan, H\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{April}{}.
+\newblock
+\APACrefbtitle {Syllabus Natuurkunde VWO centraal examen 2015.} {Syllabus
+  natuurkunde vwo centraal examen 2015.}
+\newblock
+\APACaddressPublisher{Utrecht}{}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

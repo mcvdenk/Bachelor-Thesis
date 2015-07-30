@@ -12,45 +12,47 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: references.bib
+Warning--I didn't find a database entry for "eduran"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 19 entries,
+You've used 22 entries,
             6951 wiz_defined-function locations,
-            1402 strings with 15455 characters,
-and the built_in function-call counts, 42160 in all, are:
-= -- 5028
-> -- 304
-< -- 2399
-+ -- 2439
-- -- 39
-* -- 3047
-:= -- 8540
-add.period$ -- 76
-call.type$ -- 19
-change.case$ -- 339
+            1418 strings with 15970 characters,
+and the built_in function-call counts, 48159 in all, are:
+= -- 5733
+> -- 355
+< -- 2706
++ -- 2743
+- -- 45
+* -- 3439
+:= -- 9668
+add.period$ -- 89
+call.type$ -- 22
+change.case$ -- 394
 chr.to.int$ -- 0
-cite$ -- 38
-duplicate$ -- 1016
-empty$ -- 1507
-format.name$ -- 528
-if$ -- 7508
+cite$ -- 44
+duplicate$ -- 1192
+empty$ -- 1752
+format.name$ -- 624
+if$ -- 8625
 int.to.chr$ -- 0
-int.to.str$ -- 61
+int.to.str$ -- 70
 missing$ -- 0
-newline$ -- 507
-num.names$ -- 154
-pop$ -- 487
+newline$ -- 584
+num.names$ -- 178
+pop$ -- 680
 preamble$ -- 1
-purify$ -- 76
+purify$ -- 92
 quote$ -- 0
-skip$ -- 2457
+skip$ -- 2736
 stack$ -- 0
-substring$ -- 2584
-swap$ -- 650
-text.length$ -- 38
+substring$ -- 2911
+swap$ -- 740
+text.length$ -- 48
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1520
+type$ -- 1760
 warning$ -- 0
-while$ -- 177
+while$ -- 212
 width$ -- 0
-write$ -- 620
+write$ -- 715
+(There was 1 warning)
