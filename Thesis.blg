@@ -15,45 +15,45 @@ Database file #1: references.bib
 Warning--entry type for "leraarnatuurkundemaster" isn't style-file defined
 --line 661 of file references.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 19 entries,
+You've used 26 entries,
             6951 wiz_defined-function locations,
-            1385 strings with 14705 characters,
-and the built_in function-call counts, 39865 in all, are:
-= -- 4869
-> -- 297
-< -- 2095
-+ -- 2169
-- -- 37
-* -- 2706
-:= -- 7680
-add.period$ -- 76
-call.type$ -- 19
-change.case$ -- 342
+            1436 strings with 16400 characters,
+and the built_in function-call counts, 54720 in all, are:
+= -- 6638
+> -- 398
+< -- 2959
++ -- 3015
+- -- 51
+* -- 3773
+:= -- 10715
+add.period$ -- 104
+call.type$ -- 26
+change.case$ -- 461
 chr.to.int$ -- 0
-cite$ -- 38
-duplicate$ -- 1020
-empty$ -- 1512
-format.name$ -- 524
-if$ -- 7347
+cite$ -- 52
+duplicate$ -- 1357
+empty$ -- 2047
+format.name$ -- 686
+if$ -- 9999
 int.to.chr$ -- 0
-int.to.str$ -- 61
+int.to.str$ -- 82
 missing$ -- 0
-newline$ -- 491
-num.names$ -- 146
-pop$ -- 707
+newline$ -- 674
+num.names$ -- 202
+pop$ -- 870
 preamble$ -- 1
-purify$ -- 79
+purify$ -- 107
 quote$ -- 0
-skip$ -- 2303
+skip$ -- 3191
 stack$ -- 0
-substring$ -- 2320
-swap$ -- 584
-text.length$ -- 42
+substring$ -- 3212
+swap$ -- 804
+text.length$ -- 56
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1616
+type$ -- 2176
 warning$ -- 0
-while$ -- 177
+while$ -- 235
 width$ -- 0
-write$ -- 606
+write$ -- 828
 (There was 1 warning)

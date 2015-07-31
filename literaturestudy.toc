@@ -6,7 +6,7 @@
 \contentsline {subsection}{Intrinsic difficulties of teaching quantum mechanics}{8}
 \contentsline {subsection}{Pre-existing conceptions from students about microscopic phenomena}{8}
 \contentsline {subsection}{Teaching strategies}{9}
-\contentsline {subsection}{Quantum mechanics in current secondary education}{9}
+\contentsline {subsection}{Quantum mechanics in current secondary education}{10}
 \contentsline {subsection}{Aspects important for implementing quantum mechanics teaching}{10}
 \contentsline {section}{Conclusion}{10}
 \contentsline {chapter}{References}{12}

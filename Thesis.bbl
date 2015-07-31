@@ -1,6 +1,36 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Adegoke%
+}{%
+Adegoke%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+adegoke}
+\APACinsertmetastar {%
+adegoke}%
+\begin{APACrefauthors}%
+Adegoke, B\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Impact of Interactive Engagement on Reducing the Gender
+  Gap in Quantum Physics Learning Outcomes among Senior Secondary School
+  Students.} {Impact of interactive engagement on reducing the gender gap in
+  quantum physics learning outcomes among senior secondary school
+  students.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Physics Education}{47}{4}{462 - 470}.
+\newblock
+\begin{APACrefURL}
+  \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ1001308&site=ehost-live}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Asikainen%
 \ \BBA {} Hirvonen%
 }{%
@@ -29,6 +59,40 @@ Asikainen, M\BPBI A.%
 \newblock
 \begin{APACrefURL}
   \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ1040923&site=ehost-live}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Barnes%
+, Garner%
+\BCBL {}\ \BBA {} Reid%
+}{%
+Barnes%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2004}}%
+}]{%
+barnes}
+\APACinsertmetastar {%
+barnes}%
+\begin{APACrefauthors}%
+Barnes, M\BPBI B.%
+, Garner, J.%
+\BCBL {}\ \BBA {} Reid, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Pendulum as a Vehicle for Transitioning from
+  Classical to Quantum Physics: History, Quantum Concepts, and Educational
+  Challenges.} {The pendulum as a vehicle for transitioning from classical to
+  quantum physics: History, quantum concepts, and educational
+  challenges.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Science \& Education}{13}{4-5}{417 - 436}.
+\newblock
+\begin{APACrefURL}
+  \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ925107&site=ehost-live}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -292,6 +356,64 @@ Hobson, A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Hubber%
+}{%
+Hubber%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+hubber}
+\APACinsertmetastar {%
+hubber}%
+\begin{APACrefauthors}%
+Hubber, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Year 12 Students' Mental Models of the Nature of Light.}
+  {Year 12 students' mental models of the nature of light.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Research in Science Education}{36}{4}{419 - 439}.
+\newblock
+\begin{APACrefURL}
+  \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ748089&site=ehost-live}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kuttner%
+\ \BBA {} Rosenblum%
+}{%
+Kuttner%
+\ \BBA {} Rosenblum%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+kuttner}
+\APACinsertmetastar {%
+kuttner}%
+\begin{APACrefauthors}%
+Kuttner, F.%
+\BCBT {}\ \BBA {} Rosenblum, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bell's Theorem and Einstein's "Spooky Actions" from a
+  Simple Thought Experiment.} {Bell's theorem and einstein's "spooky actions"
+  from a simple thought experiment.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Physics Teacher}{48}{2}{124 - 130}.
+\newblock
+\begin{APACrefURL}
+  \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ876109&site=ehost-live}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Laan%
 }{%
 Laan%
@@ -506,6 +628,35 @@ Plomp, T.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Singh%
+, Belloni%
+\BCBL {}\ \BBA {} Christian%
+}{%
+Singh%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2006}}%
+}]{%
+singh2}
+\APACinsertmetastar {%
+singh2}%
+\begin{APACrefauthors}%
+Singh, C.%
+, Belloni, M.%
+\BCBL {}\ \BBA {} Christian, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Improving students' understanding of quantum mechanics}
+  {Improving students' understanding of quantum mechanics}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Physics Today}{59}{8}{43-49}.
+\newblock
+\begin{APACrefDOI} \doi{10.1063/1.2349732} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Smith%
 \ \BBA {} Ragan%
 }{%
@@ -528,6 +679,68 @@ Smith, P\BPBI L.%
 \APACrefbtitle {Instructional Design} {Instructional design}.
 \newblock
 \APACaddressPublisher{Oklahoma}{John Wiley \& Sons, Inc.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Thacker%
+}{%
+Thacker%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+thacker}
+\APACinsertmetastar {%
+thacker}%
+\begin{APACrefauthors}%
+Thacker, B\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A Study of the Nature of Students' Models of Microscopic
+  Processes in the Context of Modern Physics Experiments.} {A study of the
+  nature of students' models of microscopic processes in the context of modern
+  physics experiments.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{American Journal of Physics}{71}{6}{599 - 606}.
+\newblock
+\begin{APACrefURL}
+  \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ679754&site=ehost-live}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Velentzas%
+, Halkia%
+\BCBL {}\ \BBA {} Skordoulis%
+}{%
+Velentzas%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+velentzas}
+\APACinsertmetastar {%
+velentzas}%
+\begin{APACrefauthors}%
+Velentzas, A.%
+, Halkia, K.%
+\BCBL {}\ \BBA {} Skordoulis, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Thought Experiments in the Theory of Relativity and in
+  Quantum Mechanics: Their Presence in Textbooks and in Popular Science Books.}
+  {Thought experiments in the theory of relativity and in quantum mechanics:
+  Their presence in textbooks and in popular science books.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Science \& Education}{16}{3-5}{353 - 370}.
+\newblock
+\begin{APACrefURL}
+  \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ924554&site=ehost-live}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
