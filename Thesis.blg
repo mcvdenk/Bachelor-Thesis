@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Thesis.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: references.bib
+Warning--entry type for "leraarnatuurkundemaster" isn't style-file defined
+--line 661 of file references.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 19 entries,
+            6951 wiz_defined-function locations,
+            1385 strings with 14705 characters,
+and the built_in function-call counts, 39865 in all, are:
+= -- 4869
+> -- 297
+< -- 2095
++ -- 2169
+- -- 37
+* -- 2706
+:= -- 7680
+add.period$ -- 76
+call.type$ -- 19
+change.case$ -- 342
+chr.to.int$ -- 0
+cite$ -- 38
+duplicate$ -- 1020
+empty$ -- 1512
+format.name$ -- 524
+if$ -- 7347
+int.to.chr$ -- 0
+int.to.str$ -- 61
+missing$ -- 0
+newline$ -- 491
+num.names$ -- 146
+pop$ -- 707
+preamble$ -- 1
+purify$ -- 79
+quote$ -- 0
+skip$ -- 2303
+stack$ -- 0
+substring$ -- 2320
+swap$ -- 584
+text.length$ -- 42
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 1616
+warning$ -- 0
+while$ -- 177
+width$ -- 0
+write$ -- 606
+(There was 1 warning)
