@@ -8,27 +8,13 @@
 \contentsline {subsubsection}{The innovation}{10}
 \contentsline {subsection}{Learning Environment}{10}
 \contentsline {section}{Learner Analysis}{12}
-\contentsline {subsection}{Stable Similarities}{12}
-\contentsline {subsection}{Stable Differences}{12}
-\contentsline {subsection}{Changing Similarities}{12}
-\contentsline {paragraph}{Intellectual development processes}{12}
-\contentsline {paragraph}{Language development processes}{13}
-\contentsline {paragraph}{Psychosocial development processes}{13}
-\contentsline {paragraph}{Moral development processes}{13}
-\contentsline {paragraph}{Other development processes}{13}
-\contentsline {subsection}{Changing Differences}{13}
-\contentsline {paragraph}{Intellectual development state}{13}
-\contentsline {paragraph}{Other development state}{13}
-\contentsline {paragraph}{General prior learning}{13}
-\contentsline {paragraph}{Specific prior learning}{13}
-\contentsline {section}{Task Analysis}{13}
-\contentsline {subsection}{Learning goal}{13}
+\contentsline {section}{Task Analysis}{12}
+\contentsline {subsection}{Learning goal}{12}
 \contentsline {subsection}{Types of learning}{13}
-\contentsline {subsection}{Information-processing analysis}{13}
-\contentsline {subsection}{Prerequisite analysis}{13}
-\contentsline {subsection}{Learning objectives}{13}
-\contentsline {subsection}{Test specifications}{13}
-\contentsline {chapter}{Theoretic Framework}{14}
+\contentsline {subsection}{Information-processing analysis}{14}
+\contentsline {subsection}{Prerequisite analysis}{14}
+\contentsline {subsection}{Learning objectives}{14}
+\contentsline {subsection}{Test specifications}{14}
 \contentsline {chapter}{Design}{15}
 \contentsline {chapter}{Development}{16}
 \contentsline {chapter}{Formative Evaluation}{17}

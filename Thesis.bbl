@@ -214,29 +214,6 @@ Erduran, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Gardner%
-}{%
-Gardner%
-}{%
-{\protect \APACyear {1993}}%
-}]{%
-intelligences}
-\APACinsertmetastar {%
-intelligences}%
-\begin{APACrefauthors}%
-Gardner, H.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{1993}.
-\newblock
-\APACrefbtitle {Frames of mind: the theory of multiple intelligences.} {Frames
-  of mind: the theory of multiple intelligences.}
-\newblock
-\APACaddressPublisher{New York}{Basic Books}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Gianino%
 }{%
 Gianino%
@@ -625,6 +602,30 @@ Plomp, T.%
   en trainingen}\ (W.~Toic, \BED{}).
 \newblock
 \APACaddressPublisher{Utrecht}{LEMMA}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Singh%
+}{%
+Singh%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+singh1}
+\APACinsertmetastar {%
+singh1}%
+\begin{APACrefauthors}%
+Singh, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Assessing and improving student understanding of quantum
+  mechanics} {Assessing and improving student understanding of quantum
+  mechanics}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Physics Education Research Conference}{818}{}{69-72}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

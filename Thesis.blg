@@ -17,37 +17,37 @@ Warning--entry type for "leraarnatuurkundemaster" isn't style-file defined
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 You've used 26 entries,
             6951 wiz_defined-function locations,
-            1436 strings with 16400 characters,
-and the built_in function-call counts, 54720 in all, are:
-= -- 6638
+            1437 strings with 16433 characters,
+and the built_in function-call counts, 54869 in all, are:
+= -- 6654
 > -- 398
-< -- 2959
-+ -- 3015
+< -- 2978
++ -- 3030
 - -- 51
-* -- 3773
-:= -- 10715
+* -- 3796
+:= -- 10756
 add.period$ -- 104
 call.type$ -- 26
 change.case$ -- 461
 chr.to.int$ -- 0
 cite$ -- 52
-duplicate$ -- 1357
-empty$ -- 2047
+duplicate$ -- 1356
+empty$ -- 2045
 format.name$ -- 686
-if$ -- 9999
+if$ -- 10017
 int.to.chr$ -- 0
 int.to.str$ -- 82
 missing$ -- 0
 newline$ -- 674
 num.names$ -- 202
-pop$ -- 870
+pop$ -- 847
 preamble$ -- 1
 purify$ -- 107
 quote$ -- 0
-skip$ -- 3191
+skip$ -- 3214
 stack$ -- 0
-substring$ -- 3212
-swap$ -- 804
+substring$ -- 3227
+swap$ -- 809
 text.length$ -- 56
 text.prefix$ -- 0
 top$ -- 1
