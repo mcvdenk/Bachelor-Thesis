@@ -9,4 +9,4 @@
 \contentsline {subsection}{Quantum mechanics in current secondary education}{9}
 \contentsline {subsection}{Aspects important for implementing quantum mechanics teaching}{10}
 \contentsline {section}{Conclusion}{10}
-\contentsline {chapter}{References}{11}
+\contentsline {chapter}{References}{12}
