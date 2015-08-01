@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  1 AUG 2015 15:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  1 AUG 2015 15:23
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -735,13 +735,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [12] [13] <bloom.png, id=59, 589.20125pt x 503.8825pt>
 File: bloom.png Graphic file (type png)
  <use bloom.png>
-Package pdftex.def Info: bloom.png used on input line 313.
+Package pdftex.def Info: bloom.png used on input line 311.
 (pdftex.def)             Requested size: 182.09486pt x 155.72527pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[14] [15 <./bloom.png>] [16
+ [14 <./bloom.png>] [15] [16
 
 ] [17
 
@@ -777,31 +773,36 @@ Underfull \hbox (badness 1253) in paragraph at lines 696--713
 
 ) [20]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 351.
+(Font)              <7> on input line 350.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 351.
+(Font)              <5> on input line 350.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 353.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 352.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 353.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 352.
 
-Overfull \hbox (3.98523pt too wide) in paragraph at lines 353--353
+Overfull \hbox (3.98523pt too wide) in paragraph at lines 352--352
 []|\OT1/ptm/b/n/9 Prerequisite| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--354
+Underfull \hbox (badness 10000) in paragraph at lines 353--353
 []|\OT1/ptm/m/n/10 Applications of
  []
 
 
-Underfull \hbox (badness 2828) in paragraph at lines 355--355
+Underfull \hbox (badness 2828) in paragraph at lines 354--354
 \OT1/ptm/m/n/10 thing we ob-serve ex-ists out of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 359--359
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
 []|\OT1/ptm/m/n/10 Probably pre-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 359--359
+[]|\OT1/ptm/m/n/10 Might be pre-
  []
 
 
@@ -810,13 +811,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 360--360
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 361--361
-[]|\OT1/ptm/m/n/10 Might be pre-
+Underfull \hbox (badness 1661) in paragraph at lines 361--361
+\OT1/ptm/m/n/10 ex-ist out of 2 up-quarks and 1
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 362--362
-\OT1/ptm/m/n/10 ex-ist out of 2 up-quarks and 1
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
+[]|\OT1/ptm/m/n/10 Might be pre-
  []
 
 
@@ -825,8 +826,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 362--362
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 363--363
-[]|\OT1/ptm/m/n/10 Might be pre-
+Underfull \hbox (badness 5302) in paragraph at lines 380--380
+[]|\OT1/ptm/m/n/10 Classical com-mu-ni-
  []
 
 
@@ -845,8 +846,8 @@ Underfull \hbox (badness 5302) in paragraph at lines 383--383
  []
 
 
-Underfull \hbox (badness 5302) in paragraph at lines 384--384
-[]|\OT1/ptm/m/n/10 Classical com-mu-ni-
+Underfull \hbox (badness 3271) in paragraph at lines 384--384
+[]|\OT1/ptm/m/n/10 Observation De-pen-
  []
 
 
@@ -865,18 +866,18 @@ Underfull \hbox (badness 3271) in paragraph at lines 387--387
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 388--388
-[]|\OT1/ptm/m/n/10 Observation De-pen-
+Underfull \hbox (badness 1281) in paragraph at lines 388--388
+[]|\OT1/ptm/m/n/10 Realism and On-tol-
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 389--389
+[]|\OT1/ptm/m/n/10 The stu-dent can state the re-al-ist
  []
 
 
 Underfull \hbox (badness 1281) in paragraph at lines 389--389
 []|\OT1/ptm/m/n/10 Realism and On-tol-
- []
-
-
-Underfull \hbox (badness 1052) in paragraph at lines 390--390
-[]|\OT1/ptm/m/n/10 The stu-dent can state the re-al-ist
  []
 
 
@@ -900,20 +901,15 @@ Underfull \hbox (badness 1281) in paragraph at lines 393--393
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 394--394
-[]|\OT1/ptm/m/n/10 Realism and On-tol-
- []
+LaTeX Warning: Float too large for page by 10.81581pt on input line 396.
 
 
-LaTeX Warning: Float too large for page by 10.81581pt on input line 397.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 431--431
+Underfull \hbox (badness 10000) in paragraph at lines 430--430
 []|\OT1/ptm/m/n/10 The stu-dent can ex-plain why
  []
 
 
-Underfull \hbox (badness 3954) in paragraph at lines 433--433
+Underfull \hbox (badness 3954) in paragraph at lines 432--432
 \OT1/ptm/m/n/10 pens when con-duct-ing quan-tum
  []
 
@@ -944,7 +940,7 @@ ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texliv
 e/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fo
 nts/type1/urw/times/utmri8a.pfb>
-Output written on Thesis.pdf (24 pages, 384559 bytes).
+Output written on Thesis.pdf (24 pages, 384753 bytes).
 PDF statistics:
  123 PDF objects out of 1000 (max. 8388607)
  80 compressed objects within 1 object stream
