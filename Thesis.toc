@@ -19,4 +19,5 @@
 \contentsline {chapter}{Formative Evaluation}{19}
 \contentsline {chapter}{References}{20}
 \contentsline {chapter}{Appendices}{22}
-\contentsline {section}{Complete outline}{22}
+\contentsline {section}{Learning objectives}{22}
+\contentsline {section}{Learning Objectives and Standards}{26}
