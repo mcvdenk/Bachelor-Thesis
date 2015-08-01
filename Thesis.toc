@@ -13,10 +13,10 @@
 \contentsline {subsection}{Teaching strategies}{13}
 \contentsline {subsection}{Prerequisite analysis}{14}
 \contentsline {subsection}{Learning objectives}{14}
-\contentsline {subsection}{Test specifications}{15}
-\contentsline {chapter}{Design}{16}
-\contentsline {chapter}{Development}{17}
-\contentsline {chapter}{Formative Evaluation}{18}
-\contentsline {chapter}{References}{19}
-\contentsline {chapter}{Appendices}{21}
-\contentsline {section}{Complete outline}{21}
+\contentsline {subsection}{Test specifications}{16}
+\contentsline {chapter}{Design}{17}
+\contentsline {chapter}{Development}{18}
+\contentsline {chapter}{Formative Evaluation}{19}
+\contentsline {chapter}{References}{20}
+\contentsline {chapter}{Appendices}{22}
+\contentsline {section}{Complete outline}{22}
