@@ -306,12 +306,13 @@ Furthermore, it is important to look at the pre-existing knowledge about quantum
 
 \citeA{dance} provides a clear conceptual understanding of some of the phenomena occurring within quantum mechanics. The first step was to summarise this book, so learning objectives could be extracted from this book. This summary was then translated into a unidirectional dependency graph, which means that the different elements of the summary were projected into nodes, and the edges between these elements displayed a logical order of teaching the different elements. These elements were then extended by using the taxonomy of Bloom \cite{bloom} (see figure~\ref{fig:bloom}). This made the different elements more defined and also displayed better which skills the student should master in order to achieve all the learning objectives. The graph however cannot be easily displayed on a4 format, this is why it was translated to a table which displays each topics and its prerequisite. This table is included in the appendix Complete outline on page~\pageref{app:completeoutline}.
 
+36 of the learning objectives fall into the knowledge domain within the taxonomy of Bloom, 15 learning objectives fall into the comprehension domain, 3 learning objectives into the application domain, and 2 objectives into the analysis domain. The reason why most of the learning objectives fall into the knowledge domain is because the topic of quantum mechanics is mainly new to the high school student. Because of this, the student first has to learn a lot of new terms and definitions before he can actually comprehend quantum mechanics, for having knowledge is a prerequisite for an eventual understanding of the concepts. However, the main goal of the instruction is comprehension of the concepts, even if there are only 15 learning objectives within this domain, for comprehension leads to conceptual understanding. Application and Analysis is less relevant, this would be more relevant to principle learning, which would be important for learning the algorithmic aspects of quantum mechanics. Any higher domains cannot be reached, for they require mastery of the application and analysis domain. However, this could be achieved next in the curriculum.
+
 \begin{figure}[h]
 \centering
 \includegraphics[width=.4\textwidth]{bloom}
 \caption{\footnotesize The taxonomy of Bloom \protect\cite{bloom}\label{fig:bloom}}
 \end{figure}
-
 
 
 \subsection{Test specifications}
@@ -344,5 +345,98 @@ Every learning objective has to contain a description of the terminal behaviour 
 \label{app:completeoutline}
 
 
+\begin{table}[htbp]
+\small
+\begin{center}
+\begin{tabular}{|c|p{5cm}|p{1.5cm}|c|p{3cm}|}
+\hline
+\textbf{\#} & \textbf{Name} & \textbf{\footnotesize Prerequisite} & \textbf{Taxonomy of bloom} & \textbf{Domain} \\ \hline
+1 & The student can list the different applications of quantum mechanics &  & Knowledge & Applications of quantum mechanics \\ \hline
+2 & The student can state that everything we observe exists out of molecules &  & Knowledge & Pre-knowledge \\ \hline
+3 & The student can state that molecules exist out of atoms & 2 & Knowledge & Pre-knowledge \\ \hline
+4 & The student can state that atoms exist out of protons, neutrons and electrons & 3 & Knowledge & Pre-knowledge \\ \hline
+5 & The student can state what a photon is &  & Knowledge & Pre-knowledge \\ \hline
+6 & The student can state the speed of light & 5 & Knowledge & Probably pre-knowledge \\ \hline
+7 & The student can state the value of the diameter of an atom & 3 & Knowledge & Might be pre-knowledge \\ \hline
+8 & The student can state the value of the Planck Constant &  & Knowledge & Might be pre-knowledge \\ \hline
+9 & The student can state that protons exist out of 2 up-quarks and 1 down-quark & 4 & Knowledge & Might be pre-knowledge \\ \hline
+10 & The student can state that neutrons exist out of 1 up-quark and 2 down-quarks & 4 & Knowledge & Might be pre-knowledge \\ \hline
+11 & The student can state that protons and neutrons are about as heavy, and that electrons have an insignificant weight compared to the other two & 4 & Knowledge & Pre-knowledge \\ \hline
+12 & The student can state that opposite charged particles attract each other & 4 & Knowledge & Pre-knowledge \\ \hline
+13 & The student can state that protons are positively charged & 4 & Knowledge & Pre-knowledge \\ \hline
+\end{tabular}
+\end{center}
+\label{completeoutline}
+\end{table}
+\begin{table}[htbp]
+\small
+\begin{center}
+\begin{tabular}{|c|p{5cm}|p{1.5cm}|c|p{3cm}|}
+\hline
+14 & The student can state that electrons are negatively charged & 4 & Knowledge & Pre-knowledge \\ \hline
+15 & The student can state that neutrons do not have any charge & 4 & Knowledge & Pre-knowledge \\ \hline
+16 & The student can state that photons, electrons and quarks are elementary particles & 9, 10 & Knowledge & Elementary particles \\ \hline
+17 & The student can state the definition of an elementary particle & 16 & Knowledge & Elementary particles \\ \hline
+18 & The student can explain what an elementary particle is & 17 & Comprehension & Elementary particles \\ \hline
+19 & The student can state that classical communication happens by sending particles through a channel & 18 & Knowledge & Classical communication \\ \hline
+20 & The student can state that no particle can travel faster than light & 6 & Knowledge & Classical communication \\ \hline
+21 & The student can explain why messages through a classical communication channel cannot travel faster than the speed of light & 19, 20 & Comprehension & Classical communication \\ \hline
+22 & The student can calculate the time needed to send a message from location A to location B knowing the distance between A and B & 21 & Application & Classical communication \\ \hline
+23 & The student can state certain properties of elementary particles & 11, 12, 13, 14, 15 & Knowledge & Observation Dependency \\ \hline
+24 & The student can state that a property of an elementary particle collapses to a certain value on observation & 23 & Knowledge & Observation Dependency \\ \hline
+25 & The student can state that the collapse of a property of an elementary particle to a certain value is random & 24 & Knowledge & Observation Dependency \\ \hline
+26 & The student can explain what happens to the property of an individual elementary particle if it is observed & 25 & Comprehension & Observation Dependency \\ \hline
+27 & The student can list the two different perceptions on quantum mechanics &  & Knowledge & Realism and Ontology \\ \hline
+28 & The student can state the realist interpretation of the collapse of a property & 26, 27 & Knowledge & Realism and Ontology \\ \hline
+29 & The student can state the ontologist interpretation of the collapse of a property & 26, 27 & Knowledge & Realism and Ontology \\ \hline
+30 & The student can explain the realist interpretation of quantum mechanics & 28 & Comprehension & Realism and Ontology \\ \hline
+31 & The student can explain the ontologist interpretation of quantum mechanics & 29 & Comprehension & Realism and Ontology \\ \hline
+32 & The student can differentiate between a realist interpretation and an ontological interpretation of quantum mechanics & 30, 31 & Comprehension & Realism and Ontology \\ \hline
+\end{tabular}
+\end{center}
+\end{table}
+\begin{table}[htbp]
+\small
+\begin{center}
+\begin{tabular}{|c|p{5cm}|p{1.5cm}|c|p{3cm}|}
+\hline
+33 & The student can state that before observing a property of an elementary particle, it is in a state of superposition & 31 & Knowledge & Superposition \\ \hline
+34 & The student can state the definition of superposition & 33 & Knowledge & Superposition \\ \hline
+35 & The student can explain in what state the property of an elementary particle is before observing this property & 34 & Comprehension & Superposition \\ \hline
+36 & The student can state the definition of entanglement & 26 & Knowledge & Entanglement \\ \hline
+37 & The student can state that entanglement occurs between two elementary particles & 27 & Knowledge & Entanglement \\ \hline
+38 & The student can state that entanglement can take place no matter the distance between the two particles & 37 & Knowledge & Entanglement \\ \hline
+39 & The student can state that entanglement can take place no matter when each particle is observed & 37 & Knowledge & Entanglement \\ \hline
+40 & The student can list the two different types of entanglement & 28 & Knowledge & Entanglement \\ \hline
+41 & The student can state that the properties of two boson entangled particles always collapse to the same state & 29 & Knowledge & Entanglement \\ \hline
+42 & The student can state that the properties of two fermion entangled particles always collapse to each others opposite state & 29 & Knowledge & Entanglement \\ \hline
+43 & The student can explain what happens to the properties of two entangled particles on observation & 41, 42 & Comprehension & Entanglement \\ \hline
+44 & The student can use entanglement to predict which state a particle will collapse to, given the state of an entanglement particles and the type of entanglement & 43 & Application & Entanglement \\ \hline
+45 & The student can deduce the type of entanglement given the states of two entanglement particles & 43 & Analysis & Entanglement \\ \hline
+46 & The student can state the uncertainty principle of Heisenberg & 8, 17 & Knowledge & Uncertainty Principle of Heisenberg \\ \hline
+47 & The student can explain the meaning of each variable in the uncertainty principle of Heisenberg & 46 & Comprehension & Uncertainty Principle of Heisenberg \\ \hline
+48 & The student can explain why the exact location or momentum cannot be known according to the uncertainty principle of Heisenberg & 47 & Comprehension & Uncertainty Principle of Heisenberg \\ \hline
+\end{tabular}
+\end{center}
+\end{table}
+\begin{table}[htbp]
+\small
+\begin{center}
+\begin{tabular}{|c|p{5cm}|p{1.5cm}|c|p{3cm}|}
+\hline
+49 & The student can explain why the position is has to be lesser known if the momentum is better known and vice versa according to the uncertainty principle of Heisenberg & 47 & Comprehension & Uncertainty Principle of Heisenberg \\ \hline
+50 & The student can explain why the uncertainty principle of Heisenberg is only significant when dealing with very small objects & 7, 47 & Comprehension & Uncertainty Principle of Heisenberg \\ \hline
+51 & The student can differentiate between the measurement of the location of a planet and the measurement of the location of an electron & 50 & Comprehension & Uncertainty Principle of Heisenberg \\ \hline
+52 & The student can list the steps of teleportation in science-fiction movies &  & Knowledge & Teleportation \\ \hline
+53 & The student can explain why science-fiction teleportation is not possible & 48 & Comprehension & Teleportation \\ \hline
+54 & The student can list the steps of quantum teleportation & 43 & Knowledge & Teleportation \\ \hline
+55 & The student can explain what happens when conducting quantum teleportation & 54 & Comprehension & Teleportation \\ \hline
+56 & The student can apply the steps of quantum teleportation & 55, 44, 45 & Application & Teleportation \\ \hline
+57 & The student can deduce why quantum teleportation cannot be used to communicate instantly with someone on a different location & 55 & Analysis & Teleportation \\ \hline
+\end{tabular}
+\end{center}
+\caption{A complete outline of the learning objectives used for the instruction. With each learning objective, the name, the direct prerequisites, the category within the taxonomy of Bloom and the domain is provided.}
+\label{completeoutline}
+\end{table}
 
 \end{document}
