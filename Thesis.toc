@@ -6,18 +6,23 @@
 \contentsline {subsection}{Needs Assessment}{8}
 \contentsline {subsubsection}{The problem}{9}
 \contentsline {subsubsection}{The innovation}{10}
-\contentsline {subsection}{Learning Environment}{10}
+\contentsline {subsection}{Learning Environment}{11}
 \contentsline {section}{Learner Analysis}{12}
 \contentsline {section}{Task Analysis}{12}
-\contentsline {subsection}{Learning goal}{12}
+\contentsline {subsection}{Learning goal}{13}
 \contentsline {subsection}{Teaching strategies}{13}
 \contentsline {subsection}{Prerequisite analysis}{14}
 \contentsline {subsection}{Learning objectives}{14}
 \contentsline {subsection}{Test specifications}{16}
-\contentsline {chapter}{Design}{17}
-\contentsline {chapter}{Development}{18}
-\contentsline {chapter}{Formative Evaluation}{19}
-\contentsline {chapter}{References}{20}
-\contentsline {chapter}{Appendices}{22}
-\contentsline {section}{Learning objectives}{22}
-\contentsline {section}{Learning Objectives and Standards}{26}
+\contentsline {section}{Evaluation}{17}
+\contentsline {chapter}{Design}{18}
+\contentsline {section}{Conclusions from the Analysis}{18}
+\contentsline {section}{qCraft}{18}
+\contentsline {section}{Learning events of Instruction}{18}
+\contentsline {chapter}{Development}{19}
+\contentsline {chapter}{Formative Evaluation}{20}
+\contentsline {chapter}{References}{21}
+\contentsline {chapter}{Appendices}{23}
+\contentsline {section}{Learning objectives}{23}
+\contentsline {section}{Learning Objectives and Standards}{27}
+\contentsline {section}{The Evaluation Matchboard}{33}
