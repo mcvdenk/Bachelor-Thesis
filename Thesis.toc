@@ -24,14 +24,16 @@
 \contentsline {subsection}{Possibilities of using qCraft for teaching quantum mechanics}{22}
 \contentsline {section}{Design Principles}{22}
 \contentsline {section}{Outline of the Instruction}{23}
-\contentsline {subsection}{Learning Events of Instruction}{23}
-\contentsline {subsection}{Types of Learning}{23}
-\contentsline {subsection}{Supplantive and Generative Instruction}{23}
-\contentsline {chapter}{Development}{24}
-\contentsline {chapter}{Formative Evaluation}{25}
-\contentsline {chapter}{References}{26}
-\contentsline {chapter}{Appendices}{29}
-\contentsline {section}{Learning objectives}{29}
-\contentsline {section}{Learning Objectives and Standards}{33}
-\contentsline {section}{Design Principles}{39}
-\contentsline {section}{The Evaluation Matchboard}{40}
+\contentsline {subsection}{Learning Events of Instruction}{24}
+\contentsline {subsection}{Types of Learning}{24}
+\contentsline {subsection}{Supplantive and Generative Instruction}{24}
+\contentsline {chapter}{Development}{25}
+\contentsline {chapter}{Formative Evaluation}{26}
+\contentsline {chapter}{References}{27}
+\contentsline {chapter}{Appendices}{30}
+\contentsline {section}{Learning objectives}{30}
+\contentsline {section}{Learning Objectives and Standards}{34}
+\contentsline {section}{Outline of the Instruction}{40}
+\contentsline {subsection}{Minecraft Tutorial}{40}
+\contentsline {subsection}{Introduction}{41}
+\contentsline {section}{The Evaluation Matchboard}{42}

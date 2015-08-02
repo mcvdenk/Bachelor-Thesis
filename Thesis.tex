@@ -449,6 +449,8 @@ Design principles~\ref{itm:models},~\ref{itm:critic}, and~\ref{itm:active} are i
 
 \section{Outline of the Instruction}
 
+The last step of the design phase is to structure the learning objectives in such a way that the instruction can be written.
+
 \subsection{Learning Events of Instruction}
 
 \subsection{Types of Learning}
@@ -779,12 +781,71 @@ Design principles~\ref{itm:models},~\ref{itm:critic}, and~\ref{itm:active} are i
 
 \newpage
 
-\section{Design Principles}
-\label{app:designprinciples}
+\section{Initial Outline of the Instruction}
+\label{app:outline}
 
-\begin{enumerate}
-\item 
-\end{enumerate}
+\subsection{Minecraft Tutorial}
+
+\begin{itemize}
+	\item Moving
+	\begin{itemize}
+		\item A sign telling the player to look around by using the mouse
+		\item A sign on the other side telling the player to move around by using the WASD keys
+	\end{itemize}
+	\item Jumping
+	\begin{itemize}
+		\item A sign telling the player to use the spacebar to jump
+		\item One horizontal bar of one block high forcing the player to jump over it in order to progress
+		\item One vertical gap of one block high forcing the player to jump over it in order to progress
+	\end{itemize}
+	\item Redstone
+	\begin{itemize}
+		\item Signals
+		\begin{itemize}
+			\item One redstone torch connected to a redstone lamp, showing the active signal emitted by a redstone torch
+			\item One normal torch connected to a redstone lamp, showing no signal emitted by a normal torch and providing a point of reference
+			\item One redstone block connected to a redstone lamp, showing the active signal emitted by a redstone torch
+			\item One normal block connected to a redstone lamp, showing no signal emitted by a normal torch and providing a point of reference
+			\item The gestalt principle of separation is used to cluster the torches and the blocks
+		\end{itemize}
+		\item Interaction
+		\begin{itemize}
+			\item A sign telling the player to use the right mouse button in order to interact with objects
+			\item A lever connected to a redstone lamp
+			\item A button connected to a redstone lamp
+			\item A wooden pressure plate connected to a redstone lamp
+			\item A tripwire hook system connected to a redstone lamp
+			\item An iron door at the end, preventing the player from continuing until he has activated every redstone lamp at least once
+		\end{itemize}
+		\item Input blocks
+		\begin{itemize}
+			\item A lever connected to an iron door
+			\item A lever connected to a sticky piston with an iron block
+			\item A lever connected to a dropper with netherstars
+			\item An iron door at the end, preventing the player from continuing until he has activated every lever at least once
+		\end{itemize}
+	\end{itemize}
+	\item Messaging system
+	\begin{itemize}
+		\item A pillar with a button connected to a command block which generates a message through the message system
+		\item An iron door preventing the player from continuing until he has pressed the button
+	\end{itemize}
+	\item Inventory
+	\begin{itemize}
+		\item A sign telling the player to use the E key in order his inventory
+		\item A chest containing a paper named "ticket"
+		\item An iron door at the end preventing the player from continuing
+		\item A dropper in which the ticket can be inserted, upon which the iron door opens
+	\end{itemize}
+	\item Use items and read books
+	\begin{itemize}
+		\item A sign telling the player to use the right mouse button in order to activate items in his inventory
+		\item A book in a chest
+		\item A button at the end of the room, teleporting the player to the qCraft museum
+	\end{itemize}
+\end{itemize}
+
+\subsection{Introduction}
 
 \newpage
 

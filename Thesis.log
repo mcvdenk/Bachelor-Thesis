@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  2 AUG 2015 19:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  2 AUG 2015 20:52
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -743,9 +743,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21 <./screenshot.png (PNG copy)>] [22] [23] [24
+ [21 <./screenshot.png (PNG copy)>] [22] [23] [24] [25
 
-] (./Thesis.bbl [25
+] (./Thesis.bbl [26
 
 ]
 Underfull \hbox (badness 1472) in paragraph at lines 46--64
@@ -766,7 +766,7 @@ OT1/ptm/m/it/10.95 Physics Teacher\OT1/ptm/m/n/10.95 , \OT1/ptm/m/it/10.95 50\O
 T1/ptm/m/n/10.95 (5), 270 -
  []
 
-[26
+[27
 
 ]
 Underfull \hbox (badness 1253) in paragraph at lines 722--739
@@ -775,48 +775,33 @@ Underfull \hbox (badness 1253) in paragraph at lines 722--739
 .95 71\OT1/ptm/m/n/10.95 (6), 599 -
  []
 
-[27]) [28]
+[28]) [29]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 482.
+(Font)              <7> on input line 484.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 482.
+(Font)              <5> on input line 484.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 484.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 486.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 484.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 486.
 
-Overfull \hbox (3.98523pt too wide) in paragraph at lines 484--484
+Overfull \hbox (3.98523pt too wide) in paragraph at lines 486--486
 []|\OT1/ptm/b/n/9 Prerequisite| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 485--485
+Underfull \hbox (badness 10000) in paragraph at lines 487--487
 []|\OT1/ptm/m/n/10 Applications of
  []
 
 
-Underfull \hbox (badness 2828) in paragraph at lines 486--486
+Underfull \hbox (badness 2828) in paragraph at lines 488--488
 \OT1/ptm/m/n/10 thing we ob-serve ex-ists out of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--490
-[]|\OT1/ptm/m/n/10 Probably pre-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 491--491
-[]|\OT1/ptm/m/n/10 Might be pre-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 492--492
-[]|\OT1/ptm/m/n/10 Might be pre-
- []
-
-
-Underfull \hbox (badness 1661) in paragraph at lines 493--493
-\OT1/ptm/m/n/10 ex-ist out of 2 up-quarks and 1
+[]|\OT1/ptm/m/n/10 Probably pre-
  []
 
 
@@ -830,13 +815,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 494--494
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 512--512
-[]|\OT1/ptm/m/n/10 Classical Com-mu-ni-
+Underfull \hbox (badness 1661) in paragraph at lines 495--495
+\OT1/ptm/m/n/10 ex-ist out of 2 up-quarks and 1
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 513--513
-[]|\OT1/ptm/m/n/10 Classical Com-mu-ni-
+Underfull \hbox (badness 10000) in paragraph at lines 495--495
+[]|\OT1/ptm/m/n/10 Might be pre-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--496
+[]|\OT1/ptm/m/n/10 Might be pre-
  []
 
 
@@ -850,13 +840,13 @@ Underfull \hbox (badness 1173) in paragraph at lines 515--515
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 516--516
-[]|\OT1/ptm/m/n/10 Observation De-pen-
+Underfull \hbox (badness 1173) in paragraph at lines 516--516
+[]|\OT1/ptm/m/n/10 Classical Com-mu-ni-
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 517--517
-[]|\OT1/ptm/m/n/10 Observation De-pen-
+Underfull \hbox (badness 1173) in paragraph at lines 517--517
+[]|\OT1/ptm/m/n/10 Classical Com-mu-ni-
  []
 
 
@@ -870,23 +860,23 @@ Underfull \hbox (badness 3271) in paragraph at lines 519--519
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 520--520
-[]|\OT1/ptm/m/n/10 Realism and On-tol-
+Underfull \hbox (badness 3271) in paragraph at lines 520--520
+[]|\OT1/ptm/m/n/10 Observation De-pen-
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 521--521
-[]|\OT1/ptm/m/n/10 The stu-dent can state the re-al-ist
- []
-
-
-Underfull \hbox (badness 1281) in paragraph at lines 521--521
-[]|\OT1/ptm/m/n/10 Realism and On-tol-
+Underfull \hbox (badness 3271) in paragraph at lines 521--521
+[]|\OT1/ptm/m/n/10 Observation De-pen-
  []
 
 
 Underfull \hbox (badness 1281) in paragraph at lines 522--522
 []|\OT1/ptm/m/n/10 Realism and On-tol-
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 523--523
+[]|\OT1/ptm/m/n/10 The stu-dent can state the re-al-ist
  []
 
 
@@ -900,54 +890,64 @@ Underfull \hbox (badness 1281) in paragraph at lines 524--524
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 533--533
+Underfull \hbox (badness 1281) in paragraph at lines 525--525
 []|\OT1/ptm/m/n/10 Realism and On-tol-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 562--562
+Underfull \hbox (badness 1281) in paragraph at lines 526--526
+[]|\OT1/ptm/m/n/10 Realism and On-tol-
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 535--535
+[]|\OT1/ptm/m/n/10 Realism and On-tol-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 564--564
 []|\OT1/ptm/m/n/10 The stu-dent can ex-plain why
  []
 
 
-Underfull \hbox (badness 3954) in paragraph at lines 564--564
+Underfull \hbox (badness 3954) in paragraph at lines 566--566
 \OT1/ptm/m/n/10 pens when con-duct-ing quan-tum
  []
 
-[29
+[30
 
-] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39]
-<Evaluation_matchboard-1.png, id=149, 3320.405pt x 2347.77126pt>
+] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41]
+<Evaluation_matchboard-1.png, id=155, 3320.405pt x 2347.77126pt>
 File: Evaluation_matchboard-1.png Graphic file (type png)
 
 <use Evaluation_matchboard-1.png>
-Package pdftex.def Info: Evaluation_matchboard-1.png used on input line 796.
+Package pdftex.def Info: Evaluation_matchboard-1.png used on input line 857.
 (pdftex.def)             Requested size: 3320.39694pt x 2347.76556pt.
 
-<Evaluation_matchboard-2.png, id=150, 3320.405pt x 2347.77126pt>
+<Evaluation_matchboard-2.png, id=156, 3320.405pt x 2347.77126pt>
 File: Evaluation_matchboard-2.png Graphic file (type png)
 
 <use Evaluation_matchboard-2.png>
-Package pdftex.def Info: Evaluation_matchboard-2.png used on input line 801.
+Package pdftex.def Info: Evaluation_matchboard-2.png used on input line 862.
 (pdftex.def)             Requested size: 3320.39694pt x 2347.76556pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[40 <./Evaluation_matchboard-1.png>] [41 <./Evaluation_matchboard-2.png>]
+[42 <./Evaluation_matchboard-1.png>] [43 <./Evaluation_matchboard-2.png>]
 (./Thesis.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6210 strings out of 493117
- 91666 string characters out of 6135433
- 206523 words of memory out of 5000000
- 9540 multiletter control sequences out of 15000+600000
+ 6211 strings out of 493117
+ 91681 string characters out of 6135433
+ 205522 words of memory out of 5000000
+ 9541 multiletter control sequences out of 15000+600000
  31825 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,12n,43p,1670b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,12n,43p,1670b,387s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texl
@@ -962,10 +962,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on Thesis.pdf (41 pages, 2171346 bytes).
+Output written on Thesis.pdf (43 pages, 2173580 bytes).
 PDF statistics:
- 205 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
+ 212 PDF objects out of 1000 (max. 8388607)
+ 139 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
