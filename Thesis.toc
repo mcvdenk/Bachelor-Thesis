@@ -17,12 +17,17 @@
 \contentsline {section}{Evaluation}{17}
 \contentsline {chapter}{Design}{18}
 \contentsline {section}{Conclusions from the Analysis}{18}
-\contentsline {section}{qCraft}{18}
-\contentsline {section}{Learning events of Instruction}{18}
-\contentsline {chapter}{Development}{19}
-\contentsline {chapter}{Formative Evaluation}{20}
-\contentsline {chapter}{References}{21}
-\contentsline {chapter}{Appendices}{23}
-\contentsline {section}{Learning objectives}{23}
-\contentsline {section}{Learning Objectives and Standards}{27}
-\contentsline {section}{The Evaluation Matchboard}{33}
+\contentsline {section}{The Medium}{19}
+\contentsline {section}{Design Principles}{19}
+\contentsline {section}{Outline of the Instruction}{19}
+\contentsline {subsection}{Types of Learning}{19}
+\contentsline {subsection}{Learning Events of Instruction}{19}
+\contentsline {subsection}{Supplantive and Generative Instruction}{19}
+\contentsline {chapter}{Development}{20}
+\contentsline {chapter}{Formative Evaluation}{21}
+\contentsline {chapter}{References}{22}
+\contentsline {chapter}{Appendices}{24}
+\contentsline {section}{Learning objectives}{24}
+\contentsline {section}{Learning Objectives and Standards}{28}
+\contentsline {section}{Design Principles}{34}
+\contentsline {section}{The Evaluation Matchboard}{35}
