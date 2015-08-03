@@ -45,6 +45,6 @@
 \contentsline {subsubsection}{qCraft tutorial}{47}
 \contentsline {subsubsection}{Realism and Ontology, Superposition (Concept)}{48}
 \contentsline {subsubsection}{Uncertainty Principle of Heisenberg (Principle)}{49}
-\contentsline {subsubsection}{Quantum Teleportation (Procedure)}{49}
-\contentsline {subsection}{Conclusion}{49}
-\contentsline {section}{The Evaluation Matchboard}{50}
+\contentsline {subsubsection}{Quantum Teleportation (Procedure)}{50}
+\contentsline {subsection}{Conclusion}{50}
+\contentsline {section}{The Evaluation Matchboard}{51}
