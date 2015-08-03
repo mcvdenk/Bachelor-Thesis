@@ -33,7 +33,18 @@
 \contentsline {chapter}{Appendices}{30}
 \contentsline {section}{Learning objectives}{30}
 \contentsline {section}{Learning Objectives and Standards}{34}
-\contentsline {section}{Outline of the Instruction}{40}
+\contentsline {section}{Initial Framework for the Instruction}{40}
 \contentsline {subsection}{Minecraft Tutorial}{40}
 \contentsline {subsection}{Introduction}{41}
-\contentsline {section}{The Evaluation Matchboard}{42}
+\contentsline {subsection}{Body}{42}
+\contentsline {subsubsection}{The Rutherford-Bohr Model of the Atom and Elementary Particles (Concept)}{42}
+\contentsline {subsubsection}{Theory of Relativity and Classical Communication (Declarative Knowledge)}{43}
+\contentsline {subsubsection}{Observer Dependency (Concept)}{43}
+\contentsline {subsubsection}{Quantum Blocks and Random Collapse}{44}
+\contentsline {subsubsection}{Entanglement (Concept)}{44}
+\contentsline {subsubsection}{qCraft tutorial}{44}
+\contentsline {subsubsection}{Realism and Ontology, Superposition (Concept)}{44}
+\contentsline {subsubsection}{Uncertainty Principle of Heisenberg (Principle)}{44}
+\contentsline {subsubsection}{Quantum Teleportation (Procedure)}{45}
+\contentsline {subsection}{Conclusion}{45}
+\contentsline {section}{The Evaluation Matchboard}{46}

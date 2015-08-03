@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  2 AUG 2015 20:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  3 AUG 2015 12:46
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -916,38 +916,38 @@ Underfull \hbox (badness 3954) in paragraph at lines 566--566
 
 [30
 
-] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41]
-<Evaluation_matchboard-1.png, id=155, 3320.405pt x 2347.77126pt>
+] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44]
+[45] <Evaluation_matchboard-1.png, id=168, 3320.405pt x 2347.77126pt>
 File: Evaluation_matchboard-1.png Graphic file (type png)
 
 <use Evaluation_matchboard-1.png>
-Package pdftex.def Info: Evaluation_matchboard-1.png used on input line 857.
+Package pdftex.def Info: Evaluation_matchboard-1.png used on input line 1055.
 (pdftex.def)             Requested size: 3320.39694pt x 2347.76556pt.
 
-<Evaluation_matchboard-2.png, id=156, 3320.405pt x 2347.77126pt>
+<Evaluation_matchboard-2.png, id=169, 3320.405pt x 2347.77126pt>
 File: Evaluation_matchboard-2.png Graphic file (type png)
 
 <use Evaluation_matchboard-2.png>
-Package pdftex.def Info: Evaluation_matchboard-2.png used on input line 862.
+Package pdftex.def Info: Evaluation_matchboard-2.png used on input line 1060.
 (pdftex.def)             Requested size: 3320.39694pt x 2347.76556pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[42 <./Evaluation_matchboard-1.png>] [43 <./Evaluation_matchboard-2.png>]
+[46 <./Evaluation_matchboard-1.png>] [47 <./Evaluation_matchboard-2.png>]
 (./Thesis.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6211 strings out of 493117
- 91681 string characters out of 6135433
- 205522 words of memory out of 5000000
- 9541 multiletter control sequences out of 15000+600000
+ 6213 strings out of 493117
+ 91714 string characters out of 6135433
+ 205523 words of memory out of 5000000
+ 9543 multiletter control sequences out of 15000+600000
  31825 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,12n,43p,1670b,387s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,12n,43p,1670b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texl
@@ -962,10 +962,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on Thesis.pdf (43 pages, 2173580 bytes).
+Output written on Thesis.pdf (47 pages, 2182441 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 139 compressed objects within 2 object streams
+ 224 PDF objects out of 1000 (max. 8388607)
+ 147 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
