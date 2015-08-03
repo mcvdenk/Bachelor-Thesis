@@ -46,5 +46,5 @@
 \contentsline {subsubsection}{Realism and Ontology, Superposition (Concept)}{48}
 \contentsline {subsubsection}{Uncertainty Principle of Heisenberg (Principle)}{49}
 \contentsline {subsubsection}{Quantum Teleportation (Procedure)}{50}
-\contentsline {subsection}{Conclusion}{50}
-\contentsline {section}{The Evaluation Matchboard}{51}
+\contentsline {subsection}{Conclusion}{51}
+\contentsline {section}{The Evaluation Matchboard}{52}
