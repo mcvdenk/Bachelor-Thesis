@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  3 AUG 2015 13:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  3 AUG 2015 14:01
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -917,24 +917,25 @@ Underfull \hbox (badness 3954) in paragraph at lines 566--566
 [30
 
 ] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44]
-[45] [46] <Evaluation_matchboard-1.png, id=171, 3320.405pt x 2347.77126pt>
+[45] [46] [47]
+<Evaluation_matchboard-1.png, id=174, 3320.405pt x 2347.77126pt>
 File: Evaluation_matchboard-1.png Graphic file (type png)
 
 <use Evaluation_matchboard-1.png>
-Package pdftex.def Info: Evaluation_matchboard-1.png used on input line 1127.
+Package pdftex.def Info: Evaluation_matchboard-1.png used on input line 1168.
 (pdftex.def)             Requested size: 3320.39694pt x 2347.76556pt.
 
-<Evaluation_matchboard-2.png, id=172, 3320.405pt x 2347.77126pt>
+<Evaluation_matchboard-2.png, id=175, 3320.405pt x 2347.77126pt>
 File: Evaluation_matchboard-2.png Graphic file (type png)
 
 <use Evaluation_matchboard-2.png>
-Package pdftex.def Info: Evaluation_matchboard-2.png used on input line 1132.
+Package pdftex.def Info: Evaluation_matchboard-2.png used on input line 1173.
 (pdftex.def)             Requested size: 3320.39694pt x 2347.76556pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[47 <./Evaluation_matchboard-1.png>] [48 <./Evaluation_matchboard-2.png>]
+[48 <./Evaluation_matchboard-1.png>] [49 <./Evaluation_matchboard-2.png>]
 (./Thesis.aux)
 
 LaTeX Warning: There were multiply-defined labels.
@@ -962,10 +963,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on Thesis.pdf (48 pages, 2185307 bytes).
+Output written on Thesis.pdf (49 pages, 2187118 bytes).
 PDF statistics:
- 227 PDF objects out of 1000 (max. 8388607)
- 149 compressed objects within 2 object streams
+ 231 PDF objects out of 1000 (max. 8388607)
+ 152 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

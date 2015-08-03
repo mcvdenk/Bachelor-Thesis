@@ -41,10 +41,10 @@
 \contentsline {subsubsection}{Theory of Relativity and Classical Communication (Declarative Knowledge)}{43}
 \contentsline {subsubsection}{Observer Dependency (Concept)}{44}
 \contentsline {subsubsection}{Quantum Blocks and Random Collapse}{45}
-\contentsline {subsubsection}{Entanglement (Concept)}{45}
-\contentsline {subsubsection}{qCraft tutorial}{45}
+\contentsline {subsubsection}{Entanglement (Concept)}{46}
+\contentsline {subsubsection}{qCraft tutorial}{46}
 \contentsline {subsubsection}{Realism and Ontology, Superposition (Concept)}{46}
-\contentsline {subsubsection}{Uncertainty Principle of Heisenberg (Principle)}{46}
-\contentsline {subsubsection}{Quantum Teleportation (Procedure)}{46}
-\contentsline {subsection}{Conclusion}{46}
-\contentsline {section}{The Evaluation Matchboard}{47}
+\contentsline {subsubsection}{Uncertainty Principle of Heisenberg (Principle)}{47}
+\contentsline {subsubsection}{Quantum Teleportation (Procedure)}{47}
+\contentsline {subsection}{Conclusion}{47}
+\contentsline {section}{The Evaluation Matchboard}{48}
