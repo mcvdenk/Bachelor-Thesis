@@ -43,8 +43,8 @@
 \contentsline {subsubsection}{Quantum Blocks and Random Collapse}{45}
 \contentsline {subsubsection}{Entanglement (Concept)}{46}
 \contentsline {subsubsection}{qCraft tutorial}{47}
-\contentsline {subsubsection}{Realism and Ontology, Superposition (Concept)}{47}
-\contentsline {subsubsection}{Uncertainty Principle of Heisenberg (Principle)}{47}
+\contentsline {subsubsection}{Realism and Ontology, Superposition (Concept)}{48}
+\contentsline {subsubsection}{Uncertainty Principle of Heisenberg (Principle)}{48}
 \contentsline {subsubsection}{Quantum Teleportation (Procedure)}{48}
 \contentsline {subsection}{Conclusion}{48}
 \contentsline {section}{The Evaluation Matchboard}{49}
