@@ -56,5 +56,8 @@
 \contentsline {subsubsection}{Quantum Blocks}{59}
 \contentsline {subsubsection}{Realism and Ontology, Superposition (Concept)}{60}
 \contentsline {subsubsection}{Superposition}{61}
-\contentsline {section}{Room designs}{63}
-\contentsline {section}{The Evaluation Matchboard}{64}
+\contentsline {subsubsection}{Uncertainty Principle of Heisenberg (Principle)}{62}
+\contentsline {subsubsection}{Classical Communication}{63}
+\contentsline {subsubsection}{Entanglement}{64}
+\contentsline {section}{Floorplans}{65}
+\contentsline {section}{The Evaluation Matchboard}{66}
