@@ -47,4 +47,6 @@
 \contentsline {subsubsection}{Uncertainty Principle of Heisenberg (Principle)}{49}
 \contentsline {subsubsection}{Quantum Teleportation (Procedure)}{50}
 \contentsline {subsection}{Conclusion}{52}
-\contentsline {section}{The Evaluation Matchboard}{54}
+\contentsline {section}{Framework for the Second Version of the Quantum Teleportation Experiment}{54}
+\contentsline {section}{Final Framework}{56}
+\contentsline {section}{The Evaluation Matchboard}{56}
