@@ -55,5 +55,6 @@
 \contentsline {subsubsection}{Observer Dependency}{58}
 \contentsline {subsubsection}{Quantum Blocks}{59}
 \contentsline {subsubsection}{Realism and Ontology, Superposition (Concept)}{60}
-\contentsline {section}{Room designs}{62}
-\contentsline {section}{The Evaluation Matchboard}{63}
+\contentsline {subsubsection}{Superposition}{61}
+\contentsline {section}{Room designs}{63}
+\contentsline {section}{The Evaluation Matchboard}{64}
