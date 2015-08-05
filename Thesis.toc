@@ -38,7 +38,8 @@
 \contentsline {subsection}{Minecraft Tutorial}{42}
 \contentsline {subsection}{Introduction}{43}
 \contentsline {subsection}{Body}{44}
-\contentsline {subsubsection}{The Rutherford-Bohr Model of the Atom and Elementary Particles (Concept)}{44}
+\contentsline {subsubsection}{The Rutherford-Bohr Model of the Atom (Declarative Knowledge)}{44}
+\contentsline {subsubsection}{Elementary Particles (Concept)}{44}
 \contentsline {subsubsection}{Theory of Relativity and Classical Communication (Declarative Knowledge)}{45}
 \contentsline {subsubsection}{Observer Dependency (Concept)}{46}
 \contentsline {subsubsection}{Quantum Blocks and Random Collapse}{47}

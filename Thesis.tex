@@ -305,7 +305,9 @@ Furthermore, it is important to look at the pre-existing knowledge about quantum
 
 \subsection{Learning objectives}
 
-\citeA{dance} provides a clear conceptual understanding of some of the phenomena occurring within quantum mechanics. The first step was to summarise this book, so learning objectives could be extracted from this book. This summary was then translated into a unidirectional dependency graph, which means that the different elements of the summary were projected into nodes, and the edges between these elements displayed a logical order of teaching the different elements. These elements were then extended by using the taxonomy of Bloom \cite{bloom} (see figure~\ref{fig:bloom}). This made the different elements more defined and also displayed better which skills the student should master in order to achieve all the learning objectives. The graph however cannot be easily displayed on a4 format, this is why it was translated to a table which displays each topics and its prerequisite. This table is included in the appendix \emph{Learning Objectives} on page~\pageref{app:learningobjectives}.
+\citeA{dance} provides a clear conceptual understanding of some of the phenomena occurring within quantum mechanics. The first step was to summarise this book, so learning objectives could be extracted from this book. This summary was then translated into a unidirectional dependency graph, which means that the different elements of the summary were projected into nodes, and the edges between these elements displayed a logical order of teaching the different elements. These elements were then extended by using the taxonomy of Bloom \cite{bloom} (see figure~\ref{fig:bloom}). This taxonomy describes six levels of learning objectives, which are Knowledge, Comprehension, Application, Analysis, Synthesis, and Evaluation. Before a higher level objective can be reached, all lower level relevant to that objectives have to be achieved first. Every level also has his own defined action verbs which have to be used for writing the objective. For example, Knowledge level objectives use action verbs such as "state" and "list", whereas Comprehension level objectives use verbs such as "explain" and "differentiate".
+
+Using the taxonomy of Bloom made the different elements better defined and also displayed better in which order the student should master the learning objectives. The graph cannot be easily displayed on a4 format, this is why it was translated to a table which displays each topics and its prerequisite. This table is included in the appendix \emph{Learning Objectives} on page~\pageref{app:learningobjectives}.
 
 \begin{figure}[h]
 \centering
@@ -494,7 +496,25 @@ After the instruction, the student can be assessed, so the instructor knows what
 
 \subsection{Supplantive and Generative Instruction}
 
+As can be seen in table~\ref{tab:eventsinstruction}, each event can be performed in a generative way or a supplantive way. According to \citeA{smithragan}, the choice between generative and supplantive strategies is a balance between a low and a high level of scaffolding. With a high level of scaffolding, the instructor is able to decide and define exactly how the events are used and how the content is delivered. The advantage of a high level of scaffolding is that misconceptions can be prevented, that the content is more connected to the learning objectives and that the learning task is easier to perform. However, the more supplantive an instruction is, the less active the learner has to be during the instruction. With a lower level of scaffolding, the student has to be active in order to learn the content and in order to decide what has to be learned from the instruction, which enhances the learning process.
+
+Because the literature suggests the use of thought experiments and therefore also triggering reconsideration of the own models of students, critical thinking, an active learning style, extracting results and drawing conclusions as specified in design principles \ref{itm:models}, \ref{itm:critic}, \ref{itm:active}, \ref{itm:results}, and \ref{itm:conclusions} on page~\pageref{itm:models}, generative strategies have to be applied when providing the information to the students. This can be achieved by letting the students discover the mechanics behind the blocks introduced by qCraft for themselves. However, it is also important that the students receive proper feedback on their observations as specified in design principles \ref{itm:language}, \ref{itm:links}, \ref{itm:realworld}, and \ref{itm:feedback}, therefore scaffolding has to be provided during the feedback event. This can be achieved by providing feedback within books.
+
 \subsection{Types of Learning}
+
+The final step before writing the framework itself is determining the type of learning of the instruction. Normally, only one type of learning forms the base for the whole instruction. However, because there is a variety of content domains, the decision was made to give each domain an own type of learning, albeit that most domains fall within concept learning.
+
+As the name might already suggest, the Pre-knowledge domain falls within the Declarative Knowledge type of learning. Declarative knowledge does not require the student to apply their knowledge but focuses only on memorising the content. This is also the case for the Pre-knowledge domain, for it only requires the student to memorise the order and structures of the atom. Furthermore, only focusing on the memorised facts is sufficient, for the student is presumed to already know these concepts and relations. The Applications of Quantum Mechanics is also only provided as declarative knowledge, for the applications are merely referenced and not further explained.
+
+The elementary particle however is a new concept, and therefore understanding it falls within the intellectual skills, making this domain the type of concept learning. This entails not only learning the definition of the concept, but also learning to classify examples of the concept by using the definition or learning to differentiate between other concepts.
+
+One might think that the behaviour of elementary particles, which is observation dependency, superposition and entanglement, might fall under principle learning, for the behaviour is something describing the objects and is not being an object itself. However, \citeA{smithragan} not only define objects as concepts, but also words such as "heat" or "up". The definition used before also applies to behaviour, for the student still has to learn how to classify certain behaviour or differentiate between different behaviours.
+
+Realism and Ontology are considered to be concepts as well, for the student has to learn the difference between the two concepts and have to be able to classify certain statements as being realistic or ontological.
+
+The uncertainty principle of Heisenberg however is a principle, as the name already suggests. It defines a relation between the concepts "uncertainty", "location", "momentum", "speed", "greater than or equal to", and "reduced Planck constant". These concepts do not need to be explained separately, for the student should already know them. An exception is the reduced Planck constant, however the student only needs to know that it is a constant which has the value of $1.0 \cdot 10^{-34}$, and the concept of a constant should not be difficult for a physics student in upper secondary education. A principle should be comprehended by the student on a relation level, so the student should learn what happens to a variable if the value of the other variable would change. However, the student first needs to be aware of the meaning of the variables before learning the principle itself.
+
+Finally, the teleportation experiment will be taught at a procedural level, which means that the student should learn the steps of a procedure and how to perform the procedure.
 
 \subsection{Initial Framework}
 
@@ -936,502 +956,505 @@ After the instruction, the student can be assessed, so the instructor knows what
 
 \subsection{Body}
 
-\subsubsection{The Rutherford-Bohr Model of the Atom and Elementary Particles (Concept)}
+\subsubsection{The Rutherford-Bohr Model of the Atom (Declarative Knowledge)}
+\begin{itemize}
+	\item A chest with a book
+	\item Two pictures on the wall:
 	\begin{itemize}
-		\item A chest with a book
-		\item Two pictures on the wall:
-		\begin{itemize}
-			\item A picture of Niels Bohr
-			\item A picture of the Rutherford-Bohr Model of the Atom similar to figure~\ref{fig:bohrmodel} on page~\pageref{fig:bohrmodel}
-		\end{itemize}
-		\item Prior Knowledge
-		\begin{itemize}
-			\item (Beginning of book)
-			\item Everything around us exists out of molecules
-			\item Molecules exist out of atoms
-			\item Atoms are made out of a core, the nucleus, and a shell, the electrons
-			\item The nucleus of an atom exists out of protons and neutrons
-			\item The electrons stay in the shell of an atom, because electrons and protons are attracted to each other
-			\item At this point the book refers to a picture shown on a wall, which depicts the Rutherford-Bohr Atom Model
-			\item This attraction is caused by electrons having a negative charge and protons having a positive charge
-			\item Neutrons do not have any charge
-			\item There are other nanoscopic particles, a very famous one is the photon
-			\item The photon is known as the light particle
-		\end{itemize}
-		\item Information and examples
-		\begin{itemize}
-			\item A proton or a neutron consists out of three quarks
-			\item Quarks, electrons and photons are considered to be elementary particles
-			\item An elementary particle is a particle of which we don’t know its substructure
-			\item This means that we don’t know what the elementary particles are composed of
-		\end{itemize}
-		\item Focus attention
-		\begin{itemize}
-			\item The book emphasises that it is sufficient to know that elementary particles exist, and that these are the particles which demonstrate quantum behaviour
-			\item {End of book}
-		\end{itemize}
-		\item Learning strategies
-		\begin{itemize}
-			\item To enhance learning, the concepts are combined in the picture on the wall depicting the Rutherford-Bohr Model of the Atom
-		\end{itemize}
-		\item Practice and Feedback
-		\begin{itemize}
-			\item After reading the book, the student has to go through a multiple choice test
-			\begin{itemize}
-				\item An atom consists out of:
-				\begin{itemize}
-					\item A nucleus and shell (correct)
-					\item Photons
-				\end{itemize}
-				\item The shell of an atom consists out of:
-				\begin{itemize}
-					\item Photons
-					\item Neutrons
-					\item Electrons (correct)
-					\item Quarks
-				\end{itemize}
-				\item The nucleus of an atom consists out of:
-				\begin{itemize}
-					\item Molecules
-					\item Protons ad Neutrons (correct)
-					\item Electrons
-					\item It is an elementary particle
-				\end{itemize}
-				\item Select all the particles that we consider to be elementary particles:
-				\begin{itemize}
-					\item Photons (correct)
-					\item Atoms
-					\item Electrons (correct)
-					\item Protons
-					\item Neutrons
-					\item Quarks (correct)
-				\end{itemize}
-				\item The test is represented by a long hallway with closed iron doors
-				\item Between the iron doors are buttons or levers with signs depicting the multiple choice answers, of which the correct ones open the next door
-				\item Every time the student goes through the next door, the next question pops up in the message system
-			\end{itemize}
-		\end{itemize}
-		\item At the end of each branch is a chest with the ticket to the next branch. When the student has taken the ticket, he is teleported back into the museum
+		\item A picture of Niels Bohr
+		\item A picture of the Rutherford-Bohr Model of the Atom similar to figure~\ref{fig:bohrmodel} on page~\pageref{fig:bohrmodel}
 	\end{itemize}
+	\item Prior Knowledge
+	\begin{itemize}
+		\item (Beginning of book)
+		\item Everything around us exists out of molecules
+		\item Molecules exist out of atoms
+		\item Atoms are made out of a core, the nucleus, and a shell, the electrons
+		\item The nucleus of an atom exists out of protons and neutrons
+		\item The electrons stay in the shell of an atom, because electrons and protons are attracted to each other
+		\item At this point the book refers to a picture shown on a wall, which depicts the Rutherford-Bohr Atom Model
+		\item This attraction is caused by electrons having a negative charge and protons having a positive charge
+		\item Neutrons do not have any charge
+		\item There are other nanoscopic particles, a very famous one is the photon
+		\item The photon is known as the light particle
+	\end{itemize}
+\end{itemize}
+\subsubsection{Elementary Particles (Concept)}
+\begin{itemize}
+	\item Information and examples
+	\begin{itemize}
+		\item A proton or a neutron consists out of three quarks
+		\item Quarks, electrons and photons are considered to be elementary particles
+		\item An elementary particle is a particle of which we don’t know its substructure
+		\item This means that we don’t know what the elementary particles are composed of
+	\end{itemize}
+	\item Focus attention
+	\begin{itemize}
+		\item The book emphasises that it is sufficient to know that elementary particles exist, and that these are the particles which demonstrate quantum behaviour
+		\item {End of book}
+	\end{itemize}
+	\item Learning strategies
+	\begin{itemize}
+		\item To enhance learning, the concepts are combined in the picture on the wall depicting the Rutherford-Bohr Model of the Atom
+	\end{itemize}
+	\item Practice and Feedback
+	\begin{itemize}
+		\item After reading the book, the student has to go through a multiple choice test
+		\begin{itemize}
+			\item An atom consists out of:
+			\begin{itemize}
+				\item A nucleus and shell (correct)
+				\item Photons
+			\end{itemize}
+			\item The shell of an atom consists out of:
+			\begin{itemize}
+				\item Photons
+				\item Neutrons
+				\item Electrons (correct)
+				\item Quarks
+			\end{itemize}
+			\item The nucleus of an atom consists out of:
+			\begin{itemize}
+				\item Molecules
+				\item Protons ad Neutrons (correct)
+				\item Electrons
+				\item It is an elementary particle
+			\end{itemize}
+			\item Select all the particles that we consider to be elementary particles:
+			\begin{itemize}
+				\item Photons (correct)
+				\item Atoms
+				\item Electrons (correct)
+				\item Protons
+				\item Neutrons
+				\item Quarks (correct)
+			\end{itemize}
+			\item The test is represented by a long hallway with closed iron doors
+			\item Between the iron doors are buttons or levers with signs depicting the multiple choice answers, of which the correct ones open the next door
+			\item Every time the student goes through the next door, the next question pops up in the message system
+		\end{itemize}
+	\end{itemize}
+	\item At the end of each branch is a chest with the ticket to the next branch. When the student has taken the ticket, he is teleported back into the museum
+\end{itemize}
 \subsubsection{Theory of Relativity and Classical Communication (Declarative Knowledge)}
+\begin{itemize}
+	\item A chest with a book
+	\item A contraption on the side
+	\begin{itemize}
+		\item Two lamps
+		\item Connected with redstone repeaters
+		\item Which is connected to a redstone clock
+		\item Every second the first lamp turns on and off, then a signal travels through the repeaters and finally the second lamp turns on and off
+	\end{itemize}
+	\item Prior Knowledge
+	\begin{itemize}
+		\item (Beginning of book)
+		\item Protons, neutrons and electrons have mass
+		\item Protons and neutrons have an almost equal mass
+		\item Electrons have a very small mass in comparison to protons and neutrons
+		\item Photons do not have any mass
+	\end{itemize}
+	\item Information and examples
+	\begin{itemize}
+		\item According to the relativity theory of Einstein, the more mass an object or a particle has, the slower its maximum speed is
+		\item Because photons do not have any mass, they travel with the fastest speed possible
+		\item The speed of photons, also known as light speed, is about 300 000 000 m/s
+		\item The speed with which photons travel is constant
+		\item All other elementary particles travel slower than photons, but can still travel with 99\% of the light speed
+		\item When communicating from one place to another, particles are sent between the two locations through a channel or cable
+		\item This is called classical communication
+		\item For example, if the channel is a glass fibre cable, photons are used
+	\end{itemize}
+	\item Focus attention
+	\begin{itemize}
+		\item The important aspect is that there is a limit with which elementary particles travel
+		\item Therefore, classical communication is not instant
+	\end{itemize}			
+	\item Practice
+	\begin{itemize}
+		\item The student has to calculate the time needed to communicate given the distance between the two locations
+		\item The distance is 1 000 000 m
+	\end{itemize}
+	\item Feedback
+		\item When the student grabs the ticket at the end of the room to teleport back to the main hallway, the correct answer is displayed in the message system (0.003 s)
+\end{itemize}
+\subsubsection{Observer Dependency (Concept)}
+\begin{itemize}
+	\item Information and examples
+	\begin{itemize}
+		\item A message appears in the message system, telling the student to find the difference between the two blocks in front of him
+		\item The left block is a static block with the diamond block type
+		\item The right block is an Observer Dependent Block
+		\begin{itemize}
+			\item If the block is observed from the back-to-front axis, the block has a diamond block type
+			\item If the block is observed from the perpendicular axis, the block has a redstone block type
+		\end{itemize}
+		\item At the end of the room is a iron door, which opens up if the Observer Dependent Block resolves to a redstone block type
+	\end{itemize}
+	\item Focus attention
+	\begin{itemize}
+		\item By comparing the two blocks, the student finds the difference in behaviour between the two blocks
+		\item This leads to an understanding of the behaviour of Observer Dependent Blocks
+		\item This gives way to teach the student about Observer Dependency
+	\end{itemize}
+	\item Learning strategies
+	\begin{itemize}
+		\item The Observer Dependent Block visualises the effect of observation without oversimplifying it
+		\item The behaviour still has to be linked to the term Observer Dependency, which will happen in the next book
+		\item The behaviour still has to be transferred to the behaviour of elementary particles, which will happen in the next book
+		\item Observer Dependency can now be understood without any knowledge of mathematics
+		\item The student has to apply critical and active learning, and has to draw conclusions on his own
+		\item The student will receive feedback on his own conclusions in the next book
+	\end{itemize}
+	\item Practice
+	\begin{itemize}
+		\item The student already has to apply active learning
+	\end{itemize}
+	\item Feedback
+	\begin{itemize}
+		\item In the next room is a chest with a book
+		\item (Beginning of book)
+		\item The book states the difference between the two blocks
+		\begin{itemize}
+			\item The left block is static and doesn't change
+			\item The right block changes its block type when observed from different sides
+			\item A block type is a property of blocks in Minecraft
+			\item This is called an Observer Dependent Block
+		\end{itemize}
+		\item Elementary particles also have properties which change when observed
+		\item However, elementary particles do not change based on the way of observation, which will become clear in the next branch
+	\end{itemize}
+\end{itemize}
+\subsubsection{Quantum Blocks and Random Collapse}
+\begin{itemize}
+	\item Information and examples
+	\begin{itemize}
+		\item A message appears in the message system, telling the student to find the difference between the two blocks in front of him
+		\item The left block is an Observer Dependent Block
+		\begin{itemize}
+			\item If the block is observed from the back-to-front axis, the block has a diamond block type
+			\item If the block is observed from the perpendicular axis, the block has a redstone block type
+		\end{itemize}
+		\item The right block is Quantum Block
+		\begin{itemize}
+			\item If the block is observed, its block type has 50\% chance of collapsing to a diamond block type and 50\% chance of collapsing to a redstone block type
+		\end{itemize}
+		\item At the end of the room is a iron door, which opens up if the Observer Dependent Block and the Quantum Block have resolved to a redstone block type at least once
+	\end{itemize}
+	\item Focus attention
+	\begin{itemize}
+		\item By comparing the two blocks, the student finds the difference in behaviour between the two blocks
+		\item This leads to an understanding of the behaviour of Quantum Blocks
+		\item This gives way to teach the student about the random collapse of elementary particles
+	\end{itemize}
+	\item Learning strategies
+	\begin{itemize}
+		\item The Quantum Block visualises the behaviour of elementary particles without oversimplifying it
+		\item The behaviour still has to be linked to the term random collapse, which will happen in the next book
+		\item The behaviour still has to be transferred to the behaviour of elementary particles, which will happen in the next book
+		\item Random collapse can now be understood with only a very basic knowledge of mathematics
+		\item The student has to apply critical and active learning, and has to draw conclusions on his own
+		\item The student will receive feedback on his own conclusions in the next book
+	\end{itemize}
+	\item Practice
+	\begin{itemize}
+		\item The student already has to apply active learning
+	\end{itemize}
+	\item Feedback
+	\begin{itemize}
+		\item In the next room is a chest with a book
+		\item (Beginning of book)
+		\item The book states the difference between the two blocks
+		\begin{itemize}
+			\item The left block is an Observer Dependent Block, similar to the one in the previous branch
+			\item The block type of the right block randomly changes into one of two states when observed
+			\item This is called a Quantum Block
+		\end{itemize}
+		\item The properties of elementary particles also collapse to a random state when observed
+		\item Scientists are still puzzled by this, which will be elaborated later
+	\end{itemize}
+\end{itemize}
+\subsubsection{Entanglement (Concept)}
+\begin{itemize}
+	\item Information and examples
+	\begin{itemize}
+		\item A message appears in the message system, telling the student to find the difference between the two groups of blocks in front of him
+		\item The left group of blocks consists out of independent Quantum Blocks
+		\item The right group of blocks consists out of entangled Quantum Blocks
+		\item At the end of the room is a iron door, which opens up if all of the blocks have resolved to a redstone block type at least once
+	\end{itemize}
+	\item Focus attention
+	\begin{itemize}
+		\item By comparing the two groups of blocks, the student finds the difference in behaviour between the two groups of blocks
+		\item This leads to an understanding of the behaviour of entangled Quantum Blocks
+		\item This gives way to teach the student about entangled elementary particles
+	\end{itemize}
+	\item Learning strategies
+	\begin{itemize}
+		\item The entangled Quantum Blocks visualise the behaviour of boson entangled elementary particles without oversimplifying it
+		\item The behaviour still has to be linked to the term entanglement, which will happen in the next book
+		\item The behaviour still has to be transferred to the behaviour of elementary particles, which will happen in the next book
+		\item Entanglement can now be understood with only a very basic knowledge of mathematics
+		\item The student has to apply critical and active learning, and has to draw conclusions on his own
+		\item The student will receive feedback on his own conclusions in the next book
+	\end{itemize}
+	\item Practice
+	\begin{itemize}
+		\item The student already has to apply active learning
+	\end{itemize}
+	\item Feedback
+	\begin{itemize}
+		\item In the next room is a chest with a book
+		\item (Beginning of book)
+		\item The book states the difference between the two blocks
+		\begin{itemize}
+			\item The left blocks are independent Quantum Blocks, similar to the one in the previous branch
+			\item The block type of the right blocks always collapse to the same state on observation
+			\item This interdependency between blocks is called Entanglement
+		\end{itemize}
+		\item The properties of an entangled elementary particle also collapses to a state correlating with the collapse of the other particle in the entanglement
+		\item The properties can always collapse to the same state, this is called boson entanglement
+		\item The properties can also always collapse to each others opposite state, this is called fermion entanglement
+		\item Entanglement works no matter the distance between the two particles
+		\item Entanglement works no matter when the observation of each particle has taken place
+	\end{itemize}
+\end{itemize}
+\subsubsection{qCraft tutorial}
+\begin{itemize}
+	\item Quantum Goggles
+	\begin{itemize}
+		\item Diverse Quantum Blocks hidden within the decorations of the room
+		\item An item frame holding Quantum Goggles
+		\item An item frame holding a book
+		\begin{itemize}
+			\item With Quantum Goggles, qCraft blocks become fluorescent green
+			\item Equip the goggles by putting the goggles in the head slot within the inventory
+		\end{itemize}
+	\end{itemize}
+	\item Anti-Observation Goggles
+	\begin{itemize}
+		\item Diverse Quantum Blocks hidden within the decorations of the room
+		\item An item frame holding Anti-Observation Goggles
+		\item An item frame holding a book
+		\begin{itemize}
+			\item With Anti-Observation Goggles, the student doesn't trigger any observations on qCraft blocks
+		\end{itemize}
+	\end{itemize}
+	\item Quantum Resetter
+	\begin{itemize}
+		\item An Quantum Resetter attached to a Quantum Block, which can be activated by a button
+		\item A book
+		\begin{itemize}
+			\item The Quantum Resetter is called a Quantum Resetter
+			\item It resets the state of the Quantum Block and will collapse again on the next observation
+			\item In real life, the effects of elementary particles can only be indirectly observed by using complex instruments, because these particles are very small
+		\end{itemize}
+	\end{itemize}
+\end{itemize}
+\subsubsection{Realism and Ontology, Superposition (Concept)}
+\begin{itemize}
+	\item Information and examples
+	\begin{itemize}
+		\item On the left are pictures of Einstein, Podolsky and Rosen
+		\item On the right are pictures of Bohr, Heisenberg and Bell
+		\item A chest with a book
+		\item (Beginning of book)
+		\item Scientists could not find explanations for the phenomena occurring within quantum mechanics
+		\begin{itemize}
+			\item The fact that mere observations influence the behaviour of quantum particles was found to be very strange
+			\item No factors influencing the collapse of a property could be found
+			\item Scientists also wondered in what state a particle would be in before measurement
+		\end{itemize}
+		\item The early interpretation of quantum mechanics was the Realist interpretation
+		\begin{itemize}
+			\item Famous realists are displayed on the left wall
+			\item They believed that there were underlying explanations for the phenomena, only the technology needed for measuring these explanations is not available yet
+		\end{itemize}
+		\item The other interpretation was the Ontologist interpretation
+		\begin{itemize}
+			\item Famous ontologists are displayed on the right wall
+			\item They believed that there were no underlying explanations, but that the phenomena occurred on their own
+		\end{itemize}
+	\end{itemize}
+	\item Focus attention
+	\begin{itemize}
+		\item The student is now asked what he thinks is more likely to be true
+		\item This way he is triggered to form his own conclusions based on what he knows from physics taught earlier
+	\end{itemize}
+	\item Learning strategies
+	\begin{itemize}
+		\item The language of physics is used
+		\item The student connects the different phenomena together to form his conclusions, and also connects them to what he previously learned about quantum mechanics
+		\item The student is triggered to become aware of their realist or deterministic models of physics
+		\item The critical thinking skills of the student are activated
+		\item The student still needs to get feedback on the conclusions the student draws
+	\end{itemize}
+	\item Practice
+	\begin{itemize}
+		\item The student is now asked whether he tried using the Anti-Observation Goggles when using the quantum resetter
+		\item If he did not, he can still try it in the room on the right
+	\end{itemize}
+	\item Feedback
+	\begin{itemize}
+		\item By activating the quantum resetter with the Anti-Observation Goggles, the student will find that its block type does not collapse to a certain state
+		\item Instead, the block type will remain in the green "in-between" state
+		\item The book tells the student that this state is called Superposition
+		\item When a property of an elementary particle is in superposition, it is in all possible states at the same time
+		\item The property is in superposition until it is observed and collapses into one of the state
+		\item The student is now asked to reconsider the earlier question about realism and ontology
+		\item Superposition is a concept leaning to the ontology camp
+		\item Most scientists nowadays follow the ontologist interpretation of quantum mechanics
+	\end{itemize}
+\end{itemize}
+\subsubsection{Uncertainty Principle of Heisenberg (Principle)}
+\begin{itemize}
+	\item Information and examples
+	\begin{itemize}
+		\item Within the room, there are a couple of pictures
+		\item One picture displays Heisenberg
+		\item The other pictures display mathematical symbols, with signs below the pictures indicating the meaning of the symbol
+		\begin{itemize}
+			\item The uncertainty principle of Heisenberg
+			\item $\sigma x$ (The uncertainty in location)
+			\item $\sigma p$ (The uncertainty in momentum)
+			\item $\geq$ (Greater or equal than)
+			\item $\hbar$ (The reduced Planck constant, $1.0 \cdot 10^{-34}$)
+		\end{itemize}
+		\item A book in a chest
+	\end{itemize}
+	\item Focus attention
+	\begin{itemize}
+		\item (Beginning of book)
+		\item The formula is called the Uncertainty Principle of Heisenberg
+	\end{itemize}
+	\item Learning strategies
+	\begin{itemize}
+		\item By using the exact principle, no simplifications take place. Furthermore, the Rutherford-Bohr model of the Atom gets extra clarification
+		\item The principle is referred to by its name, so again the language of physics is used to relate the principle to a real term
+		\item The principle is connected to the concept of superposition
+		\item The principle demonstrates an important property of elementary particles
+		\item From a mathematical perspective, the principle is quite accessible considered that the learner is a physics student from secondary education, and no complex or obscure mathematical skills are needed to comprehend the principle
+		\item The student is triggered to think critical about the meaning of the principle and about the interpretation of the principle
+		\item The student is provided with feedback containing the correct information
+	\end{itemize}
+	\item Practice
+	\begin{itemize}
+		\item The student has to look around and try to make sense of each of the symbols within the formula
+	\end{itemize}
+	\item Feedback
+	\begin{itemize}
+		\item The product of the uncertainty in momentum and the uncertainty in location has to be greater or equal than the reduced Planck constant divided by 2
+		\item The book explains every symbol
+		\begin{itemize}
+			\item The reduced Planck constant $\hbar$ is a tiny number, $1.0 \cdot 10^{-34}$
+			\item The $geq$ symbol means greater than or equal to
+			\item The part before this symbol has to be greater than or equal to the reduced Planck constant divided by two
+			\item This part exists out of $\sigma x$ and $\sigma p$
+			\item $\sigma x$ is the uncertainty in location
+			\item $\sigma p$ is the uncertainty in momentum
+			\item Momentum is closely related to speed
+			\item $\sigma x \cdot \sigma p$ is the product of the uncertainty in location and uncertainty in momentum
+		\end{itemize}
+		\item There are two main implications which follow from the uncertainty principle
+		\begin{itemize}
+			\item Neither the uncertainty in location nor the uncertainty in momentum can be zero, which means that neither can be known exactly
+			\item This follows from the fact that if either of those are 0, the product is also zero, which would contradict with the fact that it has to be greater than or equal to $\frac{\hbar}{2}$
+			\item The smaller the uncertainty in location is, the greater the uncertainty in momentum has to be and vice versa
+			\item This follows from the fact that the smaller one of the uncertainties is, the smaller the product of the uncertainties becomes and thus the greater the other uncertainty has to become to compensate, otherwise the product becomes smaller than $\frac{\hbar}{2}$
+		\end{itemize}
+		\item The student is asked what the realist and what the ontologist interpretation of this principle would be
+		\begin{itemize}
+			\item A realist would believe that the particle would have a specific location or momentum, but that the needed technology to measure them is not available yet
+			\item An ontologist would believe that the particle has no exact location or momentum, but that they are in a state of superposition
+		\end{itemize}
+		\item The scale in which the uncertainty principle is significant is the scale of the shell of an atom
+		\begin{itemize}
+			\item The width of the shell varies from 0.1 nm to 0.5 nm
+			\item It means that the exact location of an electron within the shell is not known, but that it is a superposition of all possible locations of the shell
+			\item This is different from for example the location of a planet within orbit around the sun, for its location can be determined quite precise because of the difference in scale
+			\item (End of book)
+		\end{itemize}
+	\end{itemize}
+\end{itemize}
+\subsubsection{Quantum Teleportation (Procedure)}
+\begin{itemize}
+	\item Information and examples
+	\begin{itemize}
+		\item There is a big contraption in the room, displaying the quantum teleportation experiment
+		\begin{itemize}
+			\item The experiment is divided by a wall in the middle
+			\item The right hand of the room is indicated to be laboratory A and the left hand is indicated to be laboratory B
+			\item In laboratory A, there are two entangled Quantum Blocks
+			\item From these blocks, a signal travels to the wall in the middle
+			\item Mounted in the wall, there is a lamp which has a sign saying "Boson entanglement" and a sign saying "Fermion entanglement"
+			\item In laboratory B, there is one Quantum Block which is also entangled to the Quantum Blocks in laboratory A
+			\item Furthermore, there is a button with a sign saying "Reset experiment", which resets all the Quantum Blocks and activating the "Boson entanglement" lamp
+		\end{itemize}
+		\item A book in a chest
+		\item (Beginning of book)
+		\item Science fiction teleportation
+		\begin{itemize}
+			\item The goal of science fiction is to transport an object from location A to location B
+			\item The object is scanned at location A in order to obtain all information from the particles within the object
+			\item This information is send to location B
+			\item The object is recreated at location B with the information about the particles
+			\item The object at location A is destroyed
+			\item This is not possible because of the uncertainty principle of Heisenberg
+		\end{itemize}
+		\item Quantum teleportation
+		\begin{itemize}
+			\item The goal of the teleportation is to transfer information from Laboratory A to Laboratory B
+			\item Laboratory A has two particles, and Laboratory B has one particle
+			\item All of these particles are entangled with each other
+			\item The researcher of laboratory A measures the type of entanglement between the two particles
+			\item This information is sent to Laboratory B by means of a classical communication channel
+			\item The researcher in Laboratory B now observes his particle and combines the data received from laboratory A to determine the state of the particle in Laboratory A
+			\item He sends this determination to Laboratory A via the classical communication channel
+			\item She verifies the data to see whether the experiment was successful
+		\end{itemize}
+	\end{itemize}
+	\item Practice
+	\begin{itemize}
+		\item The student is now asked to conduct the steps of Laboratory B in the next room
+		\item (End of book)
+		\begin{itemize}
+			\item This room is indicated to be Laboratory B
+			\item In the wall are two lamps, again these are indicated as either "Boson entanglement" or "Fermion entanglement"
+			\item There is a Quantum Block in the room
+			\item There is a button panel in the room, with which the student has to indicate what the particle in Laboratory A should be
+			\item There is a button which resets the experiment
+			\item There is a closed iron door at the end of the room
+		\end{itemize}
+		\item The student has to look at the type of entanglement, combine that with the state of the Quantum Block and has to press the right button in order to progress through the next room
+	\end{itemize}
+	\item Feedback
+	\begin{itemize}
+		\item The feedback is provided by the iron door opening if the student has selected the right button
+	\end{itemize}
+	\item Focus attention
 	\begin{itemize}
 		\item A chest with a book
-		\item A contraption on the side
+		\item (Beginning of book)
+		\item The student is asked whether quantum teleportation could be used in order to communicate instantly between two locations
+		\item This is not possible for two reasons
 		\begin{itemize}
-			\item Two lamps
-			\item Connected with redstone repeaters
-			\item Which is connected to a redstone clock
-			\item Every second the first lamp turns on and off, then a signal travels through the repeaters and finally the second lamp turns on and off
+			\item The collapse of the property of an elementary particle cannot be influenced, and therefore it is not possible to encode a message
+			\item The type of entanglement still has to be transmitted via a classical communication channel
 		\end{itemize}
-		\item Prior Knowledge
-		\begin{itemize}
-			\item (Beginning of book)
-			\item Protons, neutrons and electrons have mass
-			\item Protons and neutrons have an almost equal mass
-			\item Electrons have a very small mass in comparison to protons and neutrons
-			\item Photons do not have any mass
-		\end{itemize}
-		\item Information and examples
-		\begin{itemize}
-			\item According to the relativity theory of Einstein, the more mass an object or a particle has, the slower its maximum speed is
-			\item Because photons do not have any mass, they travel with the fastest speed possible
-			\item The speed of photons, also known as light speed, is about 300 000 000 m/s
-			\item The speed with which photons travel is constant
-			\item All other elementary particles travel slower than photons, but can still travel with 99\% of the light speed
-			\item When communicating from one place to another, particles are sent between the two locations through a channel or cable
-			\item This is called classical communication
-			\item For example, if the channel is a glass fibre cable, photons are used
-		\end{itemize}
-		\item Focus attention
-		\begin{itemize}
-			\item The important aspect is that there is a limit with which elementary particles travel
-			\item Therefore, classical communication is not instant
-		\end{itemize}			
-		\item Practice
-		\begin{itemize}
-			\item The student has to calculate the time needed to communicate given the distance between the two locations
-			\item The distance is 1 000 000 m
-		\end{itemize}
-		\item Feedback
-			\item When the student grabs the ticket at the end of the room to teleport back to the main hallway, the correct answer is displayed in the message system (0.003 s)
+		\item (End of book)
 	\end{itemize}
-\subsubsection{Observer Dependency (Concept)}
+	\item Learning strategies
 	\begin{itemize}
-		\item Information and examples
-		\begin{itemize}
-			\item A message appears in the message system, telling the student to find the difference between the two blocks in front of him
-			\item The left block is a static block with the diamond block type
-			\item The right block is an Observer Dependent Block
-			\begin{itemize}
-				\item If the block is observed from the back-to-front axis, the block has a diamond block type
-				\item If the block is observed from the perpendicular axis, the block has a redstone block type
-			\end{itemize}
-			\item At the end of the room is a iron door, which opens up if the Observer Dependent Block resolves to a redstone block type
-		\end{itemize}
-		\item Focus attention
-		\begin{itemize}
-			\item By comparing the two blocks, the student finds the difference in behaviour between the two blocks
-			\item This leads to an understanding of the behaviour of Observer Dependent Blocks
-			\item This gives way to teach the student about Observer Dependency
-		\end{itemize}
-		\item Learning strategies
-		\begin{itemize}
-			\item The Observer Dependent Block visualises the effect of observation without oversimplifying it
-			\item The behaviour still has to be linked to the term Observer Dependency, which will happen in the next book
-			\item The behaviour still has to be transferred to the behaviour of elementary particles, which will happen in the next book
-			\item Observer Dependency can now be understood without any knowledge of mathematics
-			\item The student has to apply critical and active learning, and has to draw conclusions on his own
-			\item The student will receive feedback on his own conclusions in the next book
-		\end{itemize}
-		\item Practice
-		\begin{itemize}
-			\item The student already has to apply active learning
-		\end{itemize}
-		\item Feedback
-		\begin{itemize}
-			\item In the next room is a chest with a book
-			\item (Beginning of book)
-			\item The book states the difference between the two blocks
-			\begin{itemize}
-				\item The left block is static and doesn't change
-				\item The right block changes its block type when observed from different sides
-				\item A block type is a property of blocks in Minecraft
-				\item This is called an Observer Dependent Block
-			\end{itemize}
-			\item Elementary particles also have properties which change when observed
-			\item However, elementary particles do not change based on the way of observation, which will become clear in the next branch
-		\end{itemize}
+		\item The science fiction teleportation is displayed, because this is the portrayal of teleportation the student probably knows
+		\item The teleportation experiment had to be simplified in order for it to be able being displayed within qCraft. However, on a conceptual level it still is a legitimate representation of a real quantum teleportation, so it is still not misleading to the student
+		\item All the correct terms are applied in the texts
+		\item This experiment finally combines most of the concepts within this instruction together
+		\item The text displays how the teleportation conducted by the student connects to the real world
+		\item The teleportation experiment requires no new mathematical skills
+		\item The student is actively engaged by having to conduct a part the teleportation himself
+		\item The student is triggered to think critically about the teleportation by having to apply it to the possibility of instantaneous communication
 	\end{itemize}
-\subsubsection{Quantum Blocks and Random Collapse}
-	\begin{itemize}
-		\item Information and examples
-		\begin{itemize}
-			\item A message appears in the message system, telling the student to find the difference between the two blocks in front of him
-			\item The left block is an Observer Dependent Block
-			\begin{itemize}
-				\item If the block is observed from the back-to-front axis, the block has a diamond block type
-				\item If the block is observed from the perpendicular axis, the block has a redstone block type
-			\end{itemize}
-			\item The right block is Quantum Block
-			\begin{itemize}
-				\item If the block is observed, its block type has 50\% chance of collapsing to a diamond block type and 50\% chance of collapsing to a redstone block type
-			\end{itemize}
-			\item At the end of the room is a iron door, which opens up if the Observer Dependent Block and the Quantum Block have resolved to a redstone block type at least once
-		\end{itemize}
-		\item Focus attention
-		\begin{itemize}
-			\item By comparing the two blocks, the student finds the difference in behaviour between the two blocks
-			\item This leads to an understanding of the behaviour of Quantum Blocks
-			\item This gives way to teach the student about the random collapse of elementary particles
-		\end{itemize}
-		\item Learning strategies
-		\begin{itemize}
-			\item The Quantum Block visualises the behaviour of elementary particles without oversimplifying it
-			\item The behaviour still has to be linked to the term random collapse, which will happen in the next book
-			\item The behaviour still has to be transferred to the behaviour of elementary particles, which will happen in the next book
-			\item Random collapse can now be understood with only a very basic knowledge of mathematics
-			\item The student has to apply critical and active learning, and has to draw conclusions on his own
-			\item The student will receive feedback on his own conclusions in the next book
-		\end{itemize}
-		\item Practice
-		\begin{itemize}
-			\item The student already has to apply active learning
-		\end{itemize}
-		\item Feedback
-		\begin{itemize}
-			\item In the next room is a chest with a book
-			\item (Beginning of book)
-			\item The book states the difference between the two blocks
-			\begin{itemize}
-				\item The left block is an Observer Dependent Block, similar to the one in the previous branch
-				\item The block type of the right block randomly changes into one of two states when observed
-				\item This is called a Quantum Block
-			\end{itemize}
-			\item The properties of elementary particles also collapse to a random state when observed
-			\item Scientists are still puzzled by this, which will be elaborated later
-		\end{itemize}
-	\end{itemize}
-\subsubsection{Entanglement (Concept)}
-	\begin{itemize}
-		\item Information and examples
-		\begin{itemize}
-			\item A message appears in the message system, telling the student to find the difference between the two groups of blocks in front of him
-			\item The left group of blocks consists out of independent Quantum Blocks
-			\item The right group of blocks consists out of entangled Quantum Blocks
-			\item At the end of the room is a iron door, which opens up if all of the blocks have resolved to a redstone block type at least once
-		\end{itemize}
-		\item Focus attention
-		\begin{itemize}
-			\item By comparing the two groups of blocks, the student finds the difference in behaviour between the two groups of blocks
-			\item This leads to an understanding of the behaviour of entangled Quantum Blocks
-			\item This gives way to teach the student about entangled elementary particles
-		\end{itemize}
-		\item Learning strategies
-		\begin{itemize}
-			\item The entangled Quantum Blocks visualise the behaviour of boson entangled elementary particles without oversimplifying it
-			\item The behaviour still has to be linked to the term entanglement, which will happen in the next book
-			\item The behaviour still has to be transferred to the behaviour of elementary particles, which will happen in the next book
-			\item Entanglement can now be understood with only a very basic knowledge of mathematics
-			\item The student has to apply critical and active learning, and has to draw conclusions on his own
-			\item The student will receive feedback on his own conclusions in the next book
-		\end{itemize}
-		\item Practice
-		\begin{itemize}
-			\item The student already has to apply active learning
-		\end{itemize}
-		\item Feedback
-		\begin{itemize}
-			\item In the next room is a chest with a book
-			\item (Beginning of book)
-			\item The book states the difference between the two blocks
-			\begin{itemize}
-				\item The left blocks are independent Quantum Blocks, similar to the one in the previous branch
-				\item The block type of the right blocks always collapse to the same state on observation
-				\item This interdependency between blocks is called Entanglement
-			\end{itemize}
-			\item The properties of an entangled elementary particle also collapses to a state correlating with the collapse of the other particle in the entanglement
-			\item The properties can always collapse to the same state, this is called boson entanglement
-			\item The properties can also always collapse to each others opposite state, this is called fermion entanglement
-			\item Entanglement works no matter the distance between the two particles
-			\item Entanglement works no matter when the observation of each particle has taken place
-		\end{itemize}
-	\end{itemize}
-\subsubsection{qCraft tutorial}
-	\begin{itemize}
-		\item Quantum Goggles
-		\begin{itemize}
-			\item Diverse Quantum Blocks hidden within the decorations of the room
-			\item An item frame holding Quantum Goggles
-			\item An item frame holding a book
-			\begin{itemize}
-				\item With Quantum Goggles, qCraft blocks become fluorescent green
-				\item Equip the goggles by putting the goggles in the head slot within the inventory
-			\end{itemize}
-		\end{itemize}
-		\item Anti-Observation Goggles
-		\begin{itemize}
-			\item Diverse Quantum Blocks hidden within the decorations of the room
-			\item An item frame holding Anti-Observation Goggles
-			\item An item frame holding a book
-			\begin{itemize}
-				\item With Anti-Observation Goggles, the student doesn't trigger any observations on qCraft blocks
-			\end{itemize}
-		\end{itemize}
-		\item Quantum Resetter
-		\begin{itemize}
-			\item An Quantum Resetter attached to a Quantum Block, which can be activated by a button
-			\item A book
-			\begin{itemize}
-				\item The Quantum Resetter is called a Quantum Resetter
-				\item It resets the state of the Quantum Block and will collapse again on the next observation
-				\item In real life, the effects of elementary particles can only be indirectly observed by using complex instruments, because these particles are very small
-			\end{itemize}
-		\end{itemize}
-	\end{itemize}
-\subsubsection{Realism and Ontology, Superposition (Concept)}
-	\begin{itemize}
-		\item Information and examples
-		\begin{itemize}
-			\item On the left are pictures of Einstein, Podolsky and Rosen
-			\item On the right are pictures of Bohr, Heisenberg and Bell
-			\item A chest with a book
-			\item (Beginning of book)
-			\item Scientists could not find explanations for the phenomena occurring within quantum mechanics
-			\begin{itemize}
-				\item The fact that mere observations influence the behaviour of quantum particles was found to be very strange
-				\item No factors influencing the collapse of a property could be found
-				\item Scientists also wondered in what state a particle would be in before measurement
-			\end{itemize}
-			\item The early interpretation of quantum mechanics was the Realist interpretation
-			\begin{itemize}
-				\item Famous realists are displayed on the left wall
-				\item They believed that there were underlying explanations for the phenomena, only the technology needed for measuring these explanations is not available yet
-			\end{itemize}
-			\item The other interpretation was the Ontologist interpretation
-			\begin{itemize}
-				\item Famous ontologists are displayed on the right wall
-				\item They believed that there were no underlying explanations, but that the phenomena occurred on their own
-			\end{itemize}
-		\end{itemize}
-		\item Focus attention
-		\begin{itemize}
-			\item The student is now asked what he thinks is more likely to be true
-			\item This way he is triggered to form his own conclusions based on what he knows from physics taught earlier
-		\end{itemize}
-		\item Learning strategies
-		\begin{itemize}
-			\item The language of physics is used
-			\item The student connects the different phenomena together to form his conclusions, and also connects them to what he previously learned about quantum mechanics
-			\item The student is triggered to become aware of their realist or deterministic models of physics
-			\item The critical thinking skills of the student are activated
-			\item The student still needs to get feedback on the conclusions the student draws
-		\end{itemize}
-		\item Practice
-		\begin{itemize}
-			\item The student is now asked whether he tried using the Anti-Observation Goggles when using the quantum resetter
-			\item If he did not, he can still try it in the room on the right
-		\end{itemize}
-		\item Feedback
-		\begin{itemize}
-			\item By activating the quantum resetter with the Anti-Observation Goggles, the student will find that its block type does not collapse to a certain state
-			\item Instead, the block type will remain in the green "in-between" state
-			\item The book tells the student that this state is called Superposition
-			\item When a property of an elementary particle is in superposition, it is in all possible states at the same time
-			\item The property is in superposition until it is observed and collapses into one of the state
-			\item The student is now asked to reconsider the earlier question about realism and ontology
-			\item Superposition is a concept leaning to the ontology camp
-			\item Most scientists nowadays follow the ontologist interpretation of quantum mechanics
-		\end{itemize}
-	\end{itemize}
-\subsubsection{Uncertainty Principle of Heisenberg (Principle)}
-	\begin{itemize}
-		\item Information and examples
-		\begin{itemize}
-			\item Within the room, there are a couple of pictures
-			\item One picture displays Heisenberg
-			\item The other pictures display mathematical symbols, with signs below the pictures indicating the meaning of the symbol
-			\begin{itemize}
-				\item The uncertainty principle of Heisenberg
-				\item $\sigma x$ (The uncertainty in location)
-				\item $\sigma p$ (The uncertainty in momentum)
-				\item $\geq$ (Greater or equal than)
-				\item $\hbar$ (The reduced Planck constant, $1.0 \cdot 10^{-34}$)
-			\end{itemize}
-			\item A book in a chest
-		\end{itemize}
-		\item Focus attention
-		\begin{itemize}
-			\item (Beginning of book)
-			\item The formula is called the Uncertainty Principle of Heisenberg
-		\end{itemize}
-		\item Learning strategies
-		\begin{itemize}
-			\item By using the exact principle, no simplifications take place. Furthermore, the Rutherford-Bohr model of the Atom gets extra clarification
-			\item The principle is referred to by its name, so again the language of physics is used to relate the principle to a real term
-			\item The principle is connected to the concept of superposition
-			\item The principle demonstrates an important property of elementary particles
-			\item From a mathematical perspective, the principle is quite accessible considered that the learner is a physics student from secondary education, and no complex or obscure mathematical skills are needed to comprehend the principle
-			\item The student is triggered to think critical about the meaning of the principle and about the interpretation of the principle
-			\item The student is provided with feedback containing the correct information
-		\end{itemize}
-		\item Practice
-		\begin{itemize}
-			\item The student has to look around and try to make sense of each of the symbols within the formula
-		\end{itemize}
-		\item Feedback
-		\begin{itemize}
-			\item The product of the uncertainty in momentum and the uncertainty in location has to be greater or equal than the reduced Planck constant divided by 2
-			\item The book explains every symbol
-			\begin{itemize}
-				\item The reduced Planck constant $\hbar$ is a tiny number, $1.0 \cdot 10^{-34}$
-				\item The $geq$ symbol means greater than or equal to
-				\item The part before this symbol has to be greater than or equal to the reduced Planck constant divided by two
-				\item This part exists out of $\sigma x$ and $\sigma p$
-				\item $\sigma x$ is the uncertainty in location
-				\item $\sigma p$ is the uncertainty in momentum
-				\item Momentum is closely related to speed
-				\item $\sigma x \cdot \sigma p$ is the product of the uncertainty in location and uncertainty in momentum
-			\end{itemize}
-			\item There are two main implications which follow from the uncertainty principle
-			\begin{itemize}
-				\item Neither the uncertainty in location nor the uncertainty in momentum can be zero, which means that neither can be known exactly
-				\item This follows from the fact that if either of those are 0, the product is also zero, which would contradict with the fact that it has to be greater than or equal to $\frac{\hbar}{2}$
-				\item The smaller the uncertainty in location is, the greater the uncertainty in momentum has to be and vice versa
-				\item This follows from the fact that the smaller one of the uncertainties is, the smaller the product of the uncertainties becomes and thus the greater the other uncertainty has to become to compensate, otherwise the product becomes smaller than $\frac{\hbar}{2}$
-			\end{itemize}
-			\item The student is asked what the realist and what the ontologist interpretation of this principle would be
-			\begin{itemize}
-				\item A realist would believe that the particle would have a specific location or momentum, but that the needed technology to measure them is not available yet
-				\item An ontologist would believe that the particle has no exact location or momentum, but that they are in a state of superposition
-			\end{itemize}
-			\item The scale in which the uncertainty principle is significant is the scale of the shell of an atom
-			\begin{itemize}
-				\item The width of the shell varies from 0.1 nm to 0.5 nm
-				\item It means that the exact location of an electron within the shell is not known, but that it is a superposition of all possible locations of the shell
-				\item This is different from for example the location of a planet within orbit around the sun, for its location can be determined quite precise because of the difference in scale
-				\item (End of book)
-			\end{itemize}
-		\end{itemize}
-	\end{itemize}
-\subsubsection{Quantum Teleportation (Procedure)}
-	\begin{itemize}
-		\item Information and examples
-		\begin{itemize}
-			\item There is a big contraption in the room, displaying the quantum teleportation experiment
-			\begin{itemize}
-				\item The experiment is divided by a wall in the middle
-				\item The right hand of the room is indicated to be laboratory A and the left hand is indicated to be laboratory B
-				\item In laboratory A, there are two entangled Quantum Blocks
-				\item From these blocks, a signal travels to the wall in the middle
-				\item Mounted in the wall, there is a lamp which has a sign saying "Boson entanglement" and a sign saying "Fermion entanglement"
-				\item In laboratory B, there is one Quantum Block which is also entangled to the Quantum Blocks in laboratory A
-				\item Furthermore, there is a button with a sign saying "Reset experiment", which resets all the Quantum Blocks and activating the "Boson entanglement" lamp
-			\end{itemize}
-			\item A book in a chest
-			\item (Beginning of book)
-			\item Science fiction teleportation
-			\begin{itemize}
-				\item The goal of science fiction is to transport an object from location A to location B
-				\item The object is scanned at location A in order to obtain all information from the particles within the object
-				\item This information is send to location B
-				\item The object is recreated at location B with the information about the particles
-				\item The object at location A is destroyed
-				\item This is not possible because of the uncertainty principle of Heisenberg
-			\end{itemize}
-			\item Quantum teleportation
-			\begin{itemize}
-				\item The goal of the teleportation is to transfer information from Laboratory A to Laboratory B
-				\item Laboratory A has two particles, and Laboratory B has one particle
-				\item All of these particles are entangled with each other
-				\item The researcher of laboratory A measures the type of entanglement between the two particles
-				\item This information is sent to Laboratory B by means of a classical communication channel
-				\item The researcher in Laboratory B now observes his particle and combines the data received from laboratory A to determine the state of the particle in Laboratory A
-				\item He sends this determination to Laboratory A via the classical communication channel
-				\item She verifies the data to see whether the experiment was successful
-			\end{itemize}
-		\end{itemize}
-		\item Practice
-		\begin{itemize}
-			\item The student is now asked to conduct the steps of Laboratory B in the next room
-			\item (End of book)
-			\begin{itemize}
-				\item This room is indicated to be Laboratory B
-				\item In the wall are two lamps, again these are indicated as either "Boson entanglement" or "Fermion entanglement"
-				\item There is a Quantum Block in the room
-				\item There is a button panel in the room, with which the student has to indicate what the particle in Laboratory A should be
-				\item There is a button which resets the experiment
-				\item There is a closed iron door at the end of the room
-			\end{itemize}
-			\item The student has to look at the type of entanglement, combine that with the state of the Quantum Block and has to press the right button in order to progress through the next room
-		\end{itemize}
-		\item Feedback
-		\begin{itemize}
-			\item The feedback is provided by the iron door opening if the student has selected the right button
-		\end{itemize}
-		\item Focus attention
-		\begin{itemize}
-			\item A chest with a book
-			\item (Beginning of book)
-			\item The student is asked whether quantum teleportation could be used in order to communicate instantly between two locations
-			\item This is not possible for two reasons
-			\begin{itemize}
-				\item The collapse of the property of an elementary particle cannot be influenced, and therefore it is not possible to encode a message
-				\item The type of entanglement still has to be transmitted via a classical communication channel
-			\end{itemize}
-			\item (End of book)
-		\end{itemize}
-		\item Learning strategies
-		\begin{itemize}
-			\item The science fiction teleportation is displayed, because this is the portrayal of teleportation the student probably knows
-			\item The teleportation experiment had to be simplified in order for it to be able being displayed within qCraft. However, on a conceptual level it still is a legitimate representation of a real quantum teleportation, so it is still not misleading to the student
-			\item All the correct terms are applied in the texts
-			\item This experiment finally combines most of the concepts within this instruction together
-			\item The text displays how the teleportation conducted by the student connects to the real world
-			\item The teleportation experiment requires no new mathematical skills
-			\item The student is actively engaged by having to conduct a part the teleportation himself
-			\item The student is triggered to think critically about the teleportation by having to apply it to the possibility of instantaneous communication
-		\end{itemize}
-	\end{itemize}
+\end{itemize}
 
 \subsection{Conclusion}
 
