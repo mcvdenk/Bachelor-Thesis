@@ -13,47 +13,47 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: references.bib
 Warning--entry type for "leraarnatuurkundemaster" isn't style-file defined
---line 613 of file references.bib
+--line 624 of file references.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 29 entries,
+You've used 30 entries,
             6951 wiz_defined-function locations,
-            1456 strings with 16862 characters,
-and the built_in function-call counts, 60051 in all, are:
-= -- 7282
-> -- 441
-< -- 3221
-+ -- 3257
-- -- 57
-* -- 4118
-:= -- 11698
-add.period$ -- 116
-call.type$ -- 29
-change.case$ -- 514
+            1461 strings with 17002 characters,
+and the built_in function-call counts, 61728 in all, are:
+= -- 7487
+> -- 451
+< -- 3309
++ -- 3334
+- -- 59
+* -- 4217
+:= -- 12014
+add.period$ -- 120
+call.type$ -- 30
+change.case$ -- 531
 chr.to.int$ -- 0
-cite$ -- 58
-duplicate$ -- 1496
-empty$ -- 2273
-format.name$ -- 756
-if$ -- 11023
+cite$ -- 60
+duplicate$ -- 1535
+empty$ -- 2348
+format.name$ -- 770
+if$ -- 11350
 int.to.chr$ -- 0
-int.to.str$ -- 91
+int.to.str$ -- 94
 missing$ -- 0
-newline$ -- 751
-num.names$ -- 226
-pop$ -- 964
+newline$ -- 775
+num.names$ -- 234
+pop$ -- 1010
 preamble$ -- 1
-purify$ -- 121
+purify$ -- 125
 quote$ -- 0
-skip$ -- 3536
+skip$ -- 3639
 stack$ -- 0
-substring$ -- 3472
-swap$ -- 886
-text.length$ -- 64
+substring$ -- 3554
+swap$ -- 904
+text.length$ -- 66
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 2416
+type$ -- 2496
 warning$ -- 0
-while$ -- 261
+while$ -- 266
 width$ -- 0
-write$ -- 922
+write$ -- 948
 (There was 1 warning)

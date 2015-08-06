@@ -445,6 +445,33 @@ Levrini, O.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Livio%
+}{%
+Livio%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+livio}
+\APACinsertmetastar {%
+livio}%
+\begin{APACrefauthors}%
+Livio, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2008}.
+\newblock
+\APACrefbtitle {The Golden Ratio: The Story of Phi, the World's Most
+  Astonishing Number} {The golden ratio: The story of phi, the world's most
+  astonishing number}.
+\newblock
+\APACaddressPublisher{}{Paw Prints}.
+\newblock
+\begin{APACrefURL} \url{https://books.google.nl/books?id=w9dmPwAACAAJ}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 McKagan%
 \ \protect \BOthers {.}}{%
 McKagan%
