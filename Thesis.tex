@@ -611,8 +611,22 @@ The goal of the tutorials is to familiarise the student with the mechanics of th
 
 \subsection{The Main Hall}
 
+Between every segment, the student returns to a main hall. This allows for more segmenting, for the student needs to spend time in between branches to walk to the next branch. Furthermore, because every branch is labeled, the student can already get a preview of the different branches. Finally, the student is provided a way of tracking his progress within the instruction.
+
+In order to force the student to complete the branches in the order specified within the framework, the student has to unlock every next branch by completing the current branch. This is implemented by a ticket system. To unlock a branch, the student has to insert a ticket into a dropper at the end of the main hall. The dropper then sends the ticket into a system where the ticket is checked, opening the iron door corresponding to the ticket if the ticket is valid. A ticket can be obtained at the end of every branch. The ticket system has two extra bonus practicalities. The student has to spend even more time in between the branches allowing for more segmenting. The student also gets to see the name of the next branch when receiving his ticket, allowing for signalling.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=\textwidth]{mainhall}
+\caption{A screenshot of the design of the main hall.\label{fig:mainhall}}
+\end{figure}
+
+The main hall is designed after the temple of Bacchus in Baalbek, and is displayed at figure~\ref{fig:mainhall}. The entrances to the branches are located at both sides of the temple, and the dropper is located in an inner temple located in the centre of the back wall. Locating the dropper at the end allows for framing, directing the attention of the player. Placing the entrances at both sides is a natural placement, for there are already openings available at the sides of a temple.
+
 \subsection{Text}
 \label{subsec:devtext}
+
+The text had to be written in such a way that it was comfortable for the student to read, without including extraneous information which would only increase the cognitive load. Because of this, the resulting text is an almost direct translation of the learning objectives and standards. However, to make the text something into more than only an enumeration of learning objectives, a few story elements were added. One of these elements is the fact that the writer is an actual character which introduces himself as professor qCraft. The student even meets with this professor at the end of the instruction. This does not require a lot of cognitive load, because it requires only a few sentences. Still, it gives a more personal flavour to the text. Another story element is the fact that the professor is trapped in his office and that the student has to save him. This is added to give the student an external reason to go through the instruction and also added an element of gamification. The story however is reduced to only these two aspects. After the text was written, weeding was applied to the text in order to reduce the amount of information to only the necessary information.
 
 \section{Encountered Problems and Workarounds}
 
