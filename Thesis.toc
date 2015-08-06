@@ -35,8 +35,6 @@
 \contentsline {subsection}{The Main Hall}{32}
 \contentsline {subsection}{Text}{33}
 \contentsline {section}{Encountered Problems and Workarounds}{34}
-\contentsline {subsection}{Adventure Mode}{34}
-\contentsline {subsection}{Automatic Observers}{34}
 \contentsline {section}{Rapid Prototyping}{34}
 \contentsline {subsection}{Small Alterations}{34}
 \contentsline {subsection}{Quantum Teleportation Experiment}{34}
