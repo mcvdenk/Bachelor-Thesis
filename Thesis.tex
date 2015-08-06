@@ -569,7 +569,21 @@ Not distracting the student from the content of an instruction falls within the 
 
 Off-loading, eliminating redundancy, and synchronising only apply when providing the instruction both visually and auditory, which will not be realised for the prototype of the instruction. Pretraining is a training in the names and characteristics before the instruction, so the student already knows the names and does not need to memorise them. However, this instruction actually serves as a pretraining for later instruction on experiments relevant to quantum mechanics. Segmenting refers to the allowing of time in between different segments within the instruction, so the student is able to absorb the information of the previous segment. Weeding entails the elimination of unnecessary material in order to leave more room for the student to learn the relevant information. Signalling refers to the use of advance cues of how to process the information, so the student can actively focus on the more relevant information instead of the extraneous material. Aligning the text with correspondent graphics reduces visual scanning. Finally, individualising refers to providing the instruction in multiple forms so the content can be learned matching the aptitude of the student.
 
-\subsection{Room design}
+\begin{figure}[h]
+\centering
+\includegraphics[width=.5\textwidth]{game-elements}
+\caption{The different elements of a game by \protect\citeA{schell}.\label{fig:game-elements}}
+\end{figure}
+
+\citeA{schell} defines four different elements of a game, which are the technology, the story, the mechanics, and the aesthetics. He also orders them in visibility, where the technology is least apparent and the aesthetics are most apparent (see figure~\ref{fig:game-elements}). The technology refers to the medium used, and to the possibilities of interaction with the player. In the case of this instruction this is the computer, controlled by mouse and keyboard. When the game is played and the player is used to the technology, this element becomes less apparent. Still, it is an important element, for it defines the aspect which makes the game different from another medium. The technology also plays an important role for the mechanics, which is the next game element.
+
+The mechanics are the rules and procedures, and define the way the game reacts to the actions of the player. This makes them visible through the interaction the player has with the game. The rules are mostly already defined by Minecraft and qCraft, but it also refers to mechanics of opening the next iron door, which are already specified within the initial framework of the instruction on page~\pageref{app:framework1}. Furthermore, there are some options for how the game of Minecraft is played. The game contains three game modes, which are creative mode, survival mode and adventure mode in version 1.7 of the game. Creative mode entails that the player already has every block available to be placed into the world and that every block in the world can be destroyed immediately. The player also has the ability of flying, which is convenient for placing or destroying blocks. This game mode is used for setting up the environment. Survival mode is intended to be the main game mode, but is not used for this instruction. In adventure mode, the player is not allowed to place or destroy blocks, and is not able to fly. This mode is ideal for player made adventure maps, and is also used when the student is playing the map containing the instruction. A couple of other options are available altering the mechanics, which are displayed in the Settings appendix on page~\pageref{app:settings}.
+
+Story is the next element described by \citeA{schell}, which is mostly considered comparable to the story of a book or a movie. In game design however, story is referred to as the sequence of events delivered by the mechanics of the game, and is visible via these mechanics. Minecraft in itself has very few story elements, for it is a game of exploration and of letting players create stories of his own within the boundaries of the mechanics. The only already available story elements are the different landscapes, the availability of certain blocks and entities, and the names of these blocks and entities. Within the instruction, story will be delivered using the logic component of redstone, using the special blocks introduced by qCraft and using item frames, signs and books. How the text is delivered is described within the text section on page~\pageref{subsec:devtext}.
+
+The final element is aesthetics, which is directly visible to the player and therefore an important aspect of game design. Next to the fact that good aesthetic design is appreciated by the player and therefore more enjoyable, it also sets the mood or tone for the game. The aesthetics within Minecraft is partly already decided by the appearance of the blocks and entities available. One example of this is the fact that every block has a 16 by 16 pixel texture for each side, which already gives the game a feeling of a game from the early days of gaming. However, there are still a lot of possibilities left for the aesthetic design by selecting certain blocks and placing the blocks in certain formations. This will be elaborated within the next section.
+
+\subsection{Aesthetic design}
 
 \begin{figure}[h]
 \centering
@@ -582,6 +596,7 @@ Off-loading, eliminating redundancy, and synchronising only apply when providing
 \subsection{The Main Hall}
 
 \subsection{Text}
+\label{subsec:devtext}
 
 \section{Encountered Problems and Workarounds}
 
@@ -2082,6 +2097,22 @@ Off-loading, eliminating redundancy, and synchronising only apply when providing
 		\item The professor adds to this that quantum mechanics is very relevant in modern technology, he mentions the laser and the transistor as examples, and he also mentions that quantum computers could be a very relevant topic in the future
 		\item Finally, he says to the student that he can now go back to the real world, and he thanks the student for his participation
 	\end{itemize}
+\end{itemize}
+
+\newpage
+
+\section{Settings}
+\label{app:settings}
+
+\begin{itemize}
+	\item gamemode: 2
+	\item commandBlockOutput: false
+	\item doDaylightCycle: false
+	\item doFireTick: false
+	\item doMobSpawning: false
+	\item doTileDrops: false
+	\item keepInventory: true
+	\item naturalGeneration: true
 \end{itemize}
 
 \newpage

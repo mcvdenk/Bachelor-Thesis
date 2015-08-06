@@ -631,6 +631,32 @@ Plomp, T.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Schell%
+}{%
+Schell%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+schell}
+\APACinsertmetastar {%
+schell}%
+\begin{APACrefauthors}%
+Schell, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2014}.
+\newblock
+\APACrefbtitle {The Art of Game Design: A Book of Lenses, Second Edition} {The
+  art of game design: A book of lenses, second edition}.
+\newblock
+\APACaddressPublisher{}{Taylor \& Francis}.
+\newblock
+\begin{APACrefURL} \url{https://books.google.nl/books?id=kRMeBQAAQBAJ}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Singh%
 }{%
 Singh%

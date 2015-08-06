@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  6 AUG 2015 16:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  6 AUG 2015 18:10
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -750,15 +750,22 @@ Underfull \vbox (badness 7796) has occurred while \output is active []
  [22 <./screenshot.png (PNG copy)>] [23] [24] [25] [26] [27] [28] [29
 
 ]
-<roomdesign.png, id=116, 1284.8pt x 753.81625pt>
+<game-elements.png, id=116, 497.64868pt x 381.63632pt>
+File: game-elements.png Graphic file (type png)
+ <use game-elements.png>
+Package pdftex.def Info: game-elements.png used on input line 574.
+(pdftex.def)             Requested size: 227.62206pt x 174.55905pt.
+
+[30 <./game-elements.png>] <roomdesign.png, id=121, 1284.8pt x 753.81625pt>
 File: roomdesign.png Graphic file (type png)
- <use roomdesign.png>
-Package pdftex.def Info: roomdesign.png used on input line 576.
+
+<use roomdesign.png>
+Package pdftex.def Info: roomdesign.png used on input line 590.
 (pdftex.def)             Requested size: 455.24411pt x 267.09479pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [30 <./roomdesign.png (PNG copy)>] [31] (./Thesis.bbl [32
+ [31 <./roomdesign.png (PNG copy)>] [32] (./Thesis.bbl [33
 
 ]
 Underfull \hbox (badness 1472) in paragraph at lines 46--64
@@ -779,248 +786,248 @@ OT1/ptm/m/it/10.95 Physics Teacher\OT1/ptm/m/n/10.95 , \OT1/ptm/m/it/10.95 50\O
 T1/ptm/m/n/10.95 (5), 270 -
  []
 
-[33
+[34
 
 ]
-Underfull \hbox (badness 1253) in paragraph at lines 722--739
+Underfull \hbox (badness 1253) in paragraph at lines 748--765
 \OT1/ptm/m/n/10.95 in the con-text of mod-ern physics ex-per-i-ments.  \OT1/ptm
 /m/it/10.95 Amer-i-can Jour-nal of Physics\OT1/ptm/m/n/10.95 , \OT1/ptm/m/it/10
 .95 71\OT1/ptm/m/n/10.95 (6), 599 -
  []
 
-[34]) [35]
+[35]) [36]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 624.
+(Font)              <7> on input line 639.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 624.
+(Font)              <5> on input line 639.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 626.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 641.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 626.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 641.
 
-Overfull \hbox (3.98523pt too wide) in paragraph at lines 626--626
+Overfull \hbox (3.98523pt too wide) in paragraph at lines 641--641
 []|\OT1/ptm/b/n/9 Prerequisite| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 627--627
+Underfull \hbox (badness 10000) in paragraph at lines 642--642
 []|\OT1/ptm/m/n/10 Applications of
  []
 
 
-Underfull \hbox (badness 2828) in paragraph at lines 628--628
+Underfull \hbox (badness 2828) in paragraph at lines 643--643
 \OT1/ptm/m/n/10 thing we ob-serve ex-ists out of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 632--632
+Underfull \hbox (badness 10000) in paragraph at lines 647--647
 []|\OT1/ptm/m/n/10 Probably pre-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 633--633
+Underfull \hbox (badness 10000) in paragraph at lines 648--648
 []|\OT1/ptm/m/n/10 Might be pre-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 634--634
+Underfull \hbox (badness 10000) in paragraph at lines 649--649
 []|\OT1/ptm/m/n/10 Might be pre-
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 635--635
+Underfull \hbox (badness 1661) in paragraph at lines 650--650
 \OT1/ptm/m/n/10 ex-ist out of 2 up-quarks and 1
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 635--635
+Underfull \hbox (badness 10000) in paragraph at lines 650--650
 []|\OT1/ptm/m/n/10 Might be pre-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 636--636
+Underfull \hbox (badness 10000) in paragraph at lines 651--651
 []|\OT1/ptm/m/n/10 Might be pre-
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 654--654
+Underfull \hbox (badness 1173) in paragraph at lines 669--669
 []|\OT1/ptm/m/n/10 Classical Com-mu-ni-
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 655--655
+Underfull \hbox (badness 1173) in paragraph at lines 670--670
 []|\OT1/ptm/m/n/10 Classical Com-mu-ni-
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 656--656
+Underfull \hbox (badness 1173) in paragraph at lines 671--671
 []|\OT1/ptm/m/n/10 Classical Com-mu-ni-
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 657--657
+Underfull \hbox (badness 1173) in paragraph at lines 672--672
 []|\OT1/ptm/m/n/10 Classical Com-mu-ni-
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 658--658
+Underfull \hbox (badness 3271) in paragraph at lines 673--673
 []|\OT1/ptm/m/n/10 Observation De-pen-
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 659--659
+Underfull \hbox (badness 3271) in paragraph at lines 674--674
 []|\OT1/ptm/m/n/10 Observation De-pen-
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 660--660
+Underfull \hbox (badness 3271) in paragraph at lines 675--675
 []|\OT1/ptm/m/n/10 Observation De-pen-
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 661--661
+Underfull \hbox (badness 3271) in paragraph at lines 676--676
 []|\OT1/ptm/m/n/10 Observation De-pen-
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 662--662
+Underfull \hbox (badness 1281) in paragraph at lines 677--677
 []|\OT1/ptm/m/n/10 Realism and On-tol-
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 663--663
+Underfull \hbox (badness 1052) in paragraph at lines 678--678
 []|\OT1/ptm/m/n/10 The stu-dent can state the re-al-ist
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 663--663
+Underfull \hbox (badness 1281) in paragraph at lines 678--678
 []|\OT1/ptm/m/n/10 Realism and On-tol-
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 664--664
+Underfull \hbox (badness 1281) in paragraph at lines 679--679
 []|\OT1/ptm/m/n/10 Realism and On-tol-
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 665--665
+Underfull \hbox (badness 1281) in paragraph at lines 680--680
 []|\OT1/ptm/m/n/10 Realism and On-tol-
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 666--666
+Underfull \hbox (badness 1281) in paragraph at lines 681--681
 []|\OT1/ptm/m/n/10 Realism and On-tol-
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 675--675
+Underfull \hbox (badness 1281) in paragraph at lines 690--690
 []|\OT1/ptm/m/n/10 Realism and On-tol-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 704--704
+Underfull \hbox (badness 10000) in paragraph at lines 719--719
 []|\OT1/ptm/m/n/10 The stu-dent can ex-plain why
  []
 
 
-Underfull \hbox (badness 3954) in paragraph at lines 706--706
+Underfull \hbox (badness 3954) in paragraph at lines 721--721
 \OT1/ptm/m/n/10 pens when con-duct-ing quan-tum
  []
 
-[36
+[37
 
-] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50]
-[51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65]
-[66] [67] [68] [69] [70] [71] [72]
-<legend.png, id=255, 211.79124pt x 242.9075pt>
+] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51]
+[52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66]
+[67] [68] [69] [70] [71] [72] [73] [74]
+<legend.png, id=264, 211.79124pt x 242.9075pt>
 File: legend.png Graphic file (type png)
  <use legend.png>
-Package pdftex.def Info: legend.png used on input line 2093.
+Package pdftex.def Info: legend.png used on input line 2124.
 (pdftex.def)             Requested size: 136.57462pt x 156.64632pt.
 
-<qcraftblockrooms.png, id=256, 478.78876pt x 478.78876pt>
+<qcraftblockrooms.png, id=265, 478.78876pt x 478.78876pt>
 File: qcraftblockrooms.png Graphic file (type png)
 
 <use qcraftblockrooms.png>
-Package pdftex.def Info: qcraftblockrooms.png used on input line 2100.
+Package pdftex.def Info: qcraftblockrooms.png used on input line 2131.
 (pdftex.def)             Requested size: 318.66948pt x 318.66814pt.
- <odb-puzzle.png, id=257, 344.28625pt x 346.29375pt>
+ <odb-puzzle.png, id=266, 344.28625pt x 346.29375pt>
 File: odb-puzzle.png Graphic file (type png)
 
 <use odb-puzzle.png>
-Package pdftex.def Info: odb-puzzle.png used on input line 2107.
+Package pdftex.def Info: odb-puzzle.png used on input line 2138.
 (pdftex.def)             Requested size: 227.62206pt x 228.95087pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<qb-puzzle.png, id=258, 339.2675pt x 340.27126pt>
+<qb-puzzle.png, id=267, 339.2675pt x 340.27126pt>
 File: qb-puzzle.png Graphic file (type png)
  <use qb-puzzle.png>
-Package pdftex.def Info: qb-puzzle.png used on input line 2114.
+Package pdftex.def Info: qb-puzzle.png used on input line 2145.
 (pdftex.def)             Requested size: 227.62206pt x 228.29207pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<sp-puzzle.png, id=259, 481.8pt x 480.79625pt>
+<sp-puzzle.png, id=268, 481.8pt x 480.79625pt>
 File: sp-puzzle.png Graphic file (type png)
  <use sp-puzzle.png>
-Package pdftex.def Info: sp-puzzle.png used on input line 2121.
+Package pdftex.def Info: sp-puzzle.png used on input line 2152.
 (pdftex.def)             Requested size: 318.66948pt x 318.01611pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<ent-puzzle.png, id=260, 344.28625pt x 342.27875pt>
+<ent-puzzle.png, id=269, 344.28625pt x 342.27875pt>
 File: ent-puzzle.png Graphic file (type png)
  <use ent-puzzle.png>
-Package pdftex.def Info: ent-puzzle.png used on input line 2128.
+Package pdftex.def Info: ent-puzzle.png used on input line 2159.
 (pdftex.def)             Requested size: 227.62206pt x 226.29636pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[73 <./legend.png> <./qcraftblockrooms.png>]
-<Evaluation_matchboard-1.png, id=267, 3320.405pt x 2347.77126pt>
+[75 <./legend.png> <./qcraftblockrooms.png>]
+<Evaluation_matchboard-1.png, id=275, 3320.405pt x 2347.77126pt>
 File: Evaluation_matchboard-1.png Graphic file (type png)
 
 <use Evaluation_matchboard-1.png>
-Package pdftex.def Info: Evaluation_matchboard-1.png used on input line 2140.
+Package pdftex.def Info: Evaluation_matchboard-1.png used on input line 2171.
 (pdftex.def)             Requested size: 3320.39694pt x 2347.76556pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Evaluation_matchboard-2.png, id=268, 3320.405pt x 2347.77126pt>
+<Evaluation_matchboard-2.png, id=276, 3320.405pt x 2347.77126pt>
 File: Evaluation_matchboard-2.png Graphic file (type png)
 
 <use Evaluation_matchboard-2.png>
-Package pdftex.def Info: Evaluation_matchboard-2.png used on input line 2145.
+Package pdftex.def Info: Evaluation_matchboard-2.png used on input line 2176.
 (pdftex.def)             Requested size: 3320.39694pt x 2347.76556pt.
 
-Overfull \hbox (41.67142pt too wide) in paragraph at lines 2145--2146
+Overfull \hbox (41.67142pt too wide) in paragraph at lines 2176--2177
  [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[74 <./odb-puzzle.png> <./qb-puzzle.png>] [75 <./sp-puzzle.png> <./ent-puzzle.p
-ng>] [76 <./Evaluation_matchboard-1.png>] [77 <./Evaluation_matchboard-2.png>]
+[76 <./odb-puzzle.png> <./qb-puzzle.png>] [77 <./sp-puzzle.png> <./ent-puzzle.p
+ng>] [78 <./Evaluation_matchboard-1.png>] [79 <./Evaluation_matchboard-2.png>]
 (./Thesis.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6258 strings out of 493117
- 92508 string characters out of 6135433
- 205616 words of memory out of 5000000
- 9581 multiletter control sequences out of 15000+600000
+ 6270 strings out of 493117
+ 92703 string characters out of 6135433
+ 206703 words of memory out of 5000000
+ 9592 multiletter control sequences out of 15000+600000
  31825 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,12n,43p,1670b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,12n,43p,1670b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texl
@@ -1035,10 +1042,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on Thesis.pdf (77 pages, 3058282 bytes).
+Output written on Thesis.pdf (79 pages, 3126701 bytes).
 PDF statistics:
- 334 PDF objects out of 1000 (max. 8388607)
- 213 compressed objects within 3 object streams
+ 343 PDF objects out of 1000 (max. 8388607)
+ 218 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
