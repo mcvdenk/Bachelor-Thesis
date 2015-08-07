@@ -360,6 +360,29 @@ Hubber, P.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Kirkpatrick%
+}{%
+Kirkpatrick%
+}{%
+{\protect \APACyear {1983}}%
+}]{%
+kirkpatrick}
+\APACinsertmetastar {%
+kirkpatrick}%
+\begin{APACrefauthors}%
+Kirkpatrick, D\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1983}{November}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Four steps of measuring training effectiveness} {Four
+  steps of measuring training effectiveness}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Personnel Administrator}{28}{}{19-25}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Kuttner%
 \ \BBA {} Rosenblum%
 }{%
@@ -821,6 +844,32 @@ Velentzas, A.%
 \begin{APACrefURL}
   \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ924554&site=ehost-live}
   \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Verloop%
+\ \BBA {} Lowyck%
+}{%
+Verloop%
+\ \BBA {} Lowyck%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+onderwijskunde}
+\APACinsertmetastar {%
+onderwijskunde}%
+\begin{APACrefauthors}%
+Verloop, N.%
+\BCBT {}\ \BBA {} Lowyck, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2009}.
+\newblock
+\APACrefbtitle {Onderwijskunde, een kennisbasis voor professionals}
+  {Onderwijskunde, een kennisbasis voor professionals}.
+\newblock
+\APACaddressPublisher{Houten}{Noordhoff Uitgevers}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
