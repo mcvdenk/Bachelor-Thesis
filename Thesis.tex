@@ -11,6 +11,8 @@
 
 \usepackage[utf8]{inputenc} % set input encoding (not needed with XeLaTeX)
 
+\usepackage{placeins}
+
 %%% Examples of Article customizations
 % These packages are optional, depending whether you want the features they provide.
 % See the LaTeX Companion or other references for full information.
@@ -636,6 +638,8 @@ As stated before, the adventure game mode is supposed to prevent a player of bre
 
 The other problem was related to the Automatic Observers and their effect on Quantum Blocks. As explained before, if an Observer Dependent Block is observed, it collapses depending on the angle from which it is observed, and if a Quantum Block is observed, it collapses at random. However, when a Quantum Block is observed by an Automatic Observer, it behaves like an Observer Dependent Block, always collapsing the same way, dependent on the angle of the Automatic Observer. This is different behaviour than it would be expected, and closed off certain possibilities for the use of Automatic Observers. Fortunately, the main use of the Automatic Observer within the instruction was the fact that it resets the collapse of a qCraft block when the Observer gets deactivated, for this is used teaching the student about superposition. Therefore, the work around for this problem was to rename the Automatic Observer to Quantum Resetter, and making it so that if it is triggered, it would be activated and immediately deactivated, resulting in a reset of the state of the qCraft block.
 
+Finally, the Quantum Goggles were also not behaving quite the way they were expected to work. Purely based on the description of the item, one would think that its function is only highlighting the blocks. However, the Goggles also work as Anti-Observation Goggles, and if a qCraft Block has an air block block type, the Goggles make that block into a physical block. This did not need a workaround within the current instruction.
+
 \section{Rapid Prototyping}
 
 After the instruction was entirely developed, it was improved using rapid prototyping, which entails applying short improvement and evaluation cycles. It was evaluated with undergraduate students according the Micro-evaluation (see the Evaluation Matchboard appendix on page~\pageref{app:evamatchboard}). The method of evaluation is described more thoroughly in the Method section of the Formative Evaluation on page~\pageref{sec:methodevaluation}. The results of these evaluations were use to improve the map, enhancing the playing experience and improving the learning effectiveness. 
@@ -650,7 +654,11 @@ Then, after the evaluations with participants 301, 304 and 305, some of the elem
 
 Furthermore, following from the evaluations with participant 401 and 404, it was found that participants in general had problems reading the messages from the Message System, for the students often did not see them pop up on the bottom of the screen and missed them. Because of this, all Message System messages were changed into messages on signs, which did get read by the participants.
 
-Finally, some of the participants did complain about the monotony of the qCraft block branches and of the text heavy branches. Therefore, between participant 502 and 603, most of the branches within the instruction were reorganised into a different order, alternating between qCraft block branches and text heavy branches.
+Some of the participants did complain about the monotony of the qCraft block branches and of the text heavy branches. Therefore, between participant 502 and 603, most of the branches within the instruction were reorganised into a different order, alternating between qCraft block branches and text heavy branches.
+
+Finally, also between participant 502 and 603, the second tutorial which taught students about the goggles and the quantum resetter was removed, dividing its components over the other branches, providing the Quantum Goggles within the Observation Dependency branch, and providing instruction about the Quantum Resetter within the Quantum Block branch. This was done in order to give the student  tools at an earlier point so they could for example identify which blocks in the room were special blocks.
+
+The Anti-Observation Goggles were provided within a new branch, the Superposition branch. The aim of this new branch was to take the superposition lesson out of the Realism and Ontology branch, so this concept would get more segmented and thereby more highlighted. The branch first provided the student with the goggles, then it let him practice with the goggles, and finally the contraption previously displayed in the side room within the Realism and Ontology branch was presented in a separate room, enclosed with a book containing the text explaining superposition, also taken from the Realism and Ontology branch.
 
 \subsection{Quantum Teleportation Experiment}
 
@@ -670,17 +678,51 @@ The rooms where the student learns about the different qCraft blocks had a coupl
 
 \subsubsection{Puzzles}
 
+Between participant 502 and 603, puzzles were added to the qCraft block branches. In order to solve the puzzles, the student should apply knowledge about the behaviour of the qCraft blocks in order to be able to progress to the next room. First of all, these puzzles were introduced in order to add more gameplay elements to the game, because some of the participants were complaining about the fact that the entire gameplay mechanic of the map could be summarised as moving from book to book, without much interaction with the map. The puzzles could therefore also make the game more fun to play and motivate the student. Furthermore, by having to solve puzzles, the player needs to have an active learning style, required by design principle~\ref{itm:active}. By having to apply the knowledge, there was also a higher guarantee that the student had learned the behaviour of the blocks in more detail. This is also in line with the Practice learning event of instruction (see table~\ref{tab:eventsinstruction} on page~\pageref{tab:eventsinstruction}). The floor plans of the puzzles are included within the Floor Plan appendix on page~\pageref{app:floorplans}.
+
+The first puzzle is entailed in the Observer Dependency branch, displayed in figure~\ref{odb-puzzle}. The goal is for the student to go through the iron door located at the west side of the room. The slightly textured white blocks are representing a glass wall, dividing the room roughly in two halves, and separating the Observer Dependent Block in the north west corner. This block collapses always to a red block, except when observed from the east when it becomes a blue block. When the block is red, the iron door is closed, and when the block is blue, the iron door is open. When discovering the room, the student will find the block changing to blue, but will mostly again trigger an observation from the south when walking to the door because of the way the glass walls are located. The student can solve this puzzle in three different ways: he can simply not look at the block when walking along the glass walls, he can continuously at the block in order to not trigger a new observation, or he can wear the Quantum Goggles which also do not trigger any observations. In the least, he has to understand the effect of Observation Dependency.
+
+The second puzzle is entailed in the Quantum Block branch, displayed in figure~\ref{qb-puzzle}. This time, the student needs to pass through two iron doors which are placed in glass walls. For each iron door there is a Quantum Block, which block type is dependent with the state of the door. Therefore, the student has to trigger observations on a block until it had the right block type corresponding to opening the related door, which he has to repeat for the other door as well. In the next room, there are four Quantum Blocks of which their block types are all interdependent with one door. The student needs to make all of the blocks collapse to the blue block type in order to open the door. This time however, the blocks are hooked up to a Quantum Resetter, which makes it easier for the student to trigger an observation.
+
+Then, in the Superposition branch, the student is also required to solve a puzzle, displayed in figure~\ref{fig:sp-puzzle}. This room is divided by a vertical gap reaching from west to east, which the students needs to cross in order to solve the puzzle. This can be done by walking over a bridge crossing the gap. However, the bridge consists out of Quantum Blocks, which can randomly collapse to the gravel block type. A feature of this block type is that it falls down. This makes random blocks making up the bridge fall down on observation. Furthermore, the bridge is build in such a way that it is hard to cross it without observing the bridge, and it is also hard to cross the bridge while looking continuously at all the blocks. The way this puzzle has to be solved is by wearing the Anti-Observation Goggles, which do not cause any observations on the Quantum Blocks and hence preventing them from falling down.
+
+The final puzzle presented to the student is entailed within the Entanglement branch. This room is again divided by a gap reaching from west to east which the student needs to cross in order to progress. This time, there is a bridge crossing the gap made out of Quantum Blocks of which the block type can collapse to either the air block type or the quartz block type. There are also two walls consisting out of these Quantum Blocks, one at the beginning of the room and one at the end of the room. Furthermore, all these Quantum Blocks are entangled with each other, so they always collapse to an equal state. This puzzle can be solved by first making the block types of all Quantum Blocks collapse to air blocks in order to pass through the first wall, then altering the state to quartz blocks in order to cross the bridge, and then altering the state again in order to pass through the second wall. Alternatively, the block types of the Quantum Blocks can be collapsed to the air block type the whole time, and Quantum Goggles can be worn in order to cross the bridge. This is not an intended solution, however it cannot be circumvented. It is not that much of a problem, because the student probably still learns about entanglement.
+
 \subsubsection{Book Alterations}
 
-\subsubsection{Entanglement branch}
+Together with the implementation of the puzzles, the text within the books of the first iteration was split up and divided over multiple books provided between the gameplay segments. The books could be roughly divided into three categories: block behaviour, tools and transfer. The first books within the branch usually provided feedback on the discovery of the block behaviour by the student. This described purely the behaviour of the block which the student should have found, without referring to its translation of the real world. This is done in the Observer Dependency branch, the Quantum Blocks branch and the Entanglement branch. After that, usually a tool was introduced. These were the Quantum Goggles within the Observer Dependency branch, the Quantum Resetter within the Quantum Blocks branch and the Anti-Observation Goggles within the Superposition branch. Because of this, a book was needed to explain the use of these tools. Finally, a book was provided explaining the just learned behaviour in relation to the behaviour of elementary particles in order for the students to transfer the information to the context of the real world. By using different books for different categories, the text is more segmented, allowing for more time to absorb the information and for providing structure to the student, allowing for signalling of what type of information is contained within the book.
+
+\subsubsection{Incorporation of the Teleportation branch}
+
+Finally, the elements of the Teleportations branch still needed to be incorporated within the other branches. This was done by putting the relevant elements into the Entanglement branch. The two laboratories were placed after the puzzle, and the books with instructions were rewritten to the context of applying the knowledge of bosons and fermions, instead of the context of the teleportation experiment. This way the knowledge of the student about bosons and fermions were still tested without the need for explaining the teleportation experiment. Lastly, the question at the end of the Teleportation branch was also incorporated at the end of the Entanglement branch, but was formulated in terms of possibilities of using entanglement for instantaneous communication, without any reference to the teleportation experiment.
 
 %%% FORMATIVE EVALUATION
 
 \chapter{Formative Evaluation}
 \thispagestyle{fancy}
 
-\section{Method}
+\section{Preliminary evaluations}
+
+\subsection{Screening}
+
+\subsection{Walkthrough}
+
+\section{Method for the Micro-Evaluation}
 \label{sec:methodevaluation}
+
+At the stage of having fully developed a prototype of the instruction, it can be tested on actual practicality and actual effectiveness by conducting a Micro-evaluation \cite{evamatchboard} (see the Matchboard appendix on page~\pageref{app:evamatchboard}). The results of this evaluation can then be used to gain a better understanding of the users experience and to improve the product.
+
+\citeA{kirkpatrick} lists four different steps of measuring the effectiveness of a training, which are Reaction, Learning, Behaviour and Results. The Reaction step entails measuring how the instruction is received, for example which part of the instruction was perceived to be difficult. Within the Learning step, the amount of knowledge retained with the student is measured. This can be achieved by comparing statements of the student with the corresponding learning objective and standards, exempli gratia comparing the statement "Atoms are made out of molecules" with learning objective~\ref{itm:molecules} (see page~\pageref{itm:molecules}). The next step, Behaviour, can be measuring by letting the student perform behaviour and comparing this with the expected or intended behaviour. In the context of this instruction this could be the performance of a student on a test on the subject matter. Finally, the Results refer to the accomplishment of the main goal of implementing the instruction, in the case of this instruction this would passing the Centraal Eindexamen, and could be measured by the amount of students passing the Centraal EIndexamen. For this prototype, it is only possible to measure the Reaction and the Learning step, for the Behaviour and Results steps require the instruction already being implemented within the intended context.
+
+\subsection{Pretest}
+
+\subsection{Observation}
+
+\subsection{Interviews}
+
+\section{Results of the Micro-Evaluation}
+
+\chapter{Conclusion and Discussion}
 
 \bibliographystyle{apacite}
 \bibliography{references}
@@ -2177,6 +2219,7 @@ The rooms where the student learns about the different qCraft blocks had a coupl
 \newpage
 
 \section{Floor Plans}
+\label{app:floorplans}
 
 \begin{figure}[h!]
 \centering
@@ -2220,12 +2263,14 @@ The rooms where the student learns about the different qCraft blocks had a coupl
 \label{fig:ent-puzzle}
 \end{figure}
 
+\FloatBarrier
+
 \newpage
 
 \section{The Evaluation Matchboard}
 \label{app:evamatchboard}
 
-\begin{figure}[h]
+\begin{figure}[h!]
 \centering
 \includegraphics[angle=90, height=.75\textheight]{Evaluation_matchboard-1}
 \end{figure}
