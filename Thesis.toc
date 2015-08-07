@@ -1,53 +1,58 @@
-\contentsline {section}{Preface}{6}
-\contentsline {subsection}{The Generic Model}{6}
-\contentsline {subsection}{Topics mentioned in literature}{6}
-\contentsline {chapter}{Analyses}{10}
-\contentsline {section}{Context Analysis}{10}
-\contentsline {subsection}{Needs Assessment}{10}
-\contentsline {subsubsection}{The problem}{11}
-\contentsline {subsubsection}{The innovation}{12}
-\contentsline {subsection}{Learning Environment}{13}
-\contentsline {section}{Learner Analysis}{14}
-\contentsline {section}{Task Analysis}{14}
-\contentsline {subsection}{Learning goal}{15}
-\contentsline {subsection}{Teaching strategies}{15}
-\contentsline {subsection}{Prerequisite analysis}{16}
-\contentsline {subsection}{Learning objectives}{16}
-\contentsline {subsection}{Test specifications}{18}
-\contentsline {section}{Focus Group Evaluation}{19}
-\contentsline {chapter}{Design}{20}
-\contentsline {section}{Conclusions from the Analysis}{20}
-\contentsline {section}{The Medium}{21}
-\contentsline {subsection}{Requirements for the Medium}{21}
-\contentsline {subsection}{Minecraft}{22}
-\contentsline {subsection}{qCraft}{23}
-\contentsline {subsection}{Possibilities of using qCraft for teaching quantum mechanics}{24}
-\contentsline {section}{Design Principles}{24}
-\contentsline {section}{Framework for the Instruction}{25}
-\contentsline {subsection}{Learning Events of Instruction}{26}
-\contentsline {subsection}{Supplantive and Generative Instruction}{27}
-\contentsline {subsection}{Types of Learning}{27}
-\contentsline {subsection}{Initial Framework}{28}
-\contentsline {chapter}{Development}{30}
-\contentsline {section}{Translation into Minecraft}{30}
-\contentsline {subsection}{Aesthetic design}{32}
-\contentsline {subsection}{Tutorials}{33}
-\contentsline {subsection}{The Main Hall}{33}
-\contentsline {subsection}{Text}{34}
-\contentsline {section}{Encountered Problems and Workarounds}{35}
-\contentsline {section}{Rapid Prototyping}{35}
-\contentsline {subsection}{Minor Alterations}{35}
-\contentsline {subsection}{Quantum Teleportation Experiment}{36}
-\contentsline {subsection}{qCraft Block Branches}{37}
-\contentsline {subsubsection}{Discovery Rooms}{37}
-\contentsline {subsubsection}{Puzzles}{37}
-\contentsline {subsubsection}{Book Alterations}{38}
-\contentsline {subsubsection}{Incorporation of the Teleportation branch}{39}
-\contentsline {chapter}{Formative Evaluation}{40}
-\contentsline {section}{Preliminary evaluations}{40}
-\contentsline {subsection}{Screening}{40}
-\contentsline {subsection}{Walkthrough}{40}
-\contentsline {section}{Method for the Micro-Evaluation}{40}
+\contentsline {section}{Preface}{5}
+\contentsline {subsection}{The Generic Model}{5}
+\contentsline {subsection}{Topics mentioned in literature}{5}
+\contentsline {chapter}{Analyses}{9}
+\contentsline {section}{Context Analysis}{9}
+\contentsline {subsection}{Needs Assessment}{9}
+\contentsline {subsubsection}{The problem}{10}
+\contentsline {subsubsection}{The innovation}{11}
+\contentsline {subsection}{Learning Environment}{12}
+\contentsline {section}{Learner Analysis}{13}
+\contentsline {section}{Task Analysis}{13}
+\contentsline {subsection}{Learning goal}{14}
+\contentsline {subsection}{Teaching strategies}{14}
+\contentsline {subsection}{Prerequisite analysis}{15}
+\contentsline {subsection}{Learning objectives}{15}
+\contentsline {subsection}{Test specifications}{17}
+\contentsline {section}{Focus Group Evaluation}{18}
+\contentsline {chapter}{Design}{19}
+\contentsline {section}{Conclusions from the Analysis}{19}
+\contentsline {section}{The Medium}{20}
+\contentsline {subsection}{Requirements for the Medium}{20}
+\contentsline {subsection}{Minecraft}{21}
+\contentsline {subsection}{qCraft}{22}
+\contentsline {subsection}{Possibilities of using qCraft for teaching quantum mechanics}{23}
+\contentsline {section}{Design Principles}{23}
+\contentsline {section}{Framework for the Instruction}{24}
+\contentsline {subsection}{Learning Events of Instruction}{25}
+\contentsline {subsection}{Supplantive and Generative Instruction}{26}
+\contentsline {subsection}{Types of Learning}{26}
+\contentsline {subsection}{Initial Framework}{27}
+\contentsline {chapter}{Development}{29}
+\contentsline {section}{Translation into Minecraft}{29}
+\contentsline {subsection}{Aesthetic design}{31}
+\contentsline {subsection}{Tutorials}{32}
+\contentsline {subsection}{The Main Hall}{32}
+\contentsline {subsection}{Text}{33}
+\contentsline {section}{Encountered Problems and Workarounds}{34}
+\contentsline {section}{Rapid Prototyping}{34}
+\contentsline {subsection}{Minor Alterations}{34}
+\contentsline {subsection}{Quantum Teleportation Experiment}{35}
+\contentsline {subsection}{qCraft Block Branches}{36}
+\contentsline {subsubsection}{Discovery Rooms}{36}
+\contentsline {subsubsection}{Puzzles}{36}
+\contentsline {subsubsection}{Book Alterations}{37}
+\contentsline {subsubsection}{Incorporation of the Teleportation branch}{38}
+\contentsline {chapter}{Formative Evaluation}{39}
+\contentsline {section}{Method for the Micro-Evaluation}{39}
+\contentsline {subsection}{Research Approach}{39}
+\contentsline {subsection}{Research Goal}{39}
+\contentsline {subsection}{Theoretical Significance}{40}
+\contentsline {subsection}{Ethical Admissibility}{40}
+\contentsline {subsection}{Research Questions}{40}
+\contentsline {subsection}{Action Based Research}{40}
+\contentsline {subsection}{Respondents}{41}
+\contentsline {subsection}{Data Collection}{41}
 \contentsline {subsection}{Pretest}{41}
 \contentsline {subsection}{Observation}{41}
 \contentsline {subsection}{Interviews}{41}

@@ -63,6 +63,35 @@ Asikainen, M\BPBI A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Baarda%
+, de Goede%
+\BCBL {}\ \BBA {} Teunissen%
+}{%
+Baarda%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+kwalitatief}
+\APACinsertmetastar {%
+kwalitatief}%
+\begin{APACrefauthors}%
+Baarda, D\BPBI B.%
+, de Goede, M\BPBI P\BPBI M.%
+\BCBL {}\ \BBA {} Teunissen, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2009}.
+\newblock
+\APACrefbtitle {Basisboek Kwalitatief Onderzoek, Handleiding voor het opzetten
+  en uitvoeren van kwalitatief onderzoek} {Basisboek kwalitatief onderzoek,
+  handleiding voor het opzetten en uitvoeren van kwalitatief onderzoek}\
+  (\PrintOrdinal{2}\ \BEd).
+\newblock
+\APACaddressPublisher{Houten}{Noordhoff Uitgevers}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Barnes%
 , Garner%
 \BCBL {}\ \BBA {} Reid%
