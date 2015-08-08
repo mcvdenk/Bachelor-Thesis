@@ -46,18 +46,20 @@
 \contentsline {part}{Formative Evaluation}{49}
 \contentsline {chapter}{Method for the Micro-Evaluation}{51}
 \contentsline {section}{Research Approach}{51}
-\contentsline {section}{Research Goal}{51}
-\contentsline {section}{Theoretical Significance}{51}
-\contentsline {section}{Ethical Admissibility}{52}
-\contentsline {section}{Research Questions}{52}
-\contentsline {section}{Action Based Research}{52}
-\contentsline {section}{Respondents}{52}
-\contentsline {section}{Concepts Central to the Research}{53}
-\contentsline {section}{Methods of Data Gathering}{54}
-\contentsline {section}{Pretest}{54}
-\contentsline {section}{Observation}{54}
-\contentsline {section}{Interviews}{55}
-\contentsline {section}{Analysis}{55}
+\contentsline {subsection}{Research Goal}{51}
+\contentsline {subsection}{Theoretical Significance}{51}
+\contentsline {subsection}{Ethical Admissibility}{52}
+\contentsline {subsection}{Research Questions}{52}
+\contentsline {subsection}{Action Based Research}{52}
+\contentsline {subsection}{Respondents}{52}
+\contentsline {subsection}{Concepts Central to the Research}{52}
+\contentsline {subsection}{Methods of Data Gathering}{53}
+\contentsline {subsection}{Pretest}{54}
+\contentsline {subsection}{Observation}{54}
+\contentsline {subsection}{Interviews}{54}
+\contentsline {section}{Analysis of the results}{55}
+\contentsline {subsection}{Data Preparation}{55}
+\contentsline {subsection}{Coding the Transcriptions}{55}
 \contentsline {chapter}{Results of the Micro-Evaluation}{56}
 \contentsline {section}{Descriptives}{56}
 \contentsline {section}{Observation}{56}
