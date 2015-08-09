@@ -30,6 +30,13 @@
 
 % \usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
 
+\usepackage[explicit]{titlesec}
+
+\newcommand*\Hidechapter{%
+\titleformat{\chapter}[display]
+  {}{}{0pt}{\Huge}
+}
+
 %%% PACKAGES
 \usepackage{url}
 \usepackage{booktabs} % for much better looking tables
@@ -38,6 +45,9 @@
 \usepackage{verbatim} % adds environment for commenting out blocks of text & for better verbatim
 \usepackage{subfig} % make it possible to include more than one captioned figure/table in a single float
 \usepackage[final]{pdfpages}
+\usepackage{pdflscape}
+\usepackage{rotating}
+\usepackage{rotfloat}
 % These packages are all incorporated in the memoir class to one degree or another...
 
 %%% HEADERS & FOOTERS
@@ -48,6 +58,13 @@
 \lfoot[\small \today]{\small \thepage}
 \cfoot{}
 \rfoot[\small \thepage]{\small \today}
+
+\newcommand*\Hide{%
+\titleformat{\chapter}[display]
+  {}{}{0pt}{\Huge}
+\titleformat{\part}
+  {}{}{0pt}{}
+}
 
 %%% SECTION TITLE APPEARANCE
 \usepackage{sectsty}
@@ -654,25 +671,25 @@ After the instruction was entirely developed, it was improved using rapid protot
 
 First of all, some minor alterations took place. Most of these entailed bug fixing - for example when a player is teleported to a slightly wrong location - or the fixing of spelling and grammatical errors within the books. There were also some minor alterations related to the content of the instruction.
 
-After the evaluation with participant 101, 204, and 205, the ticket system was altered. The participants complained that the long walk to the end of the hallway and back again to the entrance of the next branch was tedious and took too long. Also, the time needed for the dropper system to open the door took too long. Finally, the participants did not always know were to go next because they were disoriented after walking to the end and back. Instead having the dropper system at the end of the main hall, smaller dropper systems were placed next to the entrances of the branch. This resulted in the player having only to walk the distance to the next branch making it less tedious. Furthermore, lamps were placed at both sides of every entrance, which were activated the moment the ticket was inserted, making it easier for the player to find his way.
+After the evaluation with respondent 101, 204, and 205, the ticket system was altered. The respondents complained that the long walk to the end of the hallway and back again to the entrance of the next branch was tedious and took too long. Also, the time needed for the dropper system to open the door took too long. Finally, the respondents did not always know were to go next because they were disoriented after walking to the end and back. Instead having the dropper system at the end of the main hall, smaller dropper systems were placed next to the entrances of the branch. This resulted in the player having only to walk the distance to the next branch making it less tedious. Furthermore, lamps were placed at both sides of every entrance, which were activated the moment the ticket was inserted, making it easier for the player to find his way.
 
-Then, after the evaluations with participants 301, 304 and 305, some of the elements of the tutorial were removed. This entailed the removal of the entire signal room, the removal of the wooden pressure plate and the tripwire hook system within the interaction room, and the removal of the entire input blocks room. These elements were redundant for the rest of the map, and also only led to confusion of the participants. Furthermore, weeding was applied to the Theory of Relativity branch by changing its name to Classical Communication and eliminating the theory of relativity element, for the only information necessary was that particles can not travel faster than light, without understanding why this is the case. The calculation of the time needed for a message given the distance was also made easier by using a distance of 3000 km instead of 1000 km, which resulted in a time of 0.01 s instead of 0.00333 s.
+Then, after the evaluations with respondents 301, 304 and 305, some of the elements of the tutorial were removed. This entailed the removal of the entire signal room, the removal of the wooden pressure plate and the tripwire hook system within the interaction room, and the removal of the entire input blocks room. These elements were redundant for the rest of the map, and also only led to confusion of the respondents. Furthermore, weeding was applied to the Theory of Relativity branch by changing its name to Classical Communication and eliminating the theory of relativity element, for the only information necessary was that particles can not travel faster than light, without understanding why this is the case. The calculation of the time needed for a message given the distance was also made easier by using a distance of 3000 km instead of 1000 km, which resulted in a time of 0.01 s instead of 0.00333 s.
 
-Furthermore, following from the evaluations with participant 401 and 404, it was found that participants in general had problems reading the messages from the Message System, for the students often did not see them pop up on the bottom of the screen and missed them. Because of this, all Message System messages were changed into messages on signs, which did get read by the participants.
+Furthermore, following from the evaluations with respondent 401 and 404, it was found that respondents in general had problems reading the messages from the Message System, for the students often did not see them pop up on the bottom of the screen and missed them. Because of this, all Message System messages were changed into messages on signs, which did get read by the respondents.
 
-Some of the participants did complain about the monotony of the qCraft block branches and of the text heavy branches. Therefore, between participant 502 and 603, most of the branches within the instruction were reorganised into a different order, alternating between qCraft block branches and text heavy branches.
+Some of the respondents did complain about the monotony of the qCraft block branches and of the text heavy branches. Therefore, between respondent 502 and 603, most of the branches within the instruction were reorganised into a different order, alternating between qCraft block branches and text heavy branches.
 
-Finally, also between participant 502 and 603, the second tutorial which taught students about the goggles and the quantum resetter was removed, dividing its components over the other branches, providing the Quantum Goggles within the Observation Dependency branch, and providing instruction about the Quantum Resetter within the Quantum Block branch. This was done in order to give the student  tools at an earlier point so they could for example identify which blocks in the room were special blocks.
+Finally, also between respondent 502 and 603, the second tutorial which taught students about the goggles and the quantum resetter was removed, dividing its components over the other branches, providing the Quantum Goggles within the Observation Dependency branch, and providing instruction about the Quantum Resetter within the Quantum Block branch. This was done in order to give the student  tools at an earlier point so they could for example identify which blocks in the room were special blocks.
 
 The Anti-Observation Goggles were provided within a new branch, the Superposition branch. The aim of this new branch was to take the superposition lesson out of the Realism and Ontology branch, so this concept would get more segmented and thereby more highlighted. The branch first provided the student with the goggles, then it let him practice with the goggles, and finally the contraption previously displayed in the side room within the Realism and Ontology branch was presented in a separate room, enclosed with a book containing the text explaining superposition, also taken from the Realism and Ontology branch.
 
 \section{Quantum Teleportation Experiment}
 
-The first iteration of the quantum teleportation branch only led to confusion with the participants, even though these participants already had already a quite advanced understanding of quantum mechanics before the instruction. Because of this, after participants 101, 204, and 205, this branch was temporarily closed off for participants 301, 304, and 305. The feedback received on this branch entailed that the contraption in the first room was incomprehensible, for it was very unclear what was happening upon pressing the reset button. Furthermore, the participants did not know what to do in Laboratory B, and that their strategy was to try pressing buttons until the door opened. The only comprehensible part of the instruction was the last question, but this could be explained because the tested participants already knew the answer before the instruction.
+The first iteration of the quantum teleportation branch only led to confusion with the respondents, even though these respondents already had already a quite advanced understanding of quantum mechanics before the instruction. Because of this, after respondents 101, 204, and 205, this branch was temporarily closed off for respondents 301, 304, and 305. The feedback received on this branch entailed that the contraption in the first room was incomprehensible, for it was very unclear what was happening upon pressing the reset button. Furthermore, the respondents did not know what to do in Laboratory B, and that their strategy was to try pressing buttons until the door opened. The only comprehensible part of the instruction was the last question, but this could be explained because the tested respondents already knew the answer before the instruction.
 
-Between the evaluation of participant 305 and 401, a complete new iteration of this branch was implemented, as can be seen in the framework for the second version of the quantum teleportation experiment on page~\pageref{app:teleportation2}. First of all, the large contraption in the first room was removed. Furthermore, this iteration splits the first book of the first iteration into four books. The first book describes science fiction teleportation, the second book explains the role of the researcher at laboratory A, and the third book explains the role of the researcher at laboratory B. This allows for more segmenting between the books. The player now also has to perform the steps of the second book, which has to be done in a newly implemented laboratory A. The tests whether the student can follow the procedure were an enhanced version of the test in the previous iteration, for both the newly implemented laboratory A and the already existing B. This time, it was more clear in which laboratory the student was supposed to be standing. Furthermore, the buttons and lamps were also better labeled. Finally, the student had to perform three successful teleportation in a row in order to open the iron door, so the student had to put more effort in just trying buttons until success, and therefore requiring a better comprehension of the procedure in order to progress.
+Between the evaluation of respondent 305 and 401, a complete new iteration of this branch was implemented, as can be seen in the framework for the second version of the quantum teleportation experiment on page~\pageref{app:teleportation2}. First of all, the large contraption in the first room was removed. Furthermore, this iteration splits the first book of the first iteration into four books. The first book describes science fiction teleportation, the second book explains the role of the researcher at laboratory A, and the third book explains the role of the researcher at laboratory B. This allows for more segmenting between the books. The player now also has to perform the steps of the second book, which has to be done in a newly implemented laboratory A. The tests whether the student can follow the procedure were an enhanced version of the test in the previous iteration, for both the newly implemented laboratory A and the already existing B. This time, it was more clear in which laboratory the student was supposed to be standing. Furthermore, the buttons and lamps were also better labeled. Finally, the student had to perform three successful teleportation in a row in order to open the iron door, so the student had to put more effort in just trying buttons until success, and therefore requiring a better comprehension of the procedure in order to progress.
 
-In spite of these enhancements, the following participants still had problems with understanding the procedure, even the participant who performed relatively well within the other domains. Therefore, the decision was made to remove the teleportation procedure and its most important components were transferred to the entanglement branch, as will be described in the following section.
+In spite of these enhancements, the following respondents still had problems with understanding the procedure, even the respondent who performed relatively well within the other domains. Therefore, the decision was made to remove the teleportation procedure and its most important components were transferred to the entanglement branch, as will be described in the following section.
 
 \section{qCraft Block Branches}
 
@@ -680,11 +697,11 @@ There were also a couple of alterations made to the qCraft block branches, which
 
 \subsection{Discovery Rooms}
 
-The rooms where the student learns about the different qCraft blocks had a couple of changes. In the first iteration, the qCraft blocks were linked to an iron door, forcing the player to alter the block into different states in order to unlock the next room. However, participant 101, 204 and 205 were focusing on only opening the iron door instead of on discovering the behaviour of the block. Therefore, a sign was placed at the beginning of the room, asking the student to find the differences between the two present blocks. The iron door was also removed, which resulted in more discovery and less trying to open the door. Furthermore, between participant 305 and 401, the blocks were placed on separate pedestals in the middle of a gap located in the centre of the room. This forced the students to walk around the blocks, forcing observations from multiple angles. Furthermore, participants reported having trouble finding the exact behaviour of the blocks because they needed a lot of observations in order to get a big enough sample size of behaviour. This was made easier by adding more blocks on each pedestal, which was also implemented between participant 305 and 401. Finally, the participants were mainly observing the blocks from the corners of the room, where with the Observer Dependent Blocks the behaviour was more consistent when observed from an orthogonal angle. By placing pillars in the four corners of the gap and thereby obscuring view of the blocks from the corners of the room, the following participants were more inclined to observe the blocks from an orthogonal angle. A floor plan of this final room can be seen in the Floor Plans appendix in figure~\ref{fig:qcraftblockrooms} on page~\pageref{fig:qcraftblockrooms}.
+The rooms where the student learns about the different qCraft blocks had a couple of changes. In the first iteration, the qCraft blocks were linked to an iron door, forcing the player to alter the block into different states in order to unlock the next room. However, respondent 101, 204 and 205 were focusing on only opening the iron door instead of on discovering the behaviour of the block. Therefore, a sign was placed at the beginning of the room, asking the student to find the differences between the two present blocks. The iron door was also removed, which resulted in more discovery and less trying to open the door. Furthermore, between respondent 305 and 401, the blocks were placed on separate pedestals in the middle of a gap located in the centre of the room. This forced the students to walk around the blocks, forcing observations from multiple angles. Furthermore, respondents reported having trouble finding the exact behaviour of the blocks because they needed a lot of observations in order to get a big enough sample size of behaviour. This was made easier by adding more blocks on each pedestal, which was also implemented between respondent 305 and 401. Finally, the respondents were mainly observing the blocks from the corners of the room, where with the Observer Dependent Blocks the behaviour was more consistent when observed from an orthogonal angle. By placing pillars in the four corners of the gap and thereby obscuring view of the blocks from the corners of the room, the following respondents were more inclined to observe the blocks from an orthogonal angle. A floor plan of this final room can be seen in the Floor Plans appendix in figure~\ref{fig:qcraftblockrooms} on page~\pageref{fig:qcraftblockrooms}.
 
 \subsection{Puzzles}
 
-Between participant 502 and 603, puzzles were added to the qCraft block branches. In order to solve the puzzles, the student should apply knowledge about the behaviour of the qCraft blocks in order to be able to progress to the next room. First of all, these puzzles were introduced in order to add more gameplay elements to the game, because some of the participants were complaining about the fact that the entire gameplay mechanic of the map could be summarised as moving from book to book, without much interaction with the map. The puzzles could therefore also make the game more fun to play and motivate the student. Furthermore, by having to solve puzzles, the player needs to have an active learning style, required by design principle~\ref{itm:active}. By having to apply the knowledge, there was also a higher guarantee that the student had learned the behaviour of the blocks in more detail. This is also in line with the Practice learning event of instruction (see table~\ref{tab:eventsinstruction} on page~\pageref{tab:eventsinstruction}). The floor plans of the puzzles are included within the Floor Plan appendix on page~\pageref{app:floorplans}.
+Between respondent 502 and 603, puzzles were added to the qCraft block branches. In order to solve the puzzles, the student should apply knowledge about the behaviour of the qCraft blocks in order to be able to progress to the next room. First of all, these puzzles were introduced in order to add more gameplay elements to the game, because some of the respondents were complaining about the fact that the entire gameplay mechanic of the map could be summarised as moving from book to book, without much interaction with the map. The puzzles could therefore also make the game more fun to play and motivate the student. Furthermore, by having to solve puzzles, the player needs to have an active learning style, required by design principle~\ref{itm:active}. By having to apply the knowledge, there was also a higher guarantee that the student had learned the behaviour of the blocks in more detail. This is also in line with the Practice learning event of instruction (see table~\ref{tab:eventsinstruction} on page~\pageref{tab:eventsinstruction}). The floor plans of the puzzles are included within the Floor Plan appendix on page~\pageref{app:floorplans}.
 
 The first puzzle is entailed in the Observer Dependency branch, displayed in figure~\ref{fig:odb-puzzle}. The goal is for the student to go through the iron door located at the west side of the room. The slightly textured white blocks are representing a glass wall, dividing the room roughly in two halves, and separating the Observer Dependent Block in the north west corner. This block collapses always to a red block, except when observed from the east when it becomes a blue block. When the block is red, the iron door is closed, and when the block is blue, the iron door is open. When discovering the room, the student will find the block changing to blue, but will mostly again trigger an observation from the south when walking to the door because of the way the glass walls are located. The student can solve this puzzle in three different ways: he can simply not look at the block when walking along the glass walls, he can continuously at the block in order to not trigger a new observation, or he can wear the Quantum Goggles which also do not trigger any observations. In the least, he has to understand the effect of Observation Dependency.
 
@@ -728,7 +745,7 @@ Not only are the results of the evaluation relevant from a practical perspective
 
 \subsection{Ethical Admissibility}
 
-\citeA{kwalitatief} lists a couple of requirements for the research to be ethical admissible. One of these requirements is that the respondents have to participate on a voluntary basis. This is already accomplished by not forcing people to cooperate. However, to make sure the respondents are aware of the fact that they participate voluntary, they are briefed before the instruction in that they are free to leave at any moment and that they do not need to do anything that they do not want to do. By performing the focus group evaluation with the expert, false representations of quantum mechanics are avoided, which is another requirement. Furthermore, the data acquired from the research have to be processed anonymously, which is accomplished by referring to each respondent only by using participant numbers. These numbers will represent the day and the time of day the respondent participated in the research. Finally, there should not be any adverse effects for the respondents, which is guaranteed by the fact that the respondents have no direct involvement in the topic. They do not have to pass the quantum mechanics component of the Centraal Eindexamen themselves, for this is not yet implemented.
+\citeA{kwalitatief} lists a couple of requirements for the research to be ethical admissible. One of these requirements is that the respondents have to participate on a voluntary basis. This is already accomplished by not forcing people to cooperate. However, to make sure the respondents are aware of the fact that they participate voluntary, they are briefed before the instruction in that they are free to leave at any moment and that they do not need to do anything that they do not want to do. By performing the focus group evaluation with the expert, false representations of quantum mechanics are avoided, which is another requirement. Furthermore, the data acquired from the research have to be processed anonymously, which is accomplished by referring to each respondent only by using respondent numbers. These numbers will represent the day and the time of day the respondent participated in the research. Finally, there should not be any adverse effects for the respondents, which is guaranteed by the fact that the respondents have no direct involvement in the topic. They do not have to pass the quantum mechanics component of the Centraal Eindexamen themselves, for this is not yet implemented.
 
 \subsection{Research Questions}
 
@@ -740,7 +757,7 @@ In order to enhance the evaluation of the instruction, the decision was made to 
 
 \subsection{Respondents}
 
-The micro-evaluation would be evaluated optimally by using physics students from secondary education, for these are the final target demographic of the instruction. However, the schools approached for delivering participants did not respond to the request, and therefore this was not possible, and another pool of participants had to be addressed. Because of this, undergraduate students were used as respondents, for these are similar to the target demographic, both in attitudes as in pre-knowledge. The properties of these respondents also still aligns with the results from the learner analysis. The pre-knowledge had to be tested though, for it could be possible to vary from the pre-knowledge, especially considering technical undergraduate students. As such, a pretest was included in the evaluation. Using undergraduate students does have one advantage, namely that they are not involved with the education of quantum mechanics in any way, and therefore creating misconceptions with the students not familiar with quantum mechanics is not that harmful when compared it with creating misconceptions with secondary education physics student which still might need comprehension about quantum mechanics in their future lives. However, it would be beneficial to evaluate the instruction with the target demographic to gain more insights in its actual effectiveness.
+The micro-evaluation would be evaluated optimally by using physics students from secondary education, for these are the final target demographic of the instruction. However, the schools approached for delivering respondents did not respond to the request, and therefore this was not possible, and another pool of respondents had to be addressed. Because of this, undergraduate students were used as respondents, for these are similar to the target demographic, both in attitudes as in pre-knowledge. The properties of these respondents also still aligns with the results from the learner analysis. The pre-knowledge had to be tested though, for it could be possible to vary from the pre-knowledge, especially considering technical undergraduate students. As such, a pretest was included in the evaluation. Using undergraduate students does have one advantage, namely that they are not involved with the education of quantum mechanics in any way, and therefore creating misconceptions with the students not familiar with quantum mechanics is not that harmful when compared it with creating misconceptions with secondary education physics student which still might need comprehension about quantum mechanics in their future lives. However, it would be beneficial to evaluate the instruction with the target demographic to gain more insights in its actual effectiveness.
 
 \subsection{Concepts Central to the Research}
 \label{subsec:evaconcepts}
@@ -797,7 +814,7 @@ As stated in the previous section, the respondent would be briefed before the ev
 
 Before heading into the topics, the respondent was asked an opening question, which was "Can you tell me something about your experience of the instruction?" This question was constructed to be very general, so the interview could begin with what the respondent thought to be most relevant, and thereby reducing the influence of the interviewer. This response could then be used for further questioning using the topics if possible. For example, if the respondent started with stating that the instruction contained a lot of information which had to be processed, the interviewer could ask what information was new, or whether the respondent found this to be difficult.
 
-At the end of the reaction component of the interview, the respondent was asked for possible improvement areas for the instruction. This way, the respondent had a final chance of expressing his remaining thoughts. Then, the topics of the learning component were introduced one by one which the respondent was asked to make effort to explain. After all these topics had been discussed, the interview was concluded by thanking the respondent and if needed attributing possible feelings of guilt remaining with the respondent about the performance of the test to external factors. For example this could be done by attributing the performance to the fact that the instruction was still in development and still had to be improved. This was done in order to let the participant leave with a good feeling about the experiment.
+At the end of the reaction component of the interview, the respondent was asked for possible improvement areas for the instruction. This way, the respondent had a final chance of expressing his remaining thoughts. Then, the topics of the learning component were introduced one by one which the respondent was asked to make effort to explain. After all these topics had been discussed, the interview was concluded by thanking the respondent and if needed attributing possible feelings of guilt remaining with the respondent about the performance of the test to external factors. For example this could be done by attributing the performance to the fact that the instruction was still in development and still had to be improved. This was done in order to let the respondent leave with a good feeling about the experiment.
 
 \section{Analysis of the results}
 
@@ -813,11 +830,72 @@ The transcriptions of the interviews still needed to be summarised into coherent
 
 \chapter{Results of the Micro-Evaluation}
 
-\section{Descriptives}
+This chapter describes the results from the pretest, from the observation and from the interviews. Furthermore, the results were used for rapid prototyping and for making a typology of the different kinds of respondents.
+
+\section{Pretest}
+
+From the pretest, information was gathered about the age of the respondents, their sexes, their high school profile, and their knowledge of and attitudes towards quantum mechanics. A summary of the results of the pretest is displayed in table. There were 15 respondents in total, of which the average age was about 22. A distribution of their age can be found in figure~\ref{fig:ageschart} on page~\pageref{ageschart}. The respondents contained a fair distribution between male and female students with 8 male and 7 female respondents. Furthermore, 10 of the respondents had a technical high school profile. Some of the respondents were international students from Germany, where there is no such thing as a technical high school profile as in the Netherlands. They however did not have had the same level of physics education and therefore they were labelled as not having a technical profile.
+
+The distribution of the current studies are displayed in figure~\ref{fig:studieschart} on page~\pageref{fig:studieschart}. Within the respondents, there was one student studying Electrical Engineering (EL), one studying Educational Science and Technology (EST), three studying International Business Administration (IBA), two studying Industrial Design and Engineering (IDE), three studying Computer Science (INF), one studying Educational Science (OWK), and one studying Psychology (PSY). One respondent was a PhD student and one respondent was still a high school student in havo 5. This is thereafter summarised within chart~\ref{fig:facultieschart} displaying in which faculties the students are enrolled, in which BMS is the faculty of Behavioural, Management and Social Sciences, EWI is the faculty of Electrical Engineering, Mathematics and Computer Science, and CTW is the faculty of Engineering Technology. Else represents the high school student, and the PhD student is enrolled within EWI.
+
+6 of the respondents had general knowledge about quantum mechanics, of which 5 respondents knew the concept of entanglement and 4 respondents knew the uncertainty principle of Heisenberg and the concept of superposition. These variables were incremental, for there was no one with a non technical profile who had some idea of quantum mechanics and in order to know a concept within quantum mechanics one had to know something about quantum mechanics in general. 7 respondents thought of quantum mechanics as being weird.
+
+Finally, the gaming experience of the respondents is displayed within figure~\ref{fig:gamingexperienceschart} on page~\pageref{fig:gamingexperienceschart}. These categories are also incremental, they represent only the most relevant gaming experience of the respondent, so a respondent having played Minecraft also can have played First person games in general. One of the respondents already played Minecraft with the qCraft modification installed before, so this respondents already knew how the blocks introduced by qCraft worked on beforehand. Six of the respondents had already played Minecraft before, so these respondents already knew how to control the avatar within the game. Three respondents had at least played first person games, and two respondents had played third person games. These categories of games mostly share the same control schemes with Minecraft, so these respondents only needed to learn the features of Minecraft. The advantage of respondents with first person experience over respondents with only third person experience is the fact that these respondents were already used to the fact that Minecraft is also played in a first person perspective, which has more direct mouse controls than third person games. There were two respondents stating that they have only played mouse and keyboard games, so they also needed to still the general control scheme of three dimensional games. Finally, there was one respondent who stated to have no gaming experience, which means that this respondent also had to get used to game mechanics in general.
+
+\begin{table}[htbp]
+\begin{center}
+\begin{tabular}{|l|r|r|}
+\hline
+Number of respondents & \multicolumn{2}{r|}{15}  \\ \hline
+Average age & \multicolumn{2}{r|}{21.67}  \\ \hline
+ & \multicolumn{1}{l|}{Male} & \multicolumn{1}{l|}{Female} \\ \hline
+Sex & 8 & 7 \\ \hline
+ & \multicolumn{1}{l|}{Yes} & \multicolumn{1}{l|}{No} \\ \hline
+Technical Profile & 10 & 5 \\ \hline
+General knowledge & 6 & 9 \\ \hline
+Entanglement & 5 & 10 \\ \hline
+Uncertainty principle & 4 & 11 \\ \hline
+Superposition & 4 & 11 \\ \hline
+Weird & 7 & 8 \\ \hline
+\end{tabular}
+\caption{Descriptive statistics displaying the results of the pretest}
+\end{center}
+\label{tab:descriptive}
+\end{table}
 
 \section{Observation}
 
+\begin{table}[htbp]
+\begin{center}
+\begin{tabular}{|l|r|l|r|}
+\hline
+Section & \multicolumn{1}{l|}{v1} & Teleportation v2 & \multicolumn{1}{l|}{v2} \\ \hline
+Tutorial 1 & 00:07:57 &  & 00:05:24 \\ \hline
+Microscopic World & 00:06:10 &  & 00:06:10 \\ \hline
+Observer Dependency & 00:04:35 &  & 00:08:31 \\ \hline
+Quantum Blocks & 00:04:01 &  & 00:05:10 \\ \hline
+Realism and Ontologism & 00:05:42 &  & 00:03:19 \\ \hline
+Tutorial 2 & 00:06:09 &  & \multicolumn{1}{l|}{} \\ \hline
+Superposition & \multicolumn{1}{l|}{} &  & 00:04:04 \\ \hline
+Heisenberg & 00:06:41 &  & 00:06:41 \\ \hline
+Classical Communication & 00:04:30 &  & 00:04:27 \\ \hline
+Entanglement & 00:05:27 &  & 00:08:53 \\ \hline
+Teleportation & 00:08:01 & \multicolumn{1}{r|}{00:17:31} & \multicolumn{1}{l|}{} \\ \hline
+Conclusion & 00:03:34 &  & 00:03:34 \\ \hline
+Total & 01:02:48 &  & 00:56:13 \\ \hline
+\end{tabular}
+\caption{The average times needed for each section in both the initial and the final version of the instruction, followed by the average time it took a student in total}
+\end{center}
+\label{timetable}
+\end{table}
+
+\section{Rapid Prototyping}
+
 \section{Interviews}
+
+Respondent 303
+
+\section{Typology}
 
 \part{Conclusion and Discussion}
 
@@ -2409,21 +2487,107 @@ The transcriptions of the interviews still needed to be summarised into coherent
 \label{fig:ent-puzzle}
 \end{figure}
 
-\FloatBarrier
-
-\newpage
-
-\chapter{The Evaluation Matchboard}
+{
+\Hidechapter
+\chapter{Evaluation Matchboard}
 \label{app:evamatchboard}
+}
+
+\begin{landscape}
 
 \begin{figure}[h!]
 \centering
-\includegraphics[angle=90, height=.75\textheight]{Evaluation_matchboard-1}
+\includegraphics[height=\textheight]{Evaluation_matchboard-2}
 \end{figure}
 
 \begin{figure}[h]
 \centering
-\includegraphics[angle=90, height=\textheight]{Evaluation_matchboard-2}
+\includegraphics[height=\textheight]{Evaluation_matchboard-1}
 \end{figure}
+
+\end{landscape}
+
+\FloatBarrier
+
+\chapter{Charts of the Results of the Evaluation}
+\label{app:resultcharts}
+
+\begin{figure}[htb!]
+\centering
+\includegraphics[width=0.6\textwidth]{ageschart}
+\caption{A chart displaying the ages of the respondents.}
+\label{fig:ageschart}
+\end{figure}
+
+\begin{figure}[htb!]
+\centering
+\includegraphics[width=0.6\textwidth]{studieschart}
+\caption{A chart displaying the studies of the respondents.}
+\label{fig:studieschart}
+\end{figure}
+
+\begin{figure}[htb!]
+\centering
+\includegraphics[width=0.5\textwidth]{facultieschart}
+\caption{A chart displaying the faculties the respondents are enrolled in.}
+\label{fig:facultieschart}
+\end{figure}
+
+\begin{figure}[htb!]
+\centering
+\includegraphics[width=0.7\textwidth]{gamingexperiencechart}
+\caption{A chart displaying the gaming experience of the respondents.}
+\label{fig:gamingexperiencechart}
+\end{figure}
+
+\begin{figure}[htb!]
+\centering
+\includegraphics[width=0.8\textwidth]{timeschart}
+\caption{A chart displaying the average times needed for each section of the instruction.}
+\label{fig:ageschart}
+\end{figure}
+
+\newpage
+\FloatBarrier
+
+\chapter{Amount of coded fragments}
+
+
+\begin{sidewaystable}[htbp]
+\small
+\begin{tabular}{|p{3cm}|r|r|r|r|r|r|r|r|r|r|r|r|r|r|r|r|r|r|r|r|}
+\hline
+ & \multicolumn{1}{l|}{\textbf{NEH}} & \multicolumn{1}{l|}{304} & \multicolumn{1}{l|}{305} & \multicolumn{1}{l|}{401} & \multicolumn{1}{l|}{705} & \multicolumn{1}{l|}{\textbf{NEL}} & \multicolumn{1}{l|}{302} & \multicolumn{1}{l|}{502} & \multicolumn{1}{l|}{\textbf{NCL}} & \multicolumn{1}{l|}{404} & \multicolumn{1}{l|}{703} & \multicolumn{1}{l|}{804} & \multicolumn{1}{l|}{\textbf{PE}} & \multicolumn{1}{l|}{205} & \multicolumn{1}{l|}{704} & \multicolumn{1}{l|}{\textbf{PC}} & \multicolumn{1}{l|}{101} & \multicolumn{1}{l|}{204} & \multicolumn{1}{l|}{603} & \multicolumn{1}{l|}{\textbf{TOTAL:}} \\ \hline
+\textbf{Reaction} & \textbf{135} & \textbf{38} & \textbf{26} & \textbf{42} & \textbf{29} & \textbf{81} & \textbf{24} & \textbf{57} & \textbf{105} & \textbf{38} & \textbf{39} & \textbf{28} & \textbf{44} & \textbf{12} & \textbf{32} & \textbf{119} & \textbf{74} & \textbf{11} & \textbf{34} & \textbf{484} \\ \hline
+New information & \textbf{12} & 0 & 0 & 10 & 2 & \textbf{10} & 2 & 8 & \textbf{5} & 1 & 1 & 3 & \textbf{3} & 2 & 1 & \textbf{10} & 6 & 1 & 3 & \textbf{40} \\ \hline
+Difficulty & \textbf{27} & 8 & 7 & 9 & 3 & \textbf{24} & 10 & 14 & \textbf{25} & 14 & 7 & 4 & \textbf{5} & 2 & 3 & \textbf{3} & 0 & 1 & 2 & \textbf{84} \\ \hline
+Language & \textbf{4} & 1 & 1 & 0 & 2 & \textbf{5} & 0 & 5 & \textbf{7} & 2 & 2 & 3 & \textbf{3} & 1 & 2 & \textbf{7} & 3 & 2 & 2 & \textbf{26} \\ \hline
+Use of Minecraft & \textbf{18} & 10 & 1 & 3 & 4 & \textbf{4} & 0 & 4 & \textbf{11} & 2 & 4 & 5 & \textbf{5} & 2 & 3 & \textbf{14} & 6 & 1 & 7 & \textbf{52} \\ \hline
+Amount of text / gameplay & \textbf{5} & 0 & 1 & 2 & 2 & \textbf{4} & 1 & 3 & \textbf{6} & 4 & 1 & 1 & \textbf{4} & 1 & 3 & \textbf{9} & 2 & 2 & 5 & \textbf{28} \\ \hline
+Philosophical value & \textbf{4} & 0 & 1 & 1 & 2 & \textbf{2} & 1 & 1 & \textbf{1} & 0 & 0 & 1 & \textbf{3} & 1 & 2 & \textbf{7} & 2 & 2 & 3 & \textbf{17} \\ \hline
+Amusement value & \textbf{17} & 10 & 3 & 2 & 2 & \textbf{7} & 4 & 3 & \textbf{11} & 4 & 6 & 1 & \textbf{7} & 2 & 5 & \textbf{6} & 3 & 1 & 2 & \textbf{48} \\ \hline
+Topical excitement & \textbf{14} & 3 & 1 & 6 & 4 & \textbf{2} & 1 & 1 & \textbf{7} & 1 & 0 & 6 & \textbf{3} & 1 & 2 & \textbf{5} & 1 & 1 & 3 & \textbf{31} \\ \hline
+Learning process & \textbf{20} & 5 & 6 & 7 & 2 & \textbf{15} & 5 & 10 & \textbf{28} & 7 & 17 & 4 & \textbf{8} & 0 & 8 & \textbf{15} & 11 & 0 & 4 & \textbf{86} \\ \hline
+Playing experience & \textbf{7} & 1 & 3 & 0 & 3 & \textbf{8} & 0 & 8 & \textbf{4} & 3 & 1 & 0 & \textbf{2} & 0 & 2 & \textbf{42} & 39 & 0 & 3 & \textbf{63} \\ \hline
+Relevance & \textbf{3} & 0 & 1 & 2 & 0 & \textbf{0} & 0 & 0 & \textbf{0} & 0 & 0 & 0 & \textbf{0} & 0 & 0 & \textbf{0} & 0 & 0 & 0 & \textbf{3} \\ \hline
+Criticism towards subject & \textbf{4} & 0 & 1 & 0 & 3 & \textbf{0} & 0 & 0 & \textbf{0} & 0 & 0 & 0 & \textbf{1} & 0 & 1 & \textbf{1} & 1 & 0 & 0 & \textbf{6} \\ \hline
+\textbf{Learning} & \textbf{102} & \textbf{27} & \textbf{21} & \textbf{28} & \textbf{26} & \textbf{43} & \textbf{16} & \textbf{27} & \textbf{59} & \textbf{5} & \textbf{23} & \textbf{31} & \textbf{19} & \textbf{1} & \textbf{18} & \textbf{20} & \textbf{1} & \textbf{0} & \textbf{19} & \textbf{243} \\ \hline
+Elementary particle & \textbf{17} & 5 & 3 & 3 & 6 & \textbf{9} & 3 & 6 & \textbf{16} & 5 & 4 & 7 & \textbf{2} & 0 & 2 & \textbf{2} & 0 & 0 & 2 & \textbf{46} \\ \hline
+Relativity theory / classical communication & \textbf{12} & 5 & 3 & 1 & 3 & \textbf{8} & 5 & 3 & \textbf{2} & 0 & 2 & 0 & \textbf{1} & 0 & 1 & \textbf{2} & 0 & 0 & 2 & \textbf{25} \\ \hline
+Observer dependency / Superposition & \textbf{23} & 6 & 7 & 6 & 4 & \textbf{6} & 5 & 1 & \textbf{13} & 0 & 4 & 9 & \textbf{3} & 0 & 3 & \textbf{3} & 0 & 0 & 3 & \textbf{48} \\ \hline
+Realism and Ontology & \textbf{14} & 5 & 2 & 5 & 2 & \textbf{6} & 0 & 6 & \textbf{5} & 0 & 3 & 2 & \textbf{3} & 0 & 3 & \textbf{2} & 0 & 0 & 2 & \textbf{30} \\ \hline
+Entanglement & \textbf{17} & 3 & 2 & 7 & 5 & \textbf{7} & 1 & 6 & \textbf{7} & 0 & 3 & 4 & \textbf{3} & 0 & 3 & \textbf{3} & 0 & 0 & 3 & \textbf{37} \\ \hline
+Uncertainty Principle of Heisenberg & \textbf{10} & 3 & 4 & 0 & 3 & \textbf{5} & 2 & 3 & \textbf{10} & 0 & 4 & 6 & \textbf{4} & 1 & 3 & \textbf{5} & 1 & 0 & 4 & \textbf{34} \\ \hline
+Teleportation & \textbf{9} & 0 & 0 & 6 & 3 & \textbf{2} & 0 & 2 & \textbf{6} & 0 & 3 & 3 & \textbf{3} & 0 & 3 & \textbf{3} & 0 & 0 & 3 & \textbf{23} \\ \hline
+\textbf{Suggestions improvement} & \textbf{13} & \textbf{2} & \textbf{6} & \textbf{5} & \textbf{0} & \textbf{10} & \textbf{7} & \textbf{3} & \textbf{9} & \textbf{4} & \textbf{4} & \textbf{1} & \textbf{4} & \textbf{4} & \textbf{0} & \textbf{67} & \textbf{44} & \textbf{14} & \textbf{9} & \textbf{103} \\ \hline
+Improvement map & \textbf{13} & 2 & 6 & 5 & 0 & \textbf{7} & 4 & 3 & \textbf{4} & 3 & 1 & 0 & \textbf{4} & 4 & 0 & \textbf{43} & 32 & 8 & 3 & \textbf{71} \\ \hline
+Improvement text & \textbf{0} & 0 & 0 & 0 & 0 & \textbf{3} & 3 & 0 & \textbf{4} & 1 & 3 & 0 & \textbf{0} & 0 & 0 & \textbf{18} & 7 & 5 & 6 & \textbf{25} \\ \hline
+Improvement qCraft & \textbf{0} & 0 & 0 & 0 & 0 & \textbf{0} & 0 & 0 & \textbf{1} & 0 & 0 & 1 & \textbf{0} & 0 & 0 & \textbf{2} & 1 & 1 & 0 & \textbf{3} \\ \hline
+Improvement Minecraft & \textbf{0} & 0 & 0 & 0 & 0 & \textbf{0} & 0 & 0 & \textbf{0} & 0 & 0 & 0 & \textbf{0} & 0 & 0 & \textbf{4} & 4 & 0 & 0 & \textbf{4} \\ \hline
+\textbf{TOTAL:} & \textbf{250} & \textbf{67} & \textbf{53} & \textbf{75} & \textbf{55} & \textbf{134} & \textbf{47} & \textbf{87} & \textbf{173} & \textbf{47} & \textbf{66} & \textbf{60} & \textbf{67} & \textbf{17} & \textbf{50} & \textbf{206} & \textbf{119} & \textbf{25} & \textbf{62} & \textbf{830} \\ \hline
+\end{tabular}
+\caption{The amount of coded fragments respective to their respondent(-family) and their code(-family)}
+\label{tab:codetable}
+\end{sidewaystable}
 
 \end{document}
