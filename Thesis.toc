@@ -35,46 +35,47 @@
 \contentsline {section}{The Main Hall}{42}
 \contentsline {section}{Text}{43}
 \contentsline {chapter}{Encountered Problems and Workarounds}{44}
-\contentsline {chapter}{Rapid Prototyping}{45}
-\contentsline {section}{Minor Alterations}{45}
-\contentsline {section}{Quantum Teleportation Experiment}{46}
-\contentsline {section}{qCraft Block Branches}{46}
-\contentsline {subsection}{Discovery Rooms}{46}
-\contentsline {subsection}{Puzzles}{47}
-\contentsline {subsection}{Book Alterations}{48}
-\contentsline {subsection}{Incorporation of the Teleportation branch}{48}
-\contentsline {part}{Formative Evaluation}{49}
-\contentsline {chapter}{Method for the Micro-Evaluation}{51}
-\contentsline {section}{Research Approach}{51}
-\contentsline {subsection}{Research Goal}{51}
-\contentsline {subsection}{Theoretical Significance}{51}
-\contentsline {subsection}{Ethical Admissibility}{52}
-\contentsline {subsection}{Research Questions}{52}
-\contentsline {subsection}{Action Based Research}{52}
-\contentsline {subsection}{Respondents}{52}
-\contentsline {subsection}{Concepts Central to the Research}{52}
-\contentsline {subsection}{Methods of Data Gathering}{53}
-\contentsline {subsection}{Pretest}{54}
-\contentsline {subsection}{Observation}{54}
-\contentsline {subsection}{Interviews}{54}
-\contentsline {section}{Analysis of the results}{55}
-\contentsline {subsection}{Data Preparation}{55}
-\contentsline {subsection}{Coding the Transcriptions}{55}
-\contentsline {chapter}{Results of the Micro-Evaluation}{56}
-\contentsline {section}{Pretest}{56}
-\contentsline {section}{Observation}{57}
-\contentsline {subsection}{Tutorial 1}{57}
-\contentsline {subsection}{Microscopic World}{58}
-\contentsline {subsection}{Classical Communication}{58}
-\contentsline {subsection}{Observer Dependency}{59}
-\contentsline {subsection}{Quantum Blocks}{59}
-\contentsline {subsection}{Entanglement}{59}
-\contentsline {subsection}{Tutorial 2}{59}
-\contentsline {subsection}{Realism and Ontology}{59}
-\contentsline {subsection}{Uncertainty Principle of Heisenberg}{60}
-\contentsline {subsection}{Teleportation}{60}
-\contentsline {subsection}{Conclusion}{60}
-\contentsline {section}{Rapid Prototyping}{60}
+\contentsline {part}{Formative Evaluation}{45}
+\contentsline {chapter}{Method for the Micro-Evaluation}{47}
+\contentsline {section}{Research Approach}{47}
+\contentsline {subsection}{Research Goal}{47}
+\contentsline {subsection}{Theoretical Significance}{47}
+\contentsline {subsection}{Ethical Admissibility}{48}
+\contentsline {subsection}{Research Questions}{48}
+\contentsline {subsection}{Action Based Research}{48}
+\contentsline {subsection}{Respondents}{48}
+\contentsline {subsection}{Concepts Central to the Research}{48}
+\contentsline {subsection}{Methods of Data Gathering}{49}
+\contentsline {subsection}{Pretest}{50}
+\contentsline {subsection}{Observation}{50}
+\contentsline {subsection}{Interviews}{50}
+\contentsline {section}{Analysis of the results}{51}
+\contentsline {subsection}{Data Preparation}{51}
+\contentsline {subsection}{Coding the Transcriptions}{51}
+\contentsline {chapter}{Results of the Micro-Evaluation}{52}
+\contentsline {section}{Pretest}{52}
+\contentsline {section}{Durations}{53}
+\contentsline {section}{Observations from Evaluating the Initial Instruction}{53}
+\contentsline {subsection}{Tutorial 1}{54}
+\contentsline {subsection}{Microscopic World}{55}
+\contentsline {subsection}{Classical Communication}{55}
+\contentsline {subsection}{Observer Dependency}{55}
+\contentsline {subsection}{Quantum Blocks}{55}
+\contentsline {subsection}{Entanglement}{55}
+\contentsline {subsection}{Tutorial 2}{56}
+\contentsline {subsection}{Realism and Ontology}{56}
+\contentsline {subsection}{Uncertainty Principle of Heisenberg}{56}
+\contentsline {subsection}{Teleportation}{56}
+\contentsline {subsection}{Conclusion}{56}
+\contentsline {section}{Rapid Prototyping}{56}
+\contentsline {subsection}{Minor Alterations}{57}
+\contentsline {subsection}{Quantum Teleportation Experiment}{58}
+\contentsline {subsection}{qCraft Block Branches}{58}
+\contentsline {subsubsection}{Discovery Rooms}{58}
+\contentsline {subsubsection}{Puzzles}{59}
+\contentsline {subsubsection}{Book Alterations}{60}
+\contentsline {subsubsection}{Incorporation of the Teleportation branch}{60}
+\contentsline {section}{Observations from Evaluating the Final Instruction}{60}
 \contentsline {section}{Interviews}{60}
 \contentsline {section}{Typology}{60}
 \contentsline {part}{Conclusion and Discussion}{61}
