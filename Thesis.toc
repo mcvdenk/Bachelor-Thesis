@@ -103,7 +103,7 @@
 \contentsline {subsubsection}{Improvement of the Text}{66}
 \contentsline {subsubsection}{Improvement of qCraft}{66}
 \contentsline {subsubsection}{Improvement of Minecraft}{66}
-\contentsline {section}{Typology}{66}
+\contentsline {section}{Typology}{67}
 \contentsline {part}{Conclusion and Discussion}{68}
 \contentsline {chapter}{References}{69}
 \contentsline {part}{Appendices}{72}
