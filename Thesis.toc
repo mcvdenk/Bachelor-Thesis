@@ -104,42 +104,42 @@
 \contentsline {subsubsection}{Improvement of qCraft}{66}
 \contentsline {subsubsection}{Improvement of Minecraft}{66}
 \contentsline {section}{Typology}{67}
-\contentsline {part}{Conclusion and Discussion}{68}
-\contentsline {chapter}{References}{69}
-\contentsline {part}{Appendices}{72}
-\contentsline {chapter}{Learning Objectives}{73}
-\contentsline {chapter}{Learning Objectives and Standards}{77}
-\contentsline {chapter}{Initial Framework for the Instruction}{83}
-\contentsline {section}{Minecraft Tutorial}{83}
-\contentsline {section}{Introduction}{84}
-\contentsline {section}{Body}{85}
-\contentsline {subsection}{The Rutherford-Bohr Model of the Atom (Declarative Knowledge)}{85}
-\contentsline {subsection}{Elementary Particles (Concept)}{85}
-\contentsline {subsection}{Theory of Relativity and Classical Communication (Declarative Knowledge)}{86}
-\contentsline {subsection}{Observer Dependency (Concept)}{87}
-\contentsline {subsection}{Quantum Blocks and Random Collapse}{88}
-\contentsline {subsection}{Entanglement (Concept)}{89}
-\contentsline {subsection}{qCraft tutorial}{90}
-\contentsline {subsection}{Realism and Ontology, Superposition (Concept)}{91}
-\contentsline {subsection}{Uncertainty Principle of Heisenberg (Principle)}{92}
-\contentsline {subsection}{Quantum Teleportation (Procedure)}{94}
-\contentsline {section}{Conclusion}{95}
-\contentsline {chapter}{Framework for the Second Version of the Quantum Teleportation Experiment}{97}
-\contentsline {chapter}{Final Framework}{99}
-\contentsline {section}{Minecraft Tutorial}{99}
-\contentsline {section}{Introduction}{99}
-\contentsline {section}{Body}{100}
-\contentsline {subsection}{The Rutherford-Bohr Model of the Atom and Elementary Particles (Concept)}{100}
-\contentsline {subsection}{Observer Dependency}{102}
-\contentsline {subsection}{Quantum Blocks}{103}
-\contentsline {subsection}{Realism and Ontology, Superposition (Concept)}{105}
-\contentsline {subsection}{Superposition}{105}
-\contentsline {subsection}{Uncertainty Principle of Heisenberg (Principle)}{106}
-\contentsline {subsection}{Classical Communication}{107}
-\contentsline {subsection}{Entanglement}{108}
-\contentsline {section}{Conclusion}{110}
-\contentsline {chapter}{Settings}{111}
-\contentsline {chapter}{Floor Plans}{112}
-\contentsline {chapter}{Evaluation Matchboard}{115}
-\contentsline {chapter}{Charts of the Results of the Evaluation}{118}
-\contentsline {chapter}{Amount of coded fragments}{121}
+\contentsline {part}{Conclusion and Discussion}{69}
+\contentsline {chapter}{References}{71}
+\contentsline {part}{Appendices}{74}
+\contentsline {chapter}{Learning Objectives}{75}
+\contentsline {chapter}{Learning Objectives and Standards}{79}
+\contentsline {chapter}{Initial Framework for the Instruction}{85}
+\contentsline {section}{Minecraft Tutorial}{85}
+\contentsline {section}{Introduction}{86}
+\contentsline {section}{Body}{87}
+\contentsline {subsection}{The Rutherford-Bohr Model of the Atom (Declarative Knowledge)}{87}
+\contentsline {subsection}{Elementary Particles (Concept)}{87}
+\contentsline {subsection}{Theory of Relativity and Classical Communication (Declarative Knowledge)}{88}
+\contentsline {subsection}{Observer Dependency (Concept)}{89}
+\contentsline {subsection}{Quantum Blocks and Random Collapse}{90}
+\contentsline {subsection}{Entanglement (Concept)}{91}
+\contentsline {subsection}{qCraft tutorial}{92}
+\contentsline {subsection}{Realism and Ontology, Superposition (Concept)}{93}
+\contentsline {subsection}{Uncertainty Principle of Heisenberg (Principle)}{94}
+\contentsline {subsection}{Quantum Teleportation (Procedure)}{96}
+\contentsline {section}{Conclusion}{97}
+\contentsline {chapter}{Framework for the Second Version of the Quantum Teleportation Experiment}{99}
+\contentsline {chapter}{Final Framework}{101}
+\contentsline {section}{Minecraft Tutorial}{101}
+\contentsline {section}{Introduction}{101}
+\contentsline {section}{Body}{102}
+\contentsline {subsection}{The Rutherford-Bohr Model of the Atom and Elementary Particles (Concept)}{102}
+\contentsline {subsection}{Observer Dependency}{104}
+\contentsline {subsection}{Quantum Blocks}{105}
+\contentsline {subsection}{Realism and Ontology, Superposition (Concept)}{107}
+\contentsline {subsection}{Superposition}{107}
+\contentsline {subsection}{Uncertainty Principle of Heisenberg (Principle)}{108}
+\contentsline {subsection}{Classical Communication}{109}
+\contentsline {subsection}{Entanglement}{110}
+\contentsline {section}{Conclusion}{112}
+\contentsline {chapter}{Settings}{113}
+\contentsline {chapter}{Floor Plans}{114}
+\contentsline {chapter}{Evaluation Matchboard}{117}
+\contentsline {chapter}{Charts of the Results of the Evaluation}{120}
+\contentsline {chapter}{Amount of coded fragments}{123}
