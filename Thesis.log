@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  10 AUG 2015 08:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  10 AUG 2015 09:02
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -709,198 +709,203 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 4.
+(Font)              <12> on input line 2.
  [3] [4])
 \tf@toc=\write3
 \openout3 = `Thesis.toc'.
 
- [5]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 161.
+ [5] [6
 
-<genericmodel.png, id=23, 249.18094pt x 248.42813pt>
+] [7
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 165.
+
+<genericmodel.png, id=30, 249.18094pt x 248.42813pt>
 File: genericmodel.png Graphic file (type png)
  <use genericmodel.png>
-Package pdftex.def Info: genericmodel.png used on input line 165.
+Package pdftex.def Info: genericmodel.png used on input line 171.
 (pdftex.def)             Requested size: 318.66948pt x 317.73672pt.
 
-[6
-
- <./genericmodel.png>] <bohrmodel.png, id=28, 228.6141pt x 228.6141pt>
+<bohrmodel.png, id=31, 228.6141pt x 228.6141pt>
 File: bohrmodel.png Graphic file (type png)
-
-<use bohrmodel.png>
-Package pdftex.def Info: bohrmodel.png used on input line 176.
+ <use bohrmodel.png>
+Package pdftex.def Info: bohrmodel.png used on input line 182.
 (pdftex.def)             Requested size: 227.62206pt x 227.62283pt.
 
-Overfull \hbox (1.43164pt too wide) in paragraph at lines 185--186
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8 <./genericmodel.png>]
+Overfull \hbox (1.43164pt too wide) in paragraph at lines 191--192
 \OT1/cmtt/m/n/10.95 commons / transcoded / e / e4 / Wave [] -particle [] []dual
 ity [] .ogv / Wave [] -particle [] []duality [] .ogv [] .480p []
  []
 
-[7 <./bohrmodel.png>]
-Underfull \vbox (badness 1303) has occurred while \output is active []
 
- [8]
-[9] [10
+Underfull \vbox (badness 3088) has occurred while \output is active []
 
-] [11] <needsassessment.png, id=48, 524.9211pt x 260.8947pt>
+ [9 <./bohrmodel.png>] [10] [11] [12
+
+] [13]
+<needsassessment.png, id=55, 524.9211pt x 260.8947pt>
 File: needsassessment.png Graphic file (type png)
 
 <use needsassessment.png>
-Package pdftex.def Info: needsassessment.png used on input line 224.
+Package pdftex.def Info: needsassessment.png used on input line 230.
 (pdftex.def)             Requested size: 455.24411pt x 226.26793pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[12
+[14
 
-] [13 <./needsassessment.png>]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 250.
+] [15 <./needsassessment.png>]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 256.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 250.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 256.
 
-Overfull \hbox (4.38914pt too wide) in paragraph at lines 252--253
+Overfull \hbox (4.38914pt too wide) in paragraph at lines 258--259
 []\OT1/ptm/m/n/10.95 estimate whether quan-tum phe-nom-ena are to ex-pected by 
 com-par-ing the debroglie-wavelength
  []
 
-[14] [15] [16
+[16] [17] [18
 
 ]
 
-LaTeX Warning: Reference `ssch:topicsliterature' on page 17 undefined on input 
-line 304.
+LaTeX Warning: Reference `ssch:topicsliterature' on page 19 undefined on input 
+line 310.
 
 
-LaTeX Warning: Reference `ssch:needsassessmentinnovation' on page 17 undefined 
-on input line 308.
+LaTeX Warning: Reference `ssch:needsassessmentinnovation' on page 19 undefined 
+on input line 314.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17
+ [19
 
 ]
 Underfull \vbox (badness 2073) has occurred while \output is active []
 
- [18]
-<bloom.png, id=73, 288.8391pt x 210.7875pt>
+ [20]
+<bloom.png, id=80, 288.8391pt x 210.7875pt>
 File: bloom.png Graphic file (type png)
  <use bloom.png>
-Package pdftex.def Info: bloom.png used on input line 334.
+Package pdftex.def Info: bloom.png used on input line 340.
 (pdftex.def)             Requested size: 182.09486pt x 132.89009pt.
- [19 <./bloom.png>]
-[20] [21]
+ [21 <./bloom.png>]
+[22] [23]
 
-LaTeX Warning: Reference `ssch:problem' on page 22 undefined on input line 370.
+LaTeX Warning: Reference `ssch:problem' on page 24 undefined on input line 376.
 
 
-[22
+[24
 
-] [23
-
-] [24] [25
+] [25
 
 ] [26] [27
 
-] <screenshot.png, id=104, 1284.8pt x 803.0pt>
+] [28] [29
+
+] <screenshot.png, id=110, 1284.8pt x 803.0pt>
 File: screenshot.png Graphic file (type png)
 
 <use screenshot.png>
-Package pdftex.def Info: screenshot.png used on input line 422.
+Package pdftex.def Info: screenshot.png used on input line 428.
 (pdftex.def)             Requested size: 455.24411pt x 284.52174pt.
- [28 <./screenshot.png (PNG copy)>] [29] [30] [31
+ [30 <./screenshot.png (PNG copy)>] [31] [32] [33
 
-] [32]
-[33
+] [34]
+[35
 
-] [34] [35] [36] [37
+] [36] [37] [38] [39
 
-] [38]
-<game-elements.png, id=144, 497.64868pt x 381.63632pt>
+] [40]
+<game-elements.png, id=150, 497.64868pt x 381.63632pt>
 File: game-elements.png Graphic file (type png)
  <use game-elements.png>
-Package pdftex.def Info: game-elements.png used on input line 583.
+Package pdftex.def Info: game-elements.png used on input line 589.
 (pdftex.def)             Requested size: 227.62206pt x 174.55905pt.
 
 
-LaTeX Warning: Reference `subch:devtext' on page 39 undefined on input line 589
+LaTeX Warning: Reference `subch:devtext' on page 41 undefined on input line 595
 .
 
-[39
+[41
 
- <./game-elements.png>] [40] <blocks.png, id=152, 1735.48375pt x 248.93pt>
+ <./game-elements.png>] [42] <blocks.png, id=158, 1735.48375pt x 248.93pt>
 File: blocks.png Graphic file (type png)
 
 <use blocks.png>
-Package pdftex.def Info: blocks.png used on input line 619.
+Package pdftex.def Info: blocks.png used on input line 625.
 (pdftex.def)             Requested size: 455.24411pt x 65.29762pt.
- <roomdesign.png, id=153, 1284.8pt x 753.81625pt>
+ <roomdesign.png, id=159, 1284.8pt x 753.81625pt>
 File: roomdesign.png Graphic file (type png)
 
 <use roomdesign.png>
-Package pdftex.def Info: roomdesign.png used on input line 629.
+Package pdftex.def Info: roomdesign.png used on input line 635.
 (pdftex.def)             Requested size: 455.24411pt x 267.09479pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[41 <./blocks.png>] <mainhall.png, id=158, 1284.8pt x 753.81625pt>
+[43 <./blocks.png>] <mainhall.png, id=165, 1284.8pt x 753.81625pt>
 File: mainhall.png Graphic file (type png)
 
 <use mainhall.png>
-Package pdftex.def Info: mainhall.png used on input line 645.
+Package pdftex.def Info: mainhall.png used on input line 651.
 (pdftex.def)             Requested size: 455.24411pt x 267.09479pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[42 <./roomdesign.png (PNG copy)>] [43 <./mainhall.png (PNG copy)>] [44
+[44 <./roomdesign.png (PNG copy)>] [45 <./mainhall.png (PNG copy)>] [46
 
 ]
-[45
+[47
 
-] [46]
+] [48]
 Underfull \vbox (badness 2726) has occurred while \output is active []
 
- [47
+ [49
 
 ]
-[48] [49] [50] [51] [52] [53
+[50] [51] [52] [53] [54] [55
 
 ]
 Underfull \vbox (badness 2435) has occurred while \output is active []
 
- [54]
+ [56]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [55]
-[56]
+ [57]
+[58]
 
-LaTeX Warning: Reference `framework2' on page 57 undefined on input line 895.
+LaTeX Warning: Reference `framework2' on page 59 undefined on input line 901.
 
-[57]
+[59]
 Underfull \vbox (badness 5274) has occurred while \output is active []
 
- [58]
-[59] [60]
-Overfull \hbox (3.41315pt too wide) in paragraph at lines 949--950
+ [60]
+[61] [62]
+Overfull \hbox (3.41315pt too wide) in paragraph at lines 955--956
 \OT1/ptm/m/n/10.95 Finally, the el-e-ments of the Tele-por-ta-tions branch stil
 l needed to be in-cor-po-rated within the other branches.
  []
 
-[61] [62] [63] [64] [65] [66] [67] [68] [69
+[63] [64] [65] [66] [67] [68] [69] [70] [71
 
-] [70] (./Thesis.bbl [71]
+] [72] (./Thesis.bbl [73]
 Underfull \hbox (badness 1472) in paragraph at lines 46--64
 []\OT1/ptm/m/n/10.95 Asikainen, M. A., & Hir-vo-nen, P. E.  (2014).  Prob-ing p
 re-and in-service physics teach-
@@ -919,7 +924,7 @@ OT1/ptm/m/it/10.95 Physics Teacher\OT1/ptm/m/n/10.95 , \OT1/ptm/m/it/10.95 50\O
 T1/ptm/m/n/10.95 (5), 270 -
  []
 
-[72
+[74
 
 ]
 Underfull \hbox (badness 1253) in paragraph at lines 827--844
@@ -928,303 +933,303 @@ Underfull \hbox (badness 1253) in paragraph at lines 827--844
 .95 71\OT1/ptm/m/n/10.95 (6), 599 -
  []
 
-[73]) [74] [75
+[75]) [76] [77
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 1133.
+(Font)              <7> on input line 1139.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 1133.
+(Font)              <5> on input line 1139.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1135.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1141.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1135.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1141.
 
-Overfull \hbox (3.98523pt too wide) in paragraph at lines 1135--1135
+Overfull \hbox (3.98523pt too wide) in paragraph at lines 1141--1141
 []|\OT1/ptm/b/n/9 Prerequisite| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1136--1136
+Underfull \hbox (badness 10000) in paragraph at lines 1142--1142
 []|\OT1/ptm/m/n/10 Applications of
  []
 
 
-Underfull \hbox (badness 2828) in paragraph at lines 1137--1137
+Underfull \hbox (badness 2828) in paragraph at lines 1143--1143
 \OT1/ptm/m/n/10 thing we ob-serve ex-ists out of
  []
 
 
-Underfull \hbox (badness 6063) in paragraph at lines 1141--1141
+Underfull \hbox (badness 6063) in paragraph at lines 1147--1147
 []|\OT1/ptm/m/n/10 Probably pre-knowl-
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 1144--1144
+Underfull \hbox (badness 1661) in paragraph at lines 1150--1150
 \OT1/ptm/m/n/10 ex-ist out of 2 up-quarks and 1
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 1163--1163
+Underfull \hbox (badness 1173) in paragraph at lines 1169--1169
 []|\OT1/ptm/m/n/10 Classical Com-mu-ni-
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 1164--1164
+Underfull \hbox (badness 1173) in paragraph at lines 1170--1170
 []|\OT1/ptm/m/n/10 Classical Com-mu-ni-
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 1165--1165
+Underfull \hbox (badness 1173) in paragraph at lines 1171--1171
 []|\OT1/ptm/m/n/10 Classical Com-mu-ni-
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 1166--1166
+Underfull \hbox (badness 1173) in paragraph at lines 1172--1172
 []|\OT1/ptm/m/n/10 Classical Com-mu-ni-
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 1167--1167
+Underfull \hbox (badness 3271) in paragraph at lines 1173--1173
 []|\OT1/ptm/m/n/10 Observation De-pen-
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 1168--1168
+Underfull \hbox (badness 3271) in paragraph at lines 1174--1174
 []|\OT1/ptm/m/n/10 Observation De-pen-
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 1169--1169
+Underfull \hbox (badness 3271) in paragraph at lines 1175--1175
 []|\OT1/ptm/m/n/10 Observation De-pen-
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 1170--1170
+Underfull \hbox (badness 3271) in paragraph at lines 1176--1176
 []|\OT1/ptm/m/n/10 Observation De-pen-
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 1171--1171
+Underfull \hbox (badness 1281) in paragraph at lines 1177--1177
 []|\OT1/ptm/m/n/10 Realism and On-tol-
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 1172--1172
+Underfull \hbox (badness 1052) in paragraph at lines 1178--1178
 []|\OT1/ptm/m/n/10 The stu-dent can state the re-al-ist
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 1172--1172
+Underfull \hbox (badness 1281) in paragraph at lines 1178--1178
 []|\OT1/ptm/m/n/10 Realism and On-tol-
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 1173--1173
+Underfull \hbox (badness 1281) in paragraph at lines 1179--1179
 []|\OT1/ptm/m/n/10 Realism and On-tol-
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 1174--1174
+Underfull \hbox (badness 1281) in paragraph at lines 1180--1180
 []|\OT1/ptm/m/n/10 Realism and On-tol-
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 1175--1175
+Underfull \hbox (badness 1281) in paragraph at lines 1181--1181
 []|\OT1/ptm/m/n/10 Realism and On-tol-
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 1184--1184
+Underfull \hbox (badness 1281) in paragraph at lines 1190--1190
 []|\OT1/ptm/m/n/10 Realism and On-tol-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1213--1213
+Underfull \hbox (badness 10000) in paragraph at lines 1219--1219
 []|\OT1/ptm/m/n/10 The stu-dent can ex-plain why
  []
 
 
-Underfull \hbox (badness 3954) in paragraph at lines 1215--1215
+Underfull \hbox (badness 3954) in paragraph at lines 1221--1221
 \OT1/ptm/m/n/10 pens when con-duct-ing quan-tum
  []
 
-[76
+[78
 
-] [77] [78] [79] [80
+] [79] [80] [81] [82
 
-] [81] [82] [83] [84] [85] [86
+] [83] [84] [85] [86] [87] [88
 
-] [87] [88] [89] [90]
-[91] [92] [93] [94] [95] [96] [97] [98] [99] [100
+] [89] [90] [91] [92]
+[93] [94] [95] [96] [97] [98] [99] [100] [101] [102
 
-] [101] [102
+] [103] [104
 
-] [103] [104]
-[105] [106] [107] [108] [109] [110] [111] [112] [113] [114
+] [105] [106]
+[107] [108] [109] [110] [111] [112] [113] [114] [115] [116
 
 ]
-<legend.png, id=394, 211.79124pt x 242.9075pt>
+<legend.png, id=401, 211.79124pt x 242.9075pt>
 File: legend.png Graphic file (type png)
  <use legend.png>
-Package pdftex.def Info: legend.png used on input line 2668.
+Package pdftex.def Info: legend.png used on input line 2674.
 (pdftex.def)             Requested size: 136.57462pt x 156.64632pt.
 
-<qcraftblockrooms.png, id=395, 478.78876pt x 478.78876pt>
+<qcraftblockrooms.png, id=402, 478.78876pt x 478.78876pt>
 File: qcraftblockrooms.png Graphic file (type png)
 
 <use qcraftblockrooms.png>
-Package pdftex.def Info: qcraftblockrooms.png used on input line 2675.
+Package pdftex.def Info: qcraftblockrooms.png used on input line 2681.
 (pdftex.def)             Requested size: 273.14923pt x 273.14621pt.
- <odb-puzzle.png, id=396, 344.28625pt x 346.29375pt>
+ <odb-puzzle.png, id=403, 344.28625pt x 346.29375pt>
 File: odb-puzzle.png Graphic file (type png)
 
 <use odb-puzzle.png>
-Package pdftex.def Info: odb-puzzle.png used on input line 2682.
+Package pdftex.def Info: odb-puzzle.png used on input line 2688.
 (pdftex.def)             Requested size: 227.62206pt x 228.95087pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<qb-puzzle.png, id=397, 339.2675pt x 340.27126pt>
+<qb-puzzle.png, id=404, 339.2675pt x 340.27126pt>
 File: qb-puzzle.png Graphic file (type png)
  <use qb-puzzle.png>
-Package pdftex.def Info: qb-puzzle.png used on input line 2689.
+Package pdftex.def Info: qb-puzzle.png used on input line 2695.
 (pdftex.def)             Requested size: 227.62206pt x 228.29207pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<sp-puzzle.png, id=398, 481.8pt x 480.79625pt>
+<sp-puzzle.png, id=405, 481.8pt x 480.79625pt>
 File: sp-puzzle.png Graphic file (type png)
  <use sp-puzzle.png>
-Package pdftex.def Info: sp-puzzle.png used on input line 2696.
+Package pdftex.def Info: sp-puzzle.png used on input line 2702.
 (pdftex.def)             Requested size: 318.66948pt x 318.01611pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<ent-puzzle.png, id=399, 344.28625pt x 342.27875pt>
+<ent-puzzle.png, id=406, 344.28625pt x 342.27875pt>
 File: ent-puzzle.png Graphic file (type png)
  <use ent-puzzle.png>
-Package pdftex.def Info: ent-puzzle.png used on input line 2703.
+Package pdftex.def Info: ent-puzzle.png used on input line 2709.
 (pdftex.def)             Requested size: 227.62206pt x 226.29636pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[115
+[117
 
- <./legend.png> <./qcraftblockrooms.png>] [116 <./odb-puzzle.png> <./qb-puzzle.
-png>] [117 <./sp-puzzle.png> <./ent-puzzle.png>] [118
+ <./legend.png> <./qcraftblockrooms.png>] [118 <./odb-puzzle.png> <./qb-puzzle.
+png>] [119 <./sp-puzzle.png> <./ent-puzzle.png>] [120
 
 ]
-<Evaluation_matchboard-2.png, id=419, 3320.405pt x 2347.77126pt>
+<Evaluation_matchboard-2.png, id=425, 3320.405pt x 2347.77126pt>
 File: Evaluation_matchboard-2.png Graphic file (type png)
 
 <use Evaluation_matchboard-2.png>
-Package pdftex.def Info: Evaluation_matchboard-2.png used on input line 2718.
+Package pdftex.def Info: Evaluation_matchboard-2.png used on input line 2724.
 (pdftex.def)             Requested size: 643.80315pt x 455.24411pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Evaluation_matchboard-1.png, id=420, 3320.405pt x 2347.77126pt>
+<Evaluation_matchboard-1.png, id=426, 3320.405pt x 2347.77126pt>
 File: Evaluation_matchboard-1.png Graphic file (type png)
 
 <use Evaluation_matchboard-1.png>
-Package pdftex.def Info: Evaluation_matchboard-1.png used on input line 2723.
+Package pdftex.def Info: Evaluation_matchboard-1.png used on input line 2729.
 (pdftex.def)             Requested size: 643.80315pt x 455.24411pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[119 <./Evaluation_matchboard-2.png>] [120 <./Evaluation_matchboard-1.png>]
-<ageschart.png, id=429, 697.60625pt x 539.01375pt>
+[121 <./Evaluation_matchboard-2.png>] [122 <./Evaluation_matchboard-1.png>]
+<ageschart.png, id=436, 697.60625pt x 539.01375pt>
 File: ageschart.png Graphic file (type png)
  <use ageschart.png>
-Package pdftex.def Info: ageschart.png used on input line 2735.
+Package pdftex.def Info: ageschart.png used on input line 2741.
 (pdftex.def)             Requested size: 273.14923pt x 211.05342pt.
 
-<studieschart.png, id=430, 326.4829pt x 256.11473pt>
+<studieschart.png, id=437, 326.4829pt x 256.11473pt>
 File: studieschart.png Graphic file (type png)
  <use studieschart.png>
-Package pdftex.def Info: studieschart.png used on input line 2742.
+Package pdftex.def Info: studieschart.png used on input line 2748.
 (pdftex.def)             Requested size: 273.14923pt x 214.28294pt.
 
-<facultieschart.png, id=431, 169.26395pt x 209.20264pt>
+<facultieschart.png, id=438, 169.26395pt x 209.20264pt>
 File: facultieschart.png Graphic file (type png)
 
 <use facultieschart.png>
-Package pdftex.def Info: facultieschart.png used on input line 2749.
+Package pdftex.def Info: facultieschart.png used on input line 2755.
 (pdftex.def)             Requested size: 227.62206pt x 281.35156pt.
 
-<gamingexperiencechart.png, id=432, 329.65263pt x 292.88368pt>
+<gamingexperiencechart.png, id=439, 329.65263pt x 292.88368pt>
 File: gamingexperiencechart.png Graphic file (type png)
 
 <use gamingexperiencechart.png>
-Package pdftex.def Info: gamingexperiencechart.png used on input line 2756.
+Package pdftex.def Info: gamingexperiencechart.png used on input line 2762.
 (pdftex.def)             Requested size: 318.66948pt x 283.14493pt.
 
-<timeschart.png, id=433, 542.025pt x 311.9021pt>
+<timeschart.png, id=440, 542.025pt x 311.9021pt>
 File: timeschart.png Graphic file (type png)
  <use timeschart.png>
-Package pdftex.def Info: timeschart.png used on input line 2763.
+Package pdftex.def Info: timeschart.png used on input line 2769.
 (pdftex.def)             Requested size: 364.19667pt x 209.57773pt.
- [121
+ [123
 
 
 
- <./ageschart.png> <./studieschart.png>] [122 <./facultieschart.png> <./gaminge
-xperiencechart.png>] [123 <./timeschart.png>]
-Underfull \hbox (badness 7649) in paragraph at lines 2784--2784
+ <./ageschart.png> <./studieschart.png>] [124 <./facultieschart.png> <./gaminge
+xperiencechart.png>] [125 <./timeschart.png>]
+Underfull \hbox (badness 7649) in paragraph at lines 2790--2790
 []|\OT1/ptm/m/n/10 Amount of text /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2791--2791
+Underfull \hbox (badness 10000) in paragraph at lines 2797--2797
 []|\OT1/ptm/m/n/10 Criticism to-wards
  []
 
 
-Underfull \hbox (badness 7814) in paragraph at lines 2794--2794
+Underfull \hbox (badness 7814) in paragraph at lines 2800--2800
 []|\OT1/ptm/m/n/10 Relativity the-ory /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2794--2794
+Underfull \hbox (badness 10000) in paragraph at lines 2800--2800
 \OT1/ptm/m/n/10 clas-si-cal com-mu-ni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2795--2795
+Underfull \hbox (badness 10000) in paragraph at lines 2801--2801
 []|\OT1/ptm/m/n/10 Observer de-pen-
  []
 
 
-Underfull \hbox (badness 4303) in paragraph at lines 2795--2795
+Underfull \hbox (badness 4303) in paragraph at lines 2801--2801
 \OT1/ptm/m/n/10 dency / Su-per-po-si-
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 2796--2796
+Underfull \hbox (badness 1281) in paragraph at lines 2802--2802
 []|\OT1/ptm/m/n/10 Realism and On-tol-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2800--2800
+Underfull \hbox (badness 10000) in paragraph at lines 2806--2806
 []|\OT1/ptm/b/n/10 Suggestions im-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2804--2804
+Underfull \hbox (badness 10000) in paragraph at lines 2810--2810
 []|\OT1/ptm/m/n/10 Improvement
  []
 
-[124
+[126
 
 
-] [125] (./Thesis.aux)
+] [127] (./Thesis.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1254,10 +1259,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on Thesis.pdf (125 pages, 4646744 bytes).
+Output written on Thesis.pdf (127 pages, 4648804 bytes).
 PDF statistics:
- 503 PDF objects out of 1000 (max. 8388607)
- 318 compressed objects within 4 object streams
+ 510 PDF objects out of 1000 (max. 8388607)
+ 323 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
