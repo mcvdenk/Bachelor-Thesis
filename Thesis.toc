@@ -35,6 +35,7 @@
 \contentsline {section}{Aesthetic design}{41}
 \contentsline {section}{Tutorials}{41}
 \contentsline {section}{The Main Hall}{42}
+\contentsline {section}{Branches}{43}
 \contentsline {section}{Text}{43}
 \contentsline {chapter}{Encountered Problems and Workarounds}{44}
 \contentsline {part}{Formative Evaluation}{45}
