@@ -22,7 +22,7 @@
 \contentsline {chapter}{The Medium}{27}
 \contentsline {section}{Requirements for the Medium}{27}
 \contentsline {section}{Minecraft}{28}
-\contentsline {section}{qCraft}{29}
+\contentsline {section}{qCraft}{28}
 \contentsline {section}{Possibilities of using qCraft for teaching quantum mechanics}{29}
 \contentsline {chapter}{Design Principles}{31}
 \contentsline {chapter}{Framework for the Instruction}{33}
