@@ -263,13 +263,13 @@ Wouters, P.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2012}{}{}.
+\APACrefYearMonthDay{2012}{January}{}.
 \newblock
 {\BBOQ}\APACrefatitle {A Meta-analytic Review of the Role of Instructional
   Support in Game-based Learning} {A meta-analytic review of the role of
   instructional support in game-based learning}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Computers \& Education}{}{}{}.
+\APACjournalVolNumPages{Computers \& Education}{60}{1}{412-425}.
 \newblock
 \begin{APACrefDOI} \doi{10.1016/j.compedu.2012.07.018} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}

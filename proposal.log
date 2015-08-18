@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  3 AUG 2015 10:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  18 AUG 2015 11:30
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -501,7 +501,7 @@ Package tocloft Info: The document has chapter divisions on input line 44.
 \cftsubtabindent=\skip109
 \cftsubtabnumwidth=\skip110
 )
-No file proposal.aux.
+(./proposal.aux)
 \openout1 = `proposal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
@@ -516,6 +516,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
 LaTeX Font Info:    ... okay on input line 71.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
 LaTeX Font Info:    ... okay on input line 71.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -648,50 +649,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] [3
 
-]
+] [4
 
-LaTeX Warning: Citation `smithragan' undefined on input line 143.
+] [5
 
-
-LaTeX Warning: Citation `genericmodel' undefined on input line 145.
-
-
-LaTeX Warning: Reference `fig:genericmodel' on page 4 undefined on input line 1
-45.
-
-
-LaTeX Warning: Reference `fig:genericmodel' on page 4 undefined on input line 1
-45.
-
-[4
-
-]
-
-LaTeX Warning: Citation `eindexamen2015' undefined on input line 153.
-
-
-LaTeX Warning: Citation `eindexamen2016' undefined on input line 153.
-
-[5
-
-]
-
-LaTeX Warning: Citation `EPR' undefined on input line 163.
-
-
-LaTeX Warning: Citation `qumech' undefined on input line 165.
-
-
-LaTeX Warning: Citation `dance' undefined on input line 167.
-
-
-LaTeX Warning: Citation `wouters' undefined on input line 169.
-
-[6] [7]
-
-LaTeX Warning: Reference `fig:genericmodel' on page 8 undefined on input line 1
-73.
-
+] [6] [7]
 <genericmodel.png, id=35, 249.18094pt x 248.42813pt>
 File: genericmodel.png Graphic file (type png)
  <use genericmodel.png>
@@ -700,77 +662,34 @@ Package pdftex.def Info: genericmodel.png used on input line 177.
 
 [8
 
- <./genericmodel.png>]
-
-LaTeX Warning: Citation `bloom' undefined on input line 195.
-
-
-LaTeX Warning: Reference `fig:bloom' on page 9 undefined on input line 195.
-
-[9] <bloom.png, id=43, 288.8391pt x 210.7875pt>
+ <./genericmodel.png>] [9] <bloom.png, id=43, 288.8391pt x 210.7875pt>
 File: bloom.png Graphic file (type png)
- <use bloom.png>
+
+<use bloom.png>
 Package pdftex.def Info: bloom.png used on input line 199.
 (pdftex.def)             Requested size: 292.77629pt x 213.67848pt.
-
-
-LaTeX Warning: Citation `lerencomm' undefined on input line 205.
-
-[10 <./bloom.png>]
-
-LaTeX Warning: Reference `fig:genericmodel' on page 11 undefined on input line 
-211.
-
-
-LaTeX Warning: Reference `fig:genericmodel' on page 11 undefined on input line 
-211.
-
+ [10 <./bloom.png>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 213.
+
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 213.
-
-
-LaTeX Warning: Reference `tab:eventsinstruction' on page 11 undefined on input 
-line 218.
-
-
-LaTeX Warning: Reference `tab:eventsinstruction' on page 11 undefined on input 
-line 218.
-
-[11]
+ [11]
 Overfull \hbox (5.28487pt too wide) in paragraph at lines 221--245
 [][] 
  []
 
+[12] [13] [14] (./proposal.bbl [15
 
-LaTeX Warning: Reference `fig:genericmodel' on page 12 undefined on input line 
-250.
+] [16
 
-
-LaTeX Warning: Reference `fig:genericmodel' on page 12 undefined on input line 
-250.
-
-[12]
-
-LaTeX Warning: Citation `evamatchboard' undefined on input line 254.
-
-[13]
-
-LaTeX Warning: Reference `tab:planning' on page 14 undefined on input line 268.
-
-
-(./proposal.bbl [14
-
-] [15
-
-]) [16] [17
+]) [17] [18
 
 ]
-<Evaluation_matchboard.pdf, id=72, 1195.01462pt x 845.0471pt>
+<Evaluation_matchboard.pdf, id=76, 1195.01462pt x 845.0471pt>
 File: Evaluation_matchboard.pdf Graphic file (type pdf)
 
 <use Evaluation_matchboard.pdf>
@@ -781,7 +700,7 @@ File: Evaluation_matchboard.pdf Graphic file (type pdf)
 Package pdftex.def Info: Evaluation_matchboard.pdf used on input line 290.
 (pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
 
-<Evaluation_matchboard.pdf, id=75, page=1, 1195.01462pt x 845.0471pt>
+<Evaluation_matchboard.pdf, id=79, page=1, 1195.01462pt x 845.0471pt>
 File: Evaluation_matchboard.pdf Graphic file (type pdf)
 
 <use Evaluation_matchboard.pdf, page 1>
@@ -812,55 +731,49 @@ File: Evaluation_matchboard.pdf Graphic file (type pdf)
 Package pdftex.def Info: Evaluation_matchboard.pdf, page1 used on input line 29
 0.
 (pdftex.def)             Requested size: 597.50584pt x 422.52252pt.
- [18 <./Evaluation_matchboard.pdf>]
-<Evaluation_matchboard.pdf, id=155, page=2, 1195.01462pt x 845.0471pt>
-File: Evaluation_matchboard.pdf Graphic file (type pdf)
-
-<use Evaluation_matchboard.pdf, page 2>
-Package pdftex.def Info: Evaluation_matchboard.pdf, page2 used on input line 29
-0.
-(pdftex.def)             Requested size: 597.50584pt x 422.52252pt.
-File: Evaluation_matchboard.pdf Graphic file (type pdf)
-
-<use Evaluation_matchboard.pdf, page 2>
-Package pdftex.def Info: Evaluation_matchboard.pdf, page2 used on input line 29
-0.
-(pdftex.def)             Requested size: 597.50584pt x 422.52252pt.
-File: Evaluation_matchboard.pdf Graphic file (type pdf)
-
-<use Evaluation_matchboard.pdf, page 2>
-Package pdftex.def Info: Evaluation_matchboard.pdf, page2 used on input line 29
-0.
-(pdftex.def)             Requested size: 597.50584pt x 422.52252pt.
  [19 <./Evaluation_matchboard.pdf>]
-(./proposal.aux)
+<Evaluation_matchboard.pdf, id=158, page=2, 1195.01462pt x 845.0471pt>
+File: Evaluation_matchboard.pdf Graphic file (type pdf)
 
-LaTeX Warning: There were undefined references.
+<use Evaluation_matchboard.pdf, page 2>
+Package pdftex.def Info: Evaluation_matchboard.pdf, page2 used on input line 29
+0.
+(pdftex.def)             Requested size: 597.50584pt x 422.52252pt.
+File: Evaluation_matchboard.pdf Graphic file (type pdf)
 
+<use Evaluation_matchboard.pdf, page 2>
+Package pdftex.def Info: Evaluation_matchboard.pdf, page2 used on input line 29
+0.
+(pdftex.def)             Requested size: 597.50584pt x 422.52252pt.
+File: Evaluation_matchboard.pdf Graphic file (type pdf)
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+<use Evaluation_matchboard.pdf, page 2>
+Package pdftex.def Info: Evaluation_matchboard.pdf, page2 used on input line 29
+0.
+(pdftex.def)             Requested size: 597.50584pt x 422.52252pt.
+ [20 <./Evaluation_matchboard.pdf>]
+(./proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 5961 strings out of 493117
- 88167 string characters out of 6135433
- 172281 words of memory out of 5000000
- 9319 multiletter control sequences out of 15000+600000
+ 5969 strings out of 493117
+ 88280 string characters out of 6135433
+ 174445 words of memory out of 5000000
+ 9325 multiletter control sequences out of 15000+600000
  12513 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,18n,46p,2024b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></us
-r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr
-/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
-local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on proposal.pdf (20 pages, 514451 bytes).
+ 44i,18n,46p,2027b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmcsc10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmss12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmss17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ti12.pfb>
+Output written on proposal.pdf (21 pages, 516947 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
+ 196 PDF objects out of 1000 (max. 8388607)
+ 125 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
