@@ -19,131 +19,142 @@
 \contentsline {chapter}{Focus Group Evaluation}{22}
 \contentsline {part}{Design}{23}
 \contentsline {chapter}{Conclusions from the Analysis}{25}
-\contentsline {chapter}{The Medium}{27}
-\contentsline {section}{Requirements for the Medium}{27}
+\contentsline {chapter}{Method of Delivery}{27}
+\contentsline {section}{Requirements for the Method of Delivery}{27}
 \contentsline {section}{Minecraft}{28}
-\contentsline {section}{qCraft}{28}
+\contentsline {section}{qCraft}{29}
 \contentsline {section}{Possibilities of using qCraft for teaching quantum mechanics}{29}
+\contentsline {section}{Comparison of different methods of delivery}{30}
 \contentsline {chapter}{Design Principles}{31}
 \contentsline {chapter}{Framework for the Instruction}{33}
 \contentsline {section}{Events of instruction}{33}
 \contentsline {section}{Supplantive and Generative Instruction}{33}
 \contentsline {section}{Types of Learning}{35}
+\contentsline {section}{Framework}{36}
 \contentsline {part}{Development}{37}
 \contentsline {chapter}{Translation into Minecraft}{39}
-\contentsline {section}{Tutorials}{40}
-\contentsline {section}{The Main Hall}{40}
-\contentsline {section}{Branches}{41}
-\contentsline {section}{Text}{42}
-\contentsline {section}{Aesthetic design}{42}
-\contentsline {chapter}{Encountered Problems and Workarounds}{45}
-\contentsline {part}{Formative Evaluation}{46}
-\contentsline {chapter}{Method for the Micro-Evaluation}{48}
-\contentsline {section}{Research Approach}{48}
-\contentsline {subsection}{Research Goal}{48}
-\contentsline {subsection}{Theoretical Significance}{48}
-\contentsline {subsection}{Ethical Admissibility}{49}
-\contentsline {subsection}{Research Questions}{49}
-\contentsline {subsection}{Action Based Research}{49}
-\contentsline {subsection}{Respondents}{49}
-\contentsline {subsection}{Concepts Central to the Research}{49}
-\contentsline {subsection}{Methods of Data Gathering}{50}
-\contentsline {subsection}{Pretest}{51}
-\contentsline {subsection}{Observation}{51}
-\contentsline {subsection}{Interviews}{51}
-\contentsline {section}{Analysis of the results}{52}
-\contentsline {subsection}{Data Preparation}{52}
-\contentsline {subsection}{Coding the Transcriptions}{52}
-\contentsline {chapter}{Results of the Micro-Evaluation}{54}
-\contentsline {section}{Pretest}{54}
-\contentsline {section}{Durations}{55}
-\contentsline {section}{Observations from Evaluating the Initial Instruction}{55}
-\contentsline {subsection}{Tutorial 1}{56}
-\contentsline {subsection}{Microscopic World}{57}
-\contentsline {subsection}{Classical Communication}{57}
-\contentsline {subsection}{Observer Dependency}{57}
-\contentsline {subsection}{Quantum Blocks}{57}
-\contentsline {subsection}{Entanglement}{57}
-\contentsline {subsection}{Tutorial 2}{58}
-\contentsline {subsection}{Realism and Ontology}{58}
-\contentsline {subsection}{Uncertainty Principle of Heisenberg}{58}
-\contentsline {subsection}{Teleportation}{58}
-\contentsline {subsection}{Conclusion}{58}
-\contentsline {section}{Rapid Prototyping}{58}
-\contentsline {subsection}{Minor Alterations}{59}
-\contentsline {subsection}{Quantum Teleportation Experiment}{60}
-\contentsline {subsection}{qCraft Block Branches}{60}
-\contentsline {subsubsection}{Discovery Rooms}{60}
-\contentsline {subsubsection}{Puzzles}{61}
-\contentsline {subsubsection}{Book Alterations}{62}
-\contentsline {subsubsection}{Incorporation of the Teleportation branch}{62}
-\contentsline {section}{Observations from Evaluating the Final Instruction}{62}
-\contentsline {section}{Interviews}{62}
-\contentsline {subsection}{Reaction}{63}
-\contentsline {subsubsection}{New Information and Preknowledge}{63}
-\contentsline {subsubsection}{Difficulty}{63}
-\contentsline {subsubsection}{Language}{63}
-\contentsline {subsubsection}{Use of Minecraft}{63}
-\contentsline {subsubsection}{Amount of Text and Gameplay}{64}
-\contentsline {subsubsection}{Philosophical Value}{64}
-\contentsline {subsubsection}{Amusement Value}{64}
-\contentsline {subsubsection}{Topical Excitement}{64}
-\contentsline {subsubsection}{Learning Process}{64}
-\contentsline {subsubsection}{Playing Experience}{65}
-\contentsline {subsubsection}{Relevance}{65}
-\contentsline {subsubsection}{Criticism towards Quantum Mechanics}{65}
-\contentsline {subsection}{Learning}{65}
-\contentsline {subsubsection}{Elementary Particle}{65}
-\contentsline {subsubsection}{Relativity Theory and Classical Communication}{65}
-\contentsline {subsubsection}{Observer Dependency and Superposition}{66}
-\contentsline {subsubsection}{Realism and Ontology}{66}
-\contentsline {subsubsection}{Entanglement}{66}
-\contentsline {subsubsection}{The Uncertainty Principle of Heisenberg}{66}
-\contentsline {subsubsection}{Teleportation}{66}
-\contentsline {subsection}{Suggestions for improvement}{67}
-\contentsline {subsubsection}{Improvement of the Map}{67}
-\contentsline {subsubsection}{Improvement of the Text}{67}
-\contentsline {subsubsection}{Improvement of qCraft}{67}
-\contentsline {subsubsection}{Improvement of Minecraft}{67}
-\contentsline {section}{Typology}{68}
-\contentsline {part}{Conclusion and Discussion}{70}
-\contentsline {chapter}{References}{73}
-\contentsline {part}{Appendices}{76}
-\contentsline {chapter}{Topics mentioned in literature}{77}
-\contentsline {chapter}{Topical Domains}{80}
-\contentsline {chapter}{Learning Objectives}{82}
-\contentsline {chapter}{Learning Objectives and Standards}{86}
-\contentsline {chapter}{Initial Framework for the Instruction}{92}
-\contentsline {section}{Minecraft Tutorial}{92}
-\contentsline {section}{Introduction}{93}
-\contentsline {section}{Body}{94}
-\contentsline {subsection}{The Rutherford-Bohr Model of the Atom (Declarative Knowledge)}{94}
-\contentsline {subsection}{Elementary Particles (Concept)}{94}
-\contentsline {subsection}{Theory of Relativity and Classical Communication (Declarative Knowledge)}{95}
-\contentsline {subsection}{Observer Dependency (Concept)}{96}
-\contentsline {subsection}{Quantum Blocks and Random Collapse}{97}
-\contentsline {subsection}{Entanglement (Concept)}{98}
-\contentsline {subsection}{qCraft tutorial}{99}
-\contentsline {subsection}{Realism and Ontology, Superposition (Concept)}{100}
-\contentsline {subsection}{Uncertainty Principle of Heisenberg (Principle)}{101}
-\contentsline {subsection}{Quantum Teleportation (Procedure)}{103}
-\contentsline {section}{Conclusion}{104}
-\contentsline {chapter}{Framework for the Second Version of the Quantum Teleportation Experiment}{106}
-\contentsline {chapter}{Final Framework}{108}
-\contentsline {section}{Minecraft Tutorial}{108}
-\contentsline {section}{Introduction}{108}
-\contentsline {section}{Body}{109}
-\contentsline {subsection}{The Rutherford-Bohr Model of the Atom and Elementary Particles (Concept)}{109}
-\contentsline {subsection}{Observer Dependency}{111}
-\contentsline {subsection}{Quantum Blocks}{112}
-\contentsline {subsection}{Realism and Ontology, Superposition (Concept)}{114}
-\contentsline {subsection}{Superposition}{114}
-\contentsline {subsection}{Uncertainty Principle of Heisenberg (Principle)}{115}
-\contentsline {subsection}{Classical Communication}{116}
-\contentsline {subsection}{Entanglement}{117}
-\contentsline {section}{Conclusion}{119}
-\contentsline {chapter}{Settings}{120}
-\contentsline {chapter}{Floor Plans}{121}
-\contentsline {chapter}{Evaluation Matchboard}{124}
-\contentsline {chapter}{Charts of the Results of the Evaluation}{127}
-\contentsline {chapter}{Amount of coded fragments}{130}
+\contentsline {section}{Aesthetic design}{40}
+\contentsline {section}{Sections of the Map}{40}
+\contentsline {subsection}{Tutorials}{41}
+\contentsline {subsection}{The Main Hall}{42}
+\contentsline {subsection}{Rutherford-Bohr Model of the Atom}{43}
+\contentsline {subsection}{Elementary Particles}{43}
+\contentsline {subsection}{Theory of Relativity and Classical Communication}{43}
+\contentsline {subsection}{Discovery Branches}{43}
+\contentsline {subsection}{qCraft Tutorial}{43}
+\contentsline {subsection}{Realism and Ontology, and Superposition}{44}
+\contentsline {subsection}{Uncertainty Principle of Heisenberg}{44}
+\contentsline {subsection}{Quantum Teleportation}{44}
+\contentsline {subsection}{Conclusion}{44}
+\contentsline {section}{Text}{45}
+\contentsline {chapter}{Encountered Problems and Workarounds}{46}
+\contentsline {part}{Formative Evaluation}{47}
+\contentsline {chapter}{Method for the Micro-Evaluation}{49}
+\contentsline {section}{Research Approach}{49}
+\contentsline {subsection}{Research Goal}{49}
+\contentsline {subsection}{Theoretical Significance}{49}
+\contentsline {subsection}{Ethical Admissibility}{50}
+\contentsline {subsection}{Research Questions}{50}
+\contentsline {subsection}{Action Based Research}{50}
+\contentsline {subsection}{Respondents}{50}
+\contentsline {subsection}{Concepts Central to the Research}{50}
+\contentsline {subsection}{Methods of Data Gathering}{51}
+\contentsline {subsection}{Pretest}{52}
+\contentsline {subsection}{Observation}{52}
+\contentsline {subsection}{Interviews}{52}
+\contentsline {section}{Analysis of the results}{53}
+\contentsline {subsection}{Data Preparation}{53}
+\contentsline {subsection}{Coding the Transcriptions}{53}
+\contentsline {chapter}{Results of the Micro-Evaluation}{55}
+\contentsline {section}{Pretest}{55}
+\contentsline {section}{Durations}{56}
+\contentsline {section}{Observations from Evaluating the Initial Instruction}{56}
+\contentsline {subsection}{Tutorial 1}{57}
+\contentsline {subsection}{Microscopic World}{58}
+\contentsline {subsection}{Classical Communication}{58}
+\contentsline {subsection}{Observer Dependency}{58}
+\contentsline {subsection}{Quantum Blocks}{58}
+\contentsline {subsection}{Entanglement}{58}
+\contentsline {subsection}{Tutorial 2}{59}
+\contentsline {subsection}{Realism and Ontology}{59}
+\contentsline {subsection}{Uncertainty Principle of Heisenberg}{59}
+\contentsline {subsection}{Teleportation}{59}
+\contentsline {subsection}{Conclusion}{59}
+\contentsline {section}{Rapid Prototyping}{59}
+\contentsline {subsection}{Minor Alterations}{60}
+\contentsline {subsection}{Quantum Teleportation Experiment}{61}
+\contentsline {subsection}{qCraft Block Branches}{61}
+\contentsline {subsubsection}{Discovery Rooms}{61}
+\contentsline {subsubsection}{Puzzles}{62}
+\contentsline {subsubsection}{Book Alterations}{63}
+\contentsline {subsubsection}{Incorporation of the Teleportation branch}{63}
+\contentsline {section}{Observations from Evaluating the Final Instruction}{63}
+\contentsline {section}{Interviews}{63}
+\contentsline {subsection}{Reaction}{64}
+\contentsline {subsubsection}{New Information and Preknowledge}{64}
+\contentsline {subsubsection}{Difficulty}{64}
+\contentsline {subsubsection}{Language}{64}
+\contentsline {subsubsection}{Use of Minecraft}{64}
+\contentsline {subsubsection}{Amount of Text and Gameplay}{65}
+\contentsline {subsubsection}{Philosophical Value}{65}
+\contentsline {subsubsection}{Amusement Value}{65}
+\contentsline {subsubsection}{Topical Excitement}{65}
+\contentsline {subsubsection}{Learning Process}{65}
+\contentsline {subsubsection}{Playing Experience}{66}
+\contentsline {subsubsection}{Relevance}{66}
+\contentsline {subsubsection}{Criticism towards Quantum Mechanics}{66}
+\contentsline {subsection}{Learning}{66}
+\contentsline {subsubsection}{Elementary Particle}{66}
+\contentsline {subsubsection}{Relativity Theory and Classical Communication}{66}
+\contentsline {subsubsection}{Observer Dependency and Superposition}{67}
+\contentsline {subsubsection}{Realism and Ontology}{67}
+\contentsline {subsubsection}{Entanglement}{67}
+\contentsline {subsubsection}{The Uncertainty Principle of Heisenberg}{67}
+\contentsline {subsubsection}{Teleportation}{67}
+\contentsline {subsection}{Suggestions for improvement}{68}
+\contentsline {subsubsection}{Improvement of the Map}{68}
+\contentsline {subsubsection}{Improvement of the Text}{68}
+\contentsline {subsubsection}{Improvement of qCraft}{68}
+\contentsline {subsubsection}{Improvement of Minecraft}{68}
+\contentsline {section}{Typology}{69}
+\contentsline {part}{Conclusion and Discussion}{71}
+\contentsline {chapter}{References}{74}
+\contentsline {part}{Appendices}{77}
+\contentsline {chapter}{Topics mentioned in literature}{78}
+\contentsline {chapter}{Topical Domains}{81}
+\contentsline {chapter}{Learning Objectives}{83}
+\contentsline {chapter}{Learning Objectives and Standards}{87}
+\contentsline {chapter}{Initial Framework for the Instruction}{93}
+\contentsline {section}{Minecraft Tutorial}{93}
+\contentsline {section}{Introduction}{94}
+\contentsline {section}{Body}{95}
+\contentsline {subsection}{The Rutherford-Bohr Model of the Atom (Declarative Knowledge)}{95}
+\contentsline {subsection}{Elementary Particles (Concept)}{95}
+\contentsline {subsection}{Theory of Relativity and Classical Communication (Declarative Knowledge)}{96}
+\contentsline {subsection}{Observer Dependency (Concept)}{97}
+\contentsline {subsection}{Quantum Blocks and Random Collapse}{98}
+\contentsline {subsection}{Entanglement (Concept)}{99}
+\contentsline {subsection}{qCraft tutorial}{100}
+\contentsline {subsection}{Realism and Ontology, Superposition (Concept)}{101}
+\contentsline {subsection}{Uncertainty Principle of Heisenberg (Principle)}{102}
+\contentsline {subsection}{Quantum Teleportation (Procedure)}{104}
+\contentsline {section}{Conclusion}{105}
+\contentsline {chapter}{Framework for the Second Version of the Quantum Teleportation Experiment}{107}
+\contentsline {chapter}{Final Framework}{109}
+\contentsline {section}{Minecraft Tutorial}{109}
+\contentsline {section}{Introduction}{109}
+\contentsline {section}{Body}{110}
+\contentsline {subsection}{The Rutherford-Bohr Model of the Atom and Elementary Particles (Concept)}{110}
+\contentsline {subsection}{Observer Dependency}{112}
+\contentsline {subsection}{Quantum Blocks}{113}
+\contentsline {subsection}{Realism and Ontology, Superposition (Concept)}{115}
+\contentsline {subsection}{Superposition}{115}
+\contentsline {subsection}{Uncertainty Principle of Heisenberg (Principle)}{116}
+\contentsline {subsection}{Classical Communication}{117}
+\contentsline {subsection}{Entanglement}{118}
+\contentsline {section}{Conclusion}{120}
+\contentsline {chapter}{Settings}{121}
+\contentsline {chapter}{Floor Plans}{122}
+\contentsline {chapter}{Evaluation Matchboard}{125}
+\contentsline {chapter}{Charts of the Results of the Evaluation}{128}
+\contentsline {chapter}{Amount of coded fragments}{131}

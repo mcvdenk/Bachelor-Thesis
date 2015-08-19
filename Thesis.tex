@@ -104,15 +104,7 @@
 
 %Table with advantages / disadvantages of GBL, Simulation and Traditional education
 
-%Argumentation for the expanded events of instruction
-
 %Improvement of the design principles
-
-%Omission of Jesse Schell elements
-
-%Realisation method in the development part
-
-%Connecting the branches in the development part to the design principles and events of instruction
 
 %Paper version
 
@@ -381,9 +373,9 @@ The literature prescribes different strategies for teaching quantum mechanics, n
 
 In secondary education, instructions often emphasise learning and practising algorithmic skills. This however clashes with the recommendations from the literature, which advocates an emphasis on conceptual understanding. It is also found that students show higher interest in conceptual aspects than the algorithmic aspects. Conceptual approaches engage students and probes the student to ask fundamental questions. Because of the focus on algorithmic aspects, students currently often do not learn what is intended by the developer of the instruction, improved student learning might be possible by shifting the focus to conceptual understanding. This is why the learning objectives are all targeted towards a better conceptual understanding of the student, without having to rely on complex mathematics or experiments. The different domains which will be taught are Applications of Quantum Mechanics, Preknowledge, Elementary Particles, Classical Communication, Observation Dependency, Realism and Ontology, Superposition, Entanglement, and the Uncertainty Principle of Heisenberg. These Domains will then be combined within the experiment of Quantum Teleportation.
 
-\chapter{The Medium}
+\chapter{Method of Delivery}
 
-\section{Requirements for the Medium}
+\section{Requirements for the Method of Delivery}
 
 The analysis phase provides a couple of recommendations or requirements for the medium used to deliver the instruction:
 
@@ -397,22 +389,6 @@ The analysis phase provides a couple of recommendations or requirements for the 
 As already stated within the Analysis chapter, these requirements cannot be reached by relying on traditional means of instruction such as text books, pictures and lectures from a teacher. It is not possible for a student to interact with the contents of a book or with pictures, and lectures from a teacher often entail the teacher standing in front of the class and telling the students about quantum mechanics in a supplantive way. Of course it would be possible for a student to ask questions, but more room for interaction is needed to be even more successful, and the teacher has not enough time to facilitate interactive learning to every student in a differentiated way.
 
 One of the suggestions from the studied literature entailed using simulations, because these could provide all of the requirements. However, simulations often are related to certain experiments, for example by simulating the double-slit experiment and providing the student with data such as visuals or numerals. This is in contrast with the requirements from the task analysis, which specify that rather than teaching by means of experiments, the instruction should first teach about the concepts themselves in a more direct way.
-
-\begin{table}[htbp]
-\centering
-\begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
-\hline
- & Teacher lectures & Textual instruction & Simulations & Top of the shelf game & qCraft \\ \hline
-Content delivery & X & X &  &  & X \\ \hline
-Conceptual understanding & X & X & X & X & X \\ \hline
-Mathematical understanding & X & X &  &  &  \\ \hline
-Visualisation &  & X & X & X & X \\ \hline
-Interaction &  &  & X & X & X \\ \hline
-Computation &  &  & X & X & X \\ \hline
-Multiple modes of representation &  &  & X &  & X \\ \hline
-\end{tabular}
-\caption{The different media and their possibilities.\label{tab:comparisonsmedia}}
-\end{table}
 
 Another way of teaching quantum mechanics via electronic media would be to deliver the instruction by using game-based learning. Game-based learning refers to the use of games for educational purposes. Relatively speaking, only little research has been carried out to investigate game-based learning, but recent reviews revealed a potential of games being an effective tool for instruction, "even more effective than conventional instruction" \cite[p.~1]{wouters}. In order for game-based learning to take place, the game has to supersede sole entertainment purposes by having an educational value, so that the student learns something about the real world by playing the game. Examples of these games are historical games like Assassin's Creed, Age of Empires or Valiant Hearts, in which the student is exposed to certain historical events or figures, or puzzle games like Portal, in which the student develops an understanding about physics. However. these games are often only intended for entertainment purposes and are only tangentially fit for educational purposes. Most research within game-based learning is conducted on games which are specifically designed to have an educational value. These games often contain explicit formulated learning goals which can be tested by pre- and post-testing. They are designed with the primary goal of education rather than entertainment, and are therefore a subset of Serious Games. This term refers to the set of games designed for a primary goal other than pure entertainment. This goal can be teaching, but also raising awareness about a certain topic or persuading the student to believe something.
 
@@ -449,6 +425,24 @@ First of all, qCraft meets all the requirements earlier specified based on recom
 Finally, all of the learning objectives can be achieved using only qCraft, without having to rely on more external sources of delivery. One disadvantages of using qCraft is that it is not possible to visualise the double-slit experiment for example. However, it was already stated in the Analysis phase that this experiment would occur only after a conceptual understanding was achieved with the student, and that it could be introduced later on in the curriculum. The debate between realism and ontology can be described within a book. The uncertainty principle of Heisenberg cannot be emulated within qCraft. However, it is possible to display the different variables within the formula on images situated in the world. This way the student can learn the formula by means of discovery learning. The experiment of teleportation is visualisable in qCraft, for the only concepts needed are random collapse and entanglement.
 
 Another advantage of using qCraft is its accessibility. A lot of people already play Minecraft, and this could be an attractive entrance into the world of quantum mechanics. There are also a lot of gamers who have not yet played Minecraft, but are still quite familiar with the controls because they have played other first person games. However, there will also be students who are not familiar with first person games, so a tutorial teaching the controls of Minecraft will still be needed at the beginning of the instruction.
+
+\section{Comparison of different methods of delivery}
+
+\begin{table}[htbp]
+\centering
+\begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+\hline
+ & Teacher lectures & Textual instruction & Simulations & Top of the shelf game & qCraft \\ \hline
+Content delivery & X & X &  &  & X \\ \hline
+Conceptual understanding & X & X & X & X & X \\ \hline
+Mathematical understanding & X & X &  &  &  \\ \hline
+Visualisation &  & X & X & X & X \\ \hline
+Interaction &  &  & X & X & X \\ \hline
+Computation &  &  & X & X & X \\ \hline
+Multiple modes of representation &  &  & X &  & X \\ \hline
+\end{tabular}
+\caption{The different media and their possibilities.\label{tab:comparisonsmedia}}
+\end{table}
 
 \chapter{Design Principles}
 \label{ch:designprinciples}
@@ -534,7 +528,7 @@ Because the literature suggests the use of thought experiments and therefore als
 
 \section{Types of Learning}
 
-The final step before writing the framework itself is determining the type of learning of the instruction. Normally, only one type of learning forms the base for the whole instruction. However, because there is a variety of content domains, the decision was made to give each domain an own type of learning, albeit that most domains fall within concept learning.
+The final step before writing the framework itself is determining the type of learning of the instruction. Normally, only one type of learning forms the base for the whole instruction. However, because there is a variety of content domains, the decision was made to give each domain mentioned in the Topical Domains appendix (see page~\pageref{app:topicaldomains}) an own type of learning, albeit that most domains fall within concept learning.
 
 As the name might already suggest, the Preknowledge domain falls within the Declarative Knowledge type of learning. Declarative knowledge does not require the student to apply their knowledge but focuses only on memorising the content. This is also the case for the Preknowledge domain, for it only requires the student to memorise the order and structures of the atom. Furthermore, only focusing on the memorised facts is sufficient, for the student is presumed to already know these concepts and relations. The Applications of Quantum Mechanics is also only provided as declarative knowledge, for the applications are merely referenced and not further explained.
 
@@ -548,7 +542,9 @@ The uncertainty principle of Heisenberg however is a principle, as the name alre
 
 Finally, the teleportation experiment is taught at a procedural level, which means that the student should learn the steps of a procedure and how to perform the procedure.
 
-After assessing the different types of learning, the events of instruction had to be combined with the learning objectives in order to create the framework, which is displayed in the Initial Framework appendix on page~\pageref{app:framework1}.
+\section{Framework}
+
+After assessing the different types of learning, the events of instruction had to be combined with the learning objectives in order to create the framework, which is displayed in the Initial Framework appendix on page~\pageref{app:framework1}. Within this framework, every separate concept got a separate sub-body, consisting of the events "Information and examples", "Focus attention", "Learning strategies", "Practice" and "Feedback". This was decided because of the variety of smaller domains and the different learning types of the domains. Because of the use of game-based learning, these events were not always presented in a certain order, for example "Practice" and "Feedback" in the Elementary Particles sub-body were combined together. Furthermore, the learning strategies were not regarded as an event, but as the incorporation of the design principles within the sub-body, since the game should already trigger the student to interact in a meaningful way with the content.
 
 %%% DEVELOPMENT
 
@@ -577,56 +573,6 @@ Not distracting the student from the content of an instruction falls within the 
 
 Off-loading, eliminating redundancy, and synchronising only apply when providing the instruction both visually and auditory, which will not be realised for the prototype of the instruction. Pretraining is a training in the names and characteristics before the instruction, so the student already knows the names and does not need to memorise them. However, this instruction actually serves as a pretraining for later instruction on experiments relevant to quantum mechanics. Segmenting refers to the allowing of time in between different segments within the instruction, so the student is able to absorb the information of the previous segment. Weeding entails the elimination of unnecessary material in order to leave more room for the student to learn the relevant information. Signalling refers to the use of advance cues of how to process the information, so the student can actively focus on the more relevant information instead of the extraneous material. Aligning the text with correspondent graphics reduces visual scanning. Finally, individualising refers to providing the instruction in multiple forms so the content can be learned matching the aptitude of the student.
 
-\section{Tutorials}
-
-Because the instruction is delivered in Minecraft, the student first needs to learn how the avatar can be controlled. In order to teach the student the controls, a tutorial is included at the start before the events of instruction. This tutorial teaches the student on simple movement, jumping, how redstone works, how the messaging system works, how the inventory works and the use of items and books. Redstone is the term within Minecraft describing the logic component of the game. It involves signals from one block to another, how to interact with redstone with levers and buttons and what redstone can be used for, for example for opening iron doors.
-
-The goal of the tutorials is to familiarise the student with the mechanics of the game, especially with the controls. Because it is not directly related to the achievement of the learning objectives, this has to be done as efficiently as possible. However, if too little attention is given to the student learning the controls, the student might not be able to get through the map at all. In order to keep the amount of text as low as possible, every instruction has been reduced to fit on signs, which allow only about 64 characters each. Another advantage of using signs is that the student does not need to switch between moving the character and having a book open, which decreases visual scanning and opening or closing the books. The signs are placed in such a way that the student reads it before he has to perform the action, which allows for signalling. Finally, the room is designed in such a way that the student needs to understand the controls in order to unlock the next room, which reduced the risk of the student not knowing what to do later. For example, the student needs to interact with the lever, button, pressure plate and tripwire hook system within the Interaction segment in order for the iron door to open.
-
-After the student has learned how to operate within Minecraft, the actual instruction begins, starting off with the introduction. The first three events are delivered by a book. Although the attention of the student is already gained during the tutorial, the book still introduces the student to the world of Minecraft in order to direct the attention to the content. The writer also introduces himself as Professor qCraft. Furthermore, the professor establishes the purpose and arouses interest. After that, the student is teleported to the main hall.
-
-\section{The Main Hall}
-
-Between every segment, the student returns to a main hall. This is a room which connects all the different branches of the instruction. Every branch is labeled with a sign, so the student can get a preview on the instruction. Furthermore, every next branch has to be unlocked by completing the previous branch, and the first branch is already unlocked from the beginning. Having different parts of the instruction in different branches allows for more segmenting, for the student needs to spend time in between branches to walk to the next branch. Furthermore, because every branch is labeled, the student can already get a preview of the different branches. Finally, the student is provided a way of tracking his progress within the instruction.
-
-In order to force the student to complete the branches in the order specified within the framework, the student has to unlock every next branch by completing the current branch. This is implemented by a ticket system. To unlock a branch, the student has to insert a ticket into a dropper at the end of the main hall. The dropper then sends the ticket into a system where the ticket is checked, opening the iron door corresponding to the ticket if the ticket is valid. A ticket can be obtained at the end of every branch. The ticket system has two extra bonus practicalities. The student has to spend even more time in between the branches allowing for more segmenting. The student also gets to see the name of the next branch when receiving his ticket, allowing for signalling.
-
-\begin{figure}[h]
-\centering
-\includegraphics[width=\textwidth]{mainhall}
-\caption{A screenshot of the design of the main hall.\label{fig:mainhall}}
-\end{figure}
-
-The main hall is designed after the temple of Bacchus in Baalbek, and is displayed at figure~\ref{fig:mainhall}. The entrances to the branches are located at both sides of the temple, and the dropper is located in an inner temple located in the centre of the back wall. Locating the dropper at the end allows for framing, directing the attention of the player. Placing the entrances at both sides is a natural placement, for there are already openings available at the sides of a temple.
-
-\section{Branches}
-\label{branches}
-
-As can be seen in the Initial Framework appendix on page~\pageref{app:framework1}, there are ten branches of the instruction accessible from the main hall. These branches correspond to the different topical domains specified on page~\pageref{app:topicaldomains}.
-
-The body starts with combining both the Rutherford-Bohr Model of the Atom as the Elementary Particles in one branch, for these domains are closely related to each other. This branch mostly is delivered via one book. The Rutherford-Bohr Model exists in order to activate the prior knowledge of the student, which is done according to the relating learning objectives. After activating the prior knowledge, the student will go through a series of small sub-bodies containing the learning events Information and examples, focus attention, learning strategies, practice, and feedback. This was decided because of the variety of smaller domains and the different learning types of the domains. The elementary particles is the first sub-body of the series. After the deployment of information, the student can test whether he memorised everything by going through a multiple choice test.
-
-The Theory of Relativity and Classical Communication is also mostly delivered by book. There is also a contraption in the room visualising the concept of communication by two lamps with a signal connecting them, being activated once in a while. Finally, the student is again tested by having to calculate the time needed for a message to travel 1000 000 m.
-
-The following three sub-bodies, which are Observer Dependency, Quantum Blocks and Random Collapse, and Entanglement. First, the student is asked to discover the behaviour of the new block by comparing it to an already known block. The Observer Dependent Block is compared to a normal block, the Quantum Block to an Observer Dependent Block and the entangled Quantum Blocks are compared to two non entangled Quantum Blocks. After discovering the mechanic, a book explains what the student should have found and transferring it to the context of elementary particles.
-
-After these sub-bodies, another tutorial follows, this time teaching the student how to use Quantum Goggles, Anti-Observation Goggles and the Automatic Observer.
-
-The next branch teaches the student about Realism and Ontology. By the means of a book, the student is first taught the questions researchers asked themselves upon finding the quantum phenomena. After that, the two interpretations are explained. The student is then asked which interpretation made more sense to him, triggering active learning. This is followed by a small experiment, in which the student has to trigger a Quantum Resetter hooked up with a Quantum Block while wearing Anti-Observation Goggles, which causes the Quantum Block to remain in the state of superposition. This is then explained to the student in the book, and that this is an ontological interpretation.
-
-The ensuing branch presents the Uncertainty Principle of Heisenberg by using pictures on the wall, one picture displaying the entire principle and the other displaying the different variables used within the principle. The student is asked to investigate the pictures first, and then receives instruction about the principle, and about the implications following from the principle. Furthermore, the student is asked what he would think the realistic and the ontological interpretation of this principle would be, which is followed by the answer. Finally, the student is taught about the scale in which the principle takes place.
-
-The final branch is the Quantum Teleportation experiment. In the first room, a simplified version of the entire experiment is displayed. The room also contains a chest with a book in it. Firstly, the student is taught about science fiction teleportation and why this is not possible. Then the book explains the different steps of quantum teleportation, which is different from science fiction teleportation. After that, the student has to perform the teleportation in the next room, from the perspective of the researcher in laboratory B. Finally, the student is asked whether quantum teleportation could be used for instantaneous communication, followed by the experiment of why this is not possible.
-
-In the conclusion, the professor summarises the content of the instruction by using the teleportation experiment. The professor also transfers learning by providing information describing where students could learn more about quantum mechanics. Finally, the professor closes the instruction.
-
-The assessment events within the prototype will be conducted using interviews.
-
-\section{Text}
-\label{sec:devtext}
-
-The text had to be written in such a way that it was comfortable for the student to read, without including extraneous information which would only increase the cognitive load. Because of this, the resulting text is an almost direct translation of the learning objectives and standards. However, to make the text something into more than only an enumeration of learning objectives, a few story elements were added. One of these elements is the fact that the writer is an actual character which introduces himself as professor qCraft. The student even meets with this professor at the end of the instruction. This does not require a lot of cognitive load, because it requires only a few sentences. Still, it gives a more personal flavour to the text. Another story element is the fact that the professor is trapped in his office and that the student has to save him. This is added to give the student an external reason to go through the instruction and also added an element of gamification. The story however is reduced to only these two aspects. After the text was written, weeding was applied to the text in order to reduce the amount of information to only the necessary information.
-
 \section{Aesthetic design}
 
 The aesthetic design is required to be pleasant for the student, but is also requires to not distract the student from the learning content. Furthermore, aesthetic design can be used to set a tone activating the student into being inquisitive towards the environment.
@@ -648,6 +594,77 @@ Because of the modularity and the multiple uses of the square room design, it is
 \includegraphics[width=\textwidth]{roomdesign}
 \caption{A screenshot of the design of an empty room, which is used throughout the instruction.\label{fig:roomdesign}}
 \end{figure}
+
+\section{Sections of the Map}
+
+The instruction is delivered within a Minecraft map, which contains different sections. These sections are the incorporations of the different sub-bodies within the Initial Framework appendix (see page~\pageref{framework1}). The map is custom-made in order to meet the needs stemming from the Initial Framework, and provides thereby a tailor-made solution.
+
+\subsection{Tutorials}
+
+Because the instruction is delivered in Minecraft, the student first needs to learn how the avatar can be controlled. In order to teach the student the controls, a tutorial is included at the start before the events of instruction. This tutorial teaches the student on simple movement, jumping, how redstone works, how the messaging system works, how the inventory works and the use of items and books. Redstone is the term within Minecraft describing the logic component of the game. It involves signals from one block to another, how to interact with redstone with levers and buttons and what redstone can be used for, for example for opening iron doors.
+
+The goal of the tutorials is to familiarise the student with the mechanics of the game, especially with the controls. Because it is not directly related to the achievement of the learning objectives, this has to be done as efficiently as possible. However, if too little attention is given to the student learning the controls, the student might not be able to get through the map at all. In order to keep the amount of text as low as possible, every instruction has been reduced to fit on signs, which allow only about 64 characters each. Another advantage of using signs is that the student does not need to switch between moving the character and having a book open, which decreases visual scanning and opening or closing the books. The signs are placed in such a way that the student reads it before he has to perform the action, which allows for signalling. Finally, the room is designed in such a way that the student needs to understand the controls in order to unlock the next room, which reduced the risk of the student not knowing what to do later. For example, the student needs to interact with the lever, button, pressure plate and tripwire hook system within the Interaction segment in order for the iron door to open.
+
+After the student has learned how to operate within Minecraft, the actual instruction begins, starting off with the introduction. The first three events are delivered by a book. Although the attention of the student is already gained during the tutorial, the book still introduces the student to the world of Minecraft in order to direct the attention to the content. The writer also introduces himself as Professor qCraft. Furthermore, the professor establishes the purpose and arouses interest. After that, the student is teleported to the main hall.
+
+\subsection{The Main Hall}
+
+Between every segment, the student returns to a main hall. This is a room which connects all the different branches of the instruction. Every branch is labeled with a sign, so the student can get a preview on the instruction. Furthermore, every next branch has to be unlocked by completing the previous branch, and the first branch is already unlocked from the beginning. Having different parts of the instruction in different branches allows for more segmenting, for the student needs to spend time in between branches to walk to the next branch. Furthermore, because every branch is labeled, the student can already get a preview of the different branches. Finally, the student is provided a way of tracking his progress within the instruction.
+
+In order to force the student to complete the branches in the order specified within the framework, the student has to unlock every next branch by completing the current branch. This is implemented by a ticket system. To unlock a branch, the student has to insert a ticket into a dropper at the end of the main hall. The dropper then sends the ticket into a system where the ticket is checked, opening the iron door corresponding to the ticket if the ticket is valid. A ticket can be obtained at the end of every branch. The ticket system has two extra bonus practicalities. The student has to spend even more time in between the branches allowing for more segmenting. The student also gets to see the name of the next branch when receiving his ticket, allowing for signalling.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=\textwidth]{mainhall}
+\caption{A screenshot of the design of the main hall.\label{fig:mainhall}}
+\end{figure}
+
+The main hall is designed after the temple of Bacchus in Baalbek, and is displayed at figure~\ref{fig:mainhall}. The entrances to the branches are located at both sides of the temple, and the dropper is located in an inner temple located in the centre of the back wall. Locating the dropper at the end allows for framing, directing the attention of the player. Placing the entrances at both sides is a natural placement, for there are already openings available at the sides of a temple.
+
+As can be seen in the Initial Framework appendix on page~\pageref{app:framework1}, there are ten branches of the instruction accessible from the main hall. These branches correspond to the different topical domains specified on page~\pageref{app:topicaldomains}.
+
+\subsection{Rutherford-Bohr Model of the Atom}
+
+The body starts with the Rutherford-Bohr Model of the Atom. This is delivered via one book, and depicted by an illustration on the wall (the same picture as figure~\ref{fig:bohrmodel} on page~\pageref{fig:bohrmodel}). By providing the picture, the model is represented in multiple ways. The Rutherford-Bohr Model is included in order to activate the prior knowledge of the student, which is done according to the relating learning objectives. After activating the prior knowledge, the student will go through the series of small sub-bodies.
+
+\subsection{Elementary Particles}
+
+The elementary particles is the first sub-body, which is introduced in the same book as the Rutherford-Bohr Model of the Atom, for these domains are closely related to each other. After the information is provided, the book states that the elementary particle is the most important concept of this book. After the deployment of information, the student can test whether he memorised everything by going through a multiple choice test. This test is a series of practice and feedback of declarative information.
+
+\subsection{Theory of Relativity and Classical Communication}
+
+The Theory of Relativity and Classical Communication is also mostly delivered by book. There is also a contraption in the room visualising the concept of communication by two lamps with a signal connecting them, being activated once in a while. This books again starts out with prior knowledge, this time referring to knowledge about the Theory of Relativity. However, it could be the case that the particular student did not get any prior instruction about the theory of relativity, and because of this the information is provided in such a way that these students also still understand the information. After this information, new information is provided about classical communication. Thereafter the book focuses on the fact that classical communication is not instant, for this is relevant later within the Teleportation branch. Finally, the student is tested by having to calculate the time needed for a message to travel 1000 000 m, again providing practice and feedback of declarative knowledge.
+
+\subsection{Discovery Branches}
+
+The following three sub-bodies are Observer Dependency, Quantum Blocks and Random Collapse, and Entanglement. These are the most important sections of the map, because in this section the qCraft blocks are used, and the student learns the most fundamental behaviours of elementary particles. First, the student is asked to discover the behaviour of the new block by comparing it to an already known block. The Observer Dependent Block is compared to a normal block, the Quantum Block to an Observer Dependent Block and the entangled Quantum Blocks are compared to two non entangled Quantum Blocks. By iteratively comparing a new block with an already known block, the student can link the new behaviour to already known behaviour. Furthermore, the student can focus on the important aspects of this instruction, namely the aspects of behaviour which are new. In order to find these aspects, the student has an active role in the instruction, he has to find his own results and draw his own conclusions, and has to be critical about his own conclusions. Furthermore, the blocks visualise the behaviour of elementary particles without the student needing a complex understanding of mathematics. After discovering the mechanic, a book explains what the student should have found, providing feedback, and then it transfers this behaviour to the context of elementary particles.
+
+\subsection{qCraft Tutorial}
+
+After these sub-bodies, another tutorial follows, teaching the student how to use Quantum Goggles, Anti-Observation Goggles and the Automatic Observer. How the goggles can be used is taught by providing the student with the specific goggle and with a book containing information about the goggles. With these items, the student can try the goggles for himself and confirm his ideas about these goggles by reading the book. The room is also scattered with Quantum Blocks, so the student can try to interact with these blocks while using the goggles. After the goggles, the student is confronted by a Quantum Resetter setup (see the Encountered Problems and Workarounds section below), in which he can try to find out how the contraption works. This is then again explained by a book, so the student can confirm his findings.
+
+\subsection{Realism and Ontology, and Superposition}
+
+The next branch teaches the student about Realism and Ontology. By the means of a book, the student is first taught the questions researchers asked themselves upon finding the quantum phenomena. After that, the two interpretations are explained. The student is then asked which interpretation made more sense to him, triggering active and critical learning about different interpretations of the phenomena he witnessed earlier in the discovery branches. This is then followed by a small experiment, in which the student has to trigger a Quantum Resetter hooked up with a Quantum Block while wearing Anti-Observation Goggles, which causes the Quantum Block to remain in the state of superposition. This is then explained to the student in the book, and that this is an ontological interpretation. This emphasises the focus on the fact that quantum mechanics works in a probabilistic way instead of a deterministic way.
+
+\subsection{Uncertainty Principle of Heisenberg}
+
+The ensuing branch presents the Uncertainty Principle of Heisenberg by using pictures on the wall, one picture displaying the entire principle and the other displaying the different variables used within the principle. The student is asked to investigate the pictures first, and then receives instruction about the principle. By having to explore the principle first, the student actively engages in trying to understanding the principle. The instruction then serves as feedback on this understanding. The book then emphasises two implications following from the principle, which is the focus of this section. Furthermore, the student is asked what he would think the realistic and the ontological interpretation of this principle would be, which is followed by the answer. This way, the student actively engages in finding different interpretations of this principle, and is also able to connect the principle to the previous section. Finally, the student is taught about the scale in which the principle takes place, transferring the principle to the context of the real world.
+
+\subsection{Quantum Teleportation}
+
+The final branch is the Quantum Teleportation experiment. In the first room, a simplified version of the entire experiment is displayed. The room also contains a chest with a book in it. First, the student is taught about science fiction teleportation and why this is not possible, which is included because this is likely to be the first association the student has with teleportation and has to be mentioned and rejected to make place for quantum teleportation. Then the book explains the different steps of quantum teleportation in order to give the student an idea of what is meant by quantum teleportation. After that, the student has to perform the teleportation in the next room, from the perspective of the researcher in laboratory B, which provides procedural practice and feedback. Finally, the student is asked whether quantum teleportation could be used for instantaneous communication, followed by the experiment of why this is not possible. By doing this, the student has to think in a critical way about the possibilities and the limitations of quantum teleportation.
+
+\subsection{Conclusion}
+
+In the conclusion, the professor summarises the content of the instruction by using the teleportation experiment. By doing this, the student can review the different concepts he learned during the instruction and connect them together. The professor also transfers learning by providing information describing where students could learn more about quantum mechanics, giving the students a preview for possible follow-up instruction. Finally, the professor closes the instruction.
+
+The assessment events within the prototype will be conducted using interviews.
+
+\section{Text}
+\label{sec:devtext}
+
+The text had to be written in such a way that it was comfortable for the student to read, without including extraneous information which would only increase the cognitive load. Because of this, the resulting text is an almost direct translation of the learning objectives and standards. However, to make the text something into more than only an enumeration of learning objectives, a few story elements were added. One of these elements is the fact that the writer is an actual character which introduces himself as professor qCraft. The student even meets with this professor at the end of the instruction. This does not require a lot of cognitive load, because it requires only a few sentences. Still, it gives a more personal flavour to the text. Another story element is the fact that the professor is trapped in his office and that the student has to save him. This is added to give the student an external reason to go through the instruction and also added an element of gamification. The story however is reduced to only these two aspects. After the text was written, weeding was applied to the text in order to reduce the amount of information to only the necessary information.
 
 \chapter{Encountered Problems and Workarounds}
 
@@ -1717,7 +1734,9 @@ This last domain is \emph{Teleportation}, which teaches the student about the in
 		\item The distance is 1 000 000 m
 	\end{itemize}
 	\item Feedback
+	\begin{itemize}
 		\item When the student grabs the ticket at the end of the room to teleport back to the main hallway, the correct answer is displayed in the message system (0.003 s)
+	\end{itemize}
 \end{itemize}
 \subsection{Observer Dependency (Concept)}
 \begin{itemize}
