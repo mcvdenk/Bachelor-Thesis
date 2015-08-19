@@ -267,6 +267,7 @@ Therefore, the aim of this instruction is to focus on a conceptual approach inst
 %learning environment
 
 \section{Learning Environment}
+\label{sec:learningenvironment}
 
 The learning environment description is the other major component of the learning context analysis \cite{smithragan}. The description contains information of all the external factors influencing the instruction. These are the mediators of the instruction, the already existing curricula which takes place in the environment, the available equipment available on the location of the instruction, the characteristics of the facilities at the location of the instruction, the characteristics of the organisation in which the instruction will take place, and the philosophies and taboos of the larger community in which this organisation exists.
 
@@ -430,21 +431,31 @@ Another advantage of using qCraft is its accessibility. A lot of people already 
 
 \section{Comparison of different methods of delivery}
 
+To summarise this section, table~\ref{tab:comparisonsmedia} was composed, displaying the different possibilities of the different methods of delivery. In this table, traditional instruction is split up into teacher lectures and written instruction. Teacher lectures refer to instruction delivered by a teacher standing in front of a classroom. Furthermore, written instruction entails instruction delivered on paper, for example by a textbook. The simulations refer only to computer simulations, for example simulations of the double-slit experiment. The term "top of the shelf game" refers to games already available on the market. qCraft is enlisted separately from other available games.
+
 \begin{table}[htbp]
 \centering
 \begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
 \hline
- & Teacher lectures & Textual instruction & Simulations & Top of the shelf game & qCraft \\ \hline
+ & Teacher lectures & Written instruction & Simulations & Top of the shelf game & qCraft \\ \hline
 Freedom of content delivery & X & X &  &  & X \\ \hline
-Conceptual understanding & X & X & X & X & X \\ \hline
+Easy to implement & X & X & & & \\ \hline
 Mathematical understanding & X & X & X &  &  \\ \hline
 Visualisation &  & X & X & X & X \\ \hline
 Interaction &  &  & X & X & X \\ \hline
 Computation &  &  & X & X & X \\ \hline
-Multiple modes of representation &  &  & X &  & X \\ \hline
+Multiple modes of representation &  & X & X & X & X \\ \hline
+Conceptual understanding & X & X & X & X & X \\ \hline
+Entertainment value & & & & X & X \\ \hline
 \end{tabular}
 \caption{The different methods of delivery and their possibilities.\label{tab:comparisonsmedia}}
 \end{table}
+
+One feature that traditional delivery methods have over typically available computer simulations or games is the freedom of content delivery. This entails the freedom the instructor has to design the instruction in such a way that it meets the requirements and purposes needed in the context of the implementation. For example, if available written instruction is used in a specific context, the instructor can omit certain parts from or add other parts to the instruction. This is the one feature that sets qCraft apart from other available games, for it is possible for the instructor to open Minecraft and adjust the map to meet the needs of the instruction.
+
+As already stated in the learning environment section within the Context analysis (see page~\pageref{sec:learningenvironment}), teachers find it easier to implement traditional methods of delivery than computer-based methods of delivery. Because of this, the methods currently used within physics education are delivered by traditional methods. Therefore, when choosing for computer-based methods, it is important that extra instruction is delivered for the teacher with computer-based methods in order to embed the instruction within the teaching context. Furthermore, the necessary hardware and software has to be available to the teacher.
+
+
 
 \chapter{Design Principles}
 \label{ch:designprinciples}
@@ -1155,7 +1166,7 @@ Some of the studies \cite{erduran, hubber, muller, thacker} then describe proper
 
 The double-slit experiment is the most famous of these experiments, and also the most studied tool for educational purposes \cite{asikainen, henriksen, hobson, levrini, mckagan, muller, papaphotis1,singh2, thacker}. A reason why this experiment is famous is because it was the first experiment in history to demonstrate phenomena of quantum mechanics. The experiment entails shooting elementary particles through two narrow slits in a wall, projecting them on a large wall behind these two slits. When the two slits are separated just a small amount, a interference pattern emerges. This is a result expected when the elementary particles would not be particles but waves. However, if the particles are observed and information is available through which slit each particle traversed, a diffraction pattern emerges, which would be the behaviour of particles. The most apparent phenomena demonstrated by this experiment is the wave-particle duality of elementary particles, which then could give way to mathematical descriptions of quantum mechanics like the Schrödinger equation. The Centraal Eindexamen of 2015 also already contained this experiment \cite{eindexamen2015}, so educational resources for teaching this experiment already exist.
 
-For understanding the double-split experiment, the concept of superposition is vital. Superposition means that when a particle is not observed, it is in all possible states at the same time. In the case of the double-slit experiment, superposition means that the particle goes through both slits at the same time. It then interferes with itself because of the probability function of where the particle ends up. However, when the particle is observed through which slit it travels, the information through which slit the particle travels is known and forces the probability function of the particle to collapse to either the left or the right slit. Because of this, it behaves like a particle and a diffraction pattern emerges. A video which demonstrates the double-slit experiment can be seen on \url{https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e4/Wave-particle_duality.ogv/Wave-particle_duality.ogv.480p.webm}. The double-slit experiment can provide the learner with an explanation of the observer dependency of the elementary particles. However, only \citeA{muller} mentions this concept in his study, and it also does not appear in the Centraal Eindexamen of 2016 \cite{eindexamen2016}.
+For understanding the double-slit experiment, the concept of superposition is vital. Superposition means that when a particle is not observed, it is in all possible states at the same time. In the case of the double-slit experiment, superposition means that the particle goes through both slits at the same time. It then interferes with itself because of the probability function of where the particle ends up. However, when the particle is observed through which slit it travels, the information through which slit the particle travels is known and forces the probability function of the particle to collapse to either the left or the right slit. Because of this, it behaves like a particle and a diffraction pattern emerges. A video which demonstrates the double-slit experiment can be seen on \url{https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e4/Wave-particle_duality.ogv/Wave-particle_duality.ogv.480p.webm}. The double-slit experiment can provide the learner with an explanation of the observer dependency of the elementary particles. However, only \citeA{muller} mentions this concept in his study, and it also does not appear in the Centraal Eindexamen of 2016 \cite{eindexamen2016}.
 
 The concept of superposition also has different cases. There are other properties of elementary particles which can be in superposition, for example the polarity of photons. Upon measurement, the polarisation value of a photon particle collapses to a certain value, but before this collapse it has all the different polarities at the same time. This gives way to the concept of entanglement, mentioned in some studies \cite{henriksen, hobson, kuttner}. Entanglement is a phenomenon which occurs between elementary particles, and it has as effect that the collapse of the different particles are interdependent of each other. This entanglement has two forms: boson entanglement and fermion entanglement. When the two particles are bosons, they always collapse to the same state on observation, and when the two particles are fermions, they always collapse to each others opposite state.
 
@@ -2135,7 +2146,7 @@ This last domain is \emph{Teleportation}, which teaches the student about the in
 	\item Transfer
 	\begin{itemize}
 		\item The professor also states that there is a lot more to learn in the area of quantum mechanics
-		\item The students could take a look at fundamental experiments which has shaped our view of quantum mechanics, like the double-split experiment or the EPR experiment
+		\item The students could take a look at fundamental experiments which has shaped our view of quantum mechanics, like the double-slit experiment or the EPR experiment
 		\item The student could also learn more by looking at famous debates by famous scientists
 		\item Finally, the student could get skills in the mathematical side of quantum mechanics
 		\item But at least the student should now has an understanding about the fundamental concepts of quantum mechanics
@@ -2704,7 +2715,7 @@ This last domain is \emph{Teleportation}, which teaches the student about the in
 	\item Transfer
 	\begin{itemize}
 		\item The professor also states that there is a lot more to learn in the area of quantum mechanics
-		\item The students could take a look at fundamental experiments which has shaped our view of quantum mechanics, like the double-split experiment or the EPR experiment
+		\item The students could take a look at fundamental experiments which has shaped our view of quantum mechanics, like the double-slit experiment or the EPR experiment
 		\item The student could also learn more by looking at famous debates by famous scientists
 		\item Finally, the student could get skills in the mathematical side of quantum mechanics
 		\item But at least the student should now has an understanding about the fundamental concepts of quantum mechanics
