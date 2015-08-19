@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  19 AUG 2015 15:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  19 AUG 2015 15:16
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -832,22 +832,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 438--438
 
 [30] [31
 
-] [32] [33
+] [32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [34] [35] [36] [37
+ [33
+
+]
+[34] [35] [36] [37
 
 ] [38] [39
 
-]
-<blocks.png, id=145, 1735.48375pt x 248.93pt>
+] <blocks.png, id=145, 1735.48375pt x 248.93pt>
 File: blocks.png Graphic file (type png)
- <use blocks.png>
+
+<use blocks.png>
 Package pdftex.def Info: blocks.png used on input line 584.
 (pdftex.def)             Requested size: 455.24411pt x 65.29762pt.
-
-<roomdesign.png, id=146, 1284.8pt x 753.81625pt>
+ <roomdesign.png, id=146, 1284.8pt x 753.81625pt>
 File: roomdesign.png Graphic file (type png)
- <use roomdesign.png>
+
+<use roomdesign.png>
 Package pdftex.def Info: roomdesign.png used on input line 594.
 (pdftex.def)             Requested size: 455.24411pt x 267.09479pt.
 
@@ -1253,7 +1257,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  6774 strings out of 493117
  100086 string characters out of 6135433
- 216185 words of memory out of 5000000
+ 215185 words of memory out of 5000000
  10061 multiletter control sequences out of 15000+600000
  33845 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1272,7 +1276,7 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on Thesis.pdf (132 pages, 4596487 bytes).
+Output written on Thesis.pdf (132 pages, 4596633 bytes).
 PDF statistics:
  523 PDF objects out of 1000 (max. 8388607)
  333 compressed objects within 4 object streams
