@@ -106,7 +106,7 @@
 \contentsline {subsection}{Learning}{67}
 \contentsline {subsubsection}{Elementary Particle}{67}
 \contentsline {subsubsection}{Relativity Theory and Classical Communication}{67}
-\contentsline {subsubsection}{Observer Dependency and Superposition}{68}
+\contentsline {subsubsection}{Observer Dependency and Superposition}{67}
 \contentsline {subsubsection}{Realism and Ontology}{68}
 \contentsline {subsubsection}{Entanglement}{68}
 \contentsline {subsubsection}{The Uncertainty Principle of Heisenberg}{68}

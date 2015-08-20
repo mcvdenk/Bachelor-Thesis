@@ -100,14 +100,6 @@
 
 %%% END Article customizations
 
-%%% Todo list
-
-%Table with advantages / disadvantages of GBL, Simulation and Traditional education
-
-%Improvement of the design principles
-
-%Paper version
-
 %%% The "real" document content comes below...
 
 \begin{document}
@@ -465,6 +457,8 @@ The requirement for multiple modes of representations is not displayed in the ta
 
 Finally, computer games tend to have a higher entertainment value than the other methods of delivery. As stated before, it is not the main goal of a serious game to entertain the student. However, it can still help the student to engage itself in the activity, which also could contribute to the learning effect of the instruction.
 
+As can be seen in the table, all of the relevant requirements for the instruction are met within the qCraft modification of Minecraft. Therefore, this instruction will make use of this method of delivery.
+
 \chapter{Design Principles}
 \label{ch:designprinciples}
 
@@ -477,11 +471,10 @@ Most of the recommendations from the studied literature are already covered by t
 \item \label{itm:realworld}Each concept should be transferred to the real-world context of the behaviour of elementary particles
 \item \label{itm:maths}The instruction has to be mathematically accessible towards the student and should not require mathematical skills beyond those of physics student within upper secondary education
 \item \label{itm:models}Students have to be triggered to reconsider their realist or deterministic models of physics in the context of quantum mechanics
-\item \label{itm:critic}The critical thinking skills of the student have to be activated
-\item \label{itm:active}The student has to be triggered into having an active learning style
-\item \label{itm:results}The student has to be asked to extract results from his observations
+\item \label{itm:results}The student has to be asked to extract results from his own observations
 \item \label{itm:conclusions}The student has to be asked to draw conclusions from the extraction of the results
 \item \label{itm:feedback}The student has to get feedback on the conclusions he has drawn
+\item \label{itm:critic}The student has to be triggered into questioning his knowledge of physics based on the conclusions he has drawn from his observations
 \end{enumerate}
 
 Someone might notice that the design principles are quite broadly defined, whereas normal design principles are formulated in a more concrete way. However, due to the nature of this project, the only source for these design principles are the recommendations by the literature. As such, the concreteness of the design principles are dependent on how concrete the recommendations are defined within the articles. Still, these design principles can be used as general guidelines for developing the instruction.
@@ -492,7 +485,7 @@ To provide the students with handles to internalise the concepts, the terminolog
 
 The design principle~\ref{itm:maths} related to the mathematical level is probably already covered by the choice of learning objectives and the choice of medium of delivery. However, it still remains an important requirement for the instruction because most current instructions make the mistake of underestimating the mathematics, and it is therefore included.
 
-Design principles~\ref{itm:models},~\ref{itm:critic}, and~\ref{itm:active} are important to help the student realise the counterintuitive aspects of quantum mechanics. This can be achieved by asking the student questions about the material and about his own beliefs. Principles~\ref{itm:results} and~\ref{itm:conclusions} then trigger the students to actively build new mental models about physics. Finally, design principle~\ref{itm:feedback} provides the students with feedback on their newly built mental models, so they can adjust them towards a more correct model.
+Design principle~\ref{itm:models} and ~\ref{itm:critic} are important to help the student realise the counterintuitive aspects of quantum mechanics. This can be achieved by asking the student questions about the material and about his own beliefs. Principles~\ref{itm:results} and~\ref{itm:conclusions} then trigger the students to actively build new mental models about physics. Finally, design principle~\ref{itm:feedback} provides the students with feedback on their newly built mental models, so they can adjust them towards a more correct model.
 
 The design principles not only provide a use during the development of the instruction, but will also be used in a screening evaluation after the development of the instruction \cite{evamatchboard} (see the Evaluation Matchboard appendix on page~\pageref{app:evamatchboard}).
 
@@ -545,7 +538,7 @@ After the instruction, the student can be assessed, so the instructor knows what
 
 As can be seen in table~\ref{tab:eventsinstruction}, each event can be performed in a generative way or a supplantive way. According to \citeA{smithragan}, the choice between generative and supplantive strategies is a balance between a low and a high level of scaffolding. With a high level of scaffolding, the instructor is able to decide and define exactly how the events are used and how the content is delivered. The advantage of a high level of scaffolding is that misconceptions can be prevented, that the content is more connected to the learning objectives and that the learning task is easier to perform. However, the more supplantive an instruction is, the less active the learner has to be during the instruction. With a lower level of scaffolding, the student has to be active in order to learn the content and in order to decide what has to be learned from the instruction, which enhances the learning process.
 
-Because the literature suggests the use of thought experiments and therefore also triggering reconsideration of the own models of students, critical thinking, an active learning style, extracting results and drawing conclusions as specified in design principles \ref{itm:models}, \ref{itm:critic}, \ref{itm:active}, \ref{itm:results}, and \ref{itm:conclusions} on page~\pageref{itm:models}, generative strategies have to be applied when providing the information to the students. This can be achieved by letting the students discover the mechanics behind the blocks introduced by qCraft for themselves. However, it is also important that the students receive proper feedback on their observations as specified in design principles \ref{itm:language}, \ref{itm:links}, \ref{itm:realworld}, and \ref{itm:feedback}, therefore scaffolding has to be provided during the feedback event. This can be achieved by providing feedback within books.
+Because the literature suggests the use of thought experiments and therefore also triggering reconsideration of the own models of students, critical thinking, an active learning style, extracting results and drawing conclusions as specified in design principles \ref{itm:models}, \ref{itm:critic}, \ref{itm:results}, and \ref{itm:conclusions} on page~\pageref{itm:models}, generative strategies have to be applied when providing the information to the students. This can be achieved by letting the students discover the mechanics behind the blocks introduced by qCraft for themselves. However, it is also important that the students receive proper feedback on their observations as specified in design principles \ref{itm:language}, \ref{itm:links}, \ref{itm:realworld}, and \ref{itm:feedback}, therefore scaffolding has to be provided during the feedback event. This can be achieved by providing feedback within books.
 
 \section{Types of Learning}
 
@@ -964,7 +957,7 @@ The rooms where the student learns about the different qCraft blocks had a coupl
 
 \subsubsection{Puzzles}
 
-Between respondent 502 and 603, puzzles were added to the qCraft block branches. In order to solve the puzzles, the student should apply knowledge about the behaviour of the qCraft blocks in order to be able to progress to the next room. First of all, these puzzles were introduced in order to add more gameplay elements to the game, because some of the respondents were complaining about the fact that the entire gameplay mechanic of the map could be summarised as moving from book to book, without much interaction with the map. The puzzles could therefore also make the game more fun to play and motivate the student. Furthermore, by having to solve puzzles, the player needs to have an active learning style, required by design principle~\ref{itm:active}. By having to apply the knowledge, there was also a higher guarantee that the student had learned the behaviour of the blocks in more detail. This is also in line with the Practice learning event of instruction (see table~\ref{tab:eventsinstruction} on page~\pageref{tab:eventsinstruction}). The floor plans of the puzzles are included within the Floor Plan appendix on page~\pageref{app:floorplans}.
+Between respondent 502 and 603, puzzles were added to the qCraft block branches. In order to solve the puzzles, the student should apply knowledge about the behaviour of the qCraft blocks in order to be able to progress to the next room. First of all, these puzzles were introduced in order to add more gameplay elements to the game, because some of the respondents were complaining about the fact that the entire gameplay mechanic of the map could be summarised as moving from book to book, without much interaction with the map. The puzzles could therefore also make the game more fun to play and motivate the student. By having to apply the knowledge, there was also a higher guarantee that the student had learned the behaviour of the blocks in more detail. This is also in line with the Practice learning event of instruction (see table~\ref{tab:eventsinstruction} on page~\pageref{tab:eventsinstruction}). The floor plans of the puzzles are included within the Floor Plan appendix on page~\pageref{app:floorplans}.
 
 The first puzzle is entailed in the Observer Dependency branch, displayed in figure~\ref{fig:odb-puzzle}. The goal is for the student to go through the iron door located at the west side of the room. The slightly textured white blocks are representing a glass wall, dividing the room roughly in two halves, and separating the Observer Dependent Block in the north west corner. This block collapses always to a red block, except when observed from the east when it becomes a blue block. When the block is red, the iron door is closed, and when the block is blue, the iron door is open. When discovering the room, the student will find the block changing to blue, but will mostly again trigger an observation from the south when walking to the door because of the way the glass walls are located. The student can solve this puzzle in three different ways: he can simply not look at the block when walking along the glass walls, he can continuously at the block in order to not trigger a new observation, or he can wear the Quantum Goggles which also do not trigger any observations. In the least, he has to understand the effect of Observation Dependency.
 
