@@ -339,7 +339,7 @@ Using the taxonomy of Bloom made the different elements better defined and also 
 
 36 of the learning objectives fall into the knowledge domain within the taxonomy of Bloom, 15 learning objectives fall into the comprehension domain, 3 learning objectives into the application domain, and 2 objectives into the analysis domain. The reason why most of the learning objectives fall into the knowledge domain is because the topic of quantum mechanics is mainly new to the high school student. Because of this, the student first has to learn a lot of new terms and definitions before he can actually comprehend quantum mechanics, for having knowledge is a prerequisite for an eventual understanding of the concepts. However, the main goal of the instruction is comprehension of the concepts, even if there are only 15 learning objectives within this domain, for comprehension leads to conceptual understanding. Application and Analysis is less relevant, this would be more relevant to principle learning, which would be important for learning the algorithmic aspects of quantum mechanics. Any higher domains cannot be reached, for they require mastery of the application and analysis domain. However, this could be achieved next in the curriculum.
 
-Furthermore, the learning objectives are also categorised by topical domains, which are Applications of Quantum Mechanics, Preknowledge, Elementary Particles, Classical Communication, Observation Dependency, Realism and Ontology, Superposition, Entanglement, Uncertainty Principle of Heisenberg and Teleportation. These are elaborated in the Topical Domains appendix on page~\pageref{app:topicaldomains}.
+Furthermore, the learning objectives are also categorised by topical domains, which are Applications of Quantum Mechanics, Preknowledge, Elementary Particles, Classical Communication, Observation Dependency, Realism and Ontology, Superposition, Entanglement, Uncertainty Principle of Heisenberg and Teleportation. These are elaborated in the Topical Domains appendix on page~\pageref{app:topicaldomains}, and a prerequisite graph of these domains is displayed in figure~\ref{fig:knowledgediagram} on page~\pageref{fig:knowledgediagram}, embedded in a curriculum with other topical domains.
 
 \section{Test specifications}
 \label{subch:testspecifications}
@@ -381,8 +381,8 @@ In secondary education, instructions often emphasise learning and practising alg
 The analysis phase provides a couple of recommendations or requirements for the medium used to deliver the instruction:
 
 \begin{itemize}
-\item The medium should allow interaction;
 \item The medium should be able to visualise the content;
+\item The medium should allow interaction;
 \item The medium should take away the mathematical difficulty, for example by using computation.
 \item The medium should be able to use different modes of representation;
 \end{itemize}
@@ -444,8 +444,6 @@ Mathematical understanding & X & X & X &  &  \\ \hline
 Visualisation &  & X & X & X & X \\ \hline
 Interaction &  &  & X & X & X \\ \hline
 Computation &  &  & X & X & X \\ \hline
-Multiple modes of representation &  & X & X & X & X \\ \hline
-Conceptual understanding & X & X & X & X & X \\ \hline
 Entertainment value & & & & X & X \\ \hline
 \end{tabular}
 \caption{The different methods of delivery and their possibilities.\label{tab:comparisonsmedia}}
@@ -455,7 +453,17 @@ One feature that traditional delivery methods have over typically available comp
 
 As already stated in the learning environment section within the Context analysis (see page~\pageref{sec:learningenvironment}), teachers find it easier to implement traditional methods of delivery than computer-based methods of delivery. Because of this, the methods currently used within physics education are delivered by traditional methods. Therefore, when choosing for computer-based methods, it is important that extra instruction is delivered for the teacher with computer-based methods in order to embed the instruction within the teaching context. Furthermore, the necessary hardware and software has to be available to the teacher.
 
+Mathematical instruction is a form of instruction often employed within traditional physics lectures. Teaching the students principles which define the relationships between certain concepts can be practiced during lectures or by the students themselves with explanations and exercises presented in a textbook. Mathematical principles can also be taught by using simulations, where students can adjust certain variables which then have a visible effect on other variables, providing a more intuitive understanding of the principles. However, this instruction only focuses on the conceptual understanding, and therefore this aspect is less relevant for the choice of the method of delivery.
 
+In traditional lectures, it is not possible to visualise the concepts within quantum mechanics, because it relies on oral instruction. However, if present, the teacher can make use of sheets in order to visualise the concepts. In written instruction, images can be presented to the students. However, it is not possible to animate the concepts, which is also an important factor of visualisation. Computer simulations and games provide mainly animated visualisation. However, the instructor has to be careful when using visualisation, for it can lead to misconceptions if used incorrectly.
+
+Interaction is more difficult in traditional lectures, and is not possible in written instruction. The only way to provide interaction in a classroom is to answer certain questions the students have about the instruction. Interaction is the core mechanic of computer simulations and games, for it heavily relies on the actions of the student.
+
+When using traditional instruction methods, all computation has to be performed by hand or by using a calculator. The calculator might seem to be an easy way of avoiding the need for computation by hand, but in order to use the calculator the student still needs to be able to understand the mathematical background, and therefore still proves to be a problem for secondary derivatives needed for the Schrödinger equation. A computer can take away this problem by doing the computation for the student and thereby leave out the mathematics.
+
+The requirement for multiple modes of representations is not displayed in the table, for this relies on combining multiple methods of delivery in one instruction or curriculum. Teachers often do not only rely on lectures, but also use books and sometimes multimedia as well in order to teach certain information. This is an important aspect for the implementation of the instruction, but not for the choice of a certain method of delivery. However, when developing the instruction, it is important to combine multiple modes if possible.
+
+Finally, computer games tend to have a higher entertainment value than the other methods of delivery. As stated before, it is not the main goal of a serious game to entertain the student. However, it can still help the student to engage itself in the activity, which also could contribute to the learning effect of the instruction.
 
 \chapter{Design Principles}
 \label{ch:designprinciples}
@@ -1206,6 +1214,19 @@ The next concept the student is introduced to is the concept of \emph{Entangleme
 The next topic is the \emph{Uncertainty Principle of Heisenberg}, which stands a bit on its own. It can be used to teach the student about the non-locality of quantum mechanics, because it demonstrates that the specific location or the specific speed of an elementary particle cannot be known exactly, and there is an inherent uncertainty about these two variables. Furthermore, it also has a different realist and ontologist interpretation. To understand the ontologist interpretation, it is important that the student is already taught about superposition. The reason why this topic is included in the instruction is because it is another counterintuitive but central concept within quantum mechanics, and it is regarded as important for teaching by \citeA{henriksen}. The principle is also one of the few topics directly included in the Centraal Eindexamen 2016 \cite{eindexamen2016} within this instruction. Finally, it also ties in with the next domain.
 
 This last domain is \emph{Teleportation}, which teaches the student about the inner workings of entanglement in the real world. This topic will first explain what it is not, but is easily confused with, namely the teleportation used in science-fiction. To argue that this is actually not possible, the student has to use the uncertainty principle of Heisenberg. This is also the main reason that it is included, all the topics taught before have to be used in the Teleportation experiment, it can therefore  serve as a conclusion of the instruction by letting the student go through all the different domains one more time.
+
+\newpage
+
+\chapter{Prerequisite graph of the topical domains}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[height=0.75\textheight]{knowledgediagram}
+\caption{A display of the different topical domains and their prerequisite order}
+\label{fig:knowledgediagram}
+\end{figure}
+
+\newpage
 
 \chapter{Learning Objectives}
 \label{app:learningobjectives}
