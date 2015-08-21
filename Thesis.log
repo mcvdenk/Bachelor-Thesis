@@ -1,16 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.16)  20 AUG 2015 15:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2015.4.6)  21 AUG 2015 10:55
 entering extended mode
- \write18 enabled.
- file:line:error style messages enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **Thesis.tex
 (./Thesis.tex
 LaTeX2e <2014/05/01>
-Babel <3.9k> and hyphenation patterns for 78 languages loaded.
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/report.cls
-Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -25,20 +24,20 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/inputenc.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2014/04/30 v1.2b Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/utf8.def
-File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AB (decimal 171)
@@ -187,8 +186,8 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00B8 (decimal 184)
@@ -218,8 +217,8 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -242,25 +241,25 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/local/texlive/2014/texmf-dist/tex/latex/placeins/placeins.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count88
@@ -276,27 +275,27 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks17
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count91
@@ -304,7 +303,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/titlesec/titlesec.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box26
 \beforetitleunit=\skip43
@@ -316,11 +315,11 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \titlewidthlast=\dimen116
 \titlewidthfirst=\dimen117
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/booktabs/booktabs.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen118
 \lightrulewidth=\dimen119
@@ -340,15 +339,15 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count95
 \@thisrulewidth=\dimen130
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/array.sty
-Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen131
 \extrarowheight=\dimen132
 \NC@list=\toks19
 \extratabsurround=\skip45
 \backup@length=\skip46
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/paralist/paralist.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/paralist/paralist.sty
 Package: paralist 2013/06/09 v2.4 Extended list environments
 \pltopsep=\skip47
 \plpartopsep=\skip48
@@ -356,19 +355,19 @@ Package: paralist 2013/06/09 v2.4 Extended list environments
 \plparsep=\skip50
 \pl@lab=\toks20
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/verbatim.sty
-Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks21
 \verbatim@line=\toks22
 \verbatim@in@stream=\read1
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/subfig/subfig.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 \captionmargin=\dimen133
@@ -395,14 +394,14 @@ Package caption3 Info: TeX engine: e-TeX on input line 57.
 \sf@top=\skip54
 \sf@bottom=\skip55
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count104
 \calc@Bcount=\count105
 \calc@Adimen=\dimen141
@@ -414,16 +413,16 @@ LaTeX Info: Redefining \addtolength on input line 76.
 \calc@Ccount=\count106
 \calc@Cskip=\skip58
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -437,7 +436,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 ))
-(/usr/local/texlive/2014/texmf-dist/tex/latex/pdfpages/pppdftex.def
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box27
@@ -445,15 +444,15 @@ File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count107
 \AM@templatesizebox=\box28
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/lscape.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/rotating/rotating.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/rotating/rotating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 \c@r@tfl@t=\count108
 \rotFPtop=\skip59
@@ -461,10 +460,10 @@ Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 \rot@float@box=\box29
 \rot@mess@toks=\toks24
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/rotfloat/rotfloat.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/rotfloat/rotfloat.sty
 Package: rotfloat 2004/01/04 v1.2 Combining float+rotating package (AS)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/float/float.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count109
 \float@exts=\toks25
@@ -474,7 +473,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 )
 Package rotfloat Info: float package v1.3 detected on input line 74.
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 \fancy@headwidth=\skip61
 \f@ncyO@elh=\skip62
 \f@ncyO@erh=\skip63
@@ -485,11 +484,11 @@ Package rotfloat Info: float package v1.3 detected on input line 74.
 \f@ncyO@olf=\skip68
 \f@ncyO@orf=\skip69
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/sectsty/sectsty.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/sectsty/sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/apacite/apacite.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/apacite/apacite.sty
 Package: apacite 2013/07/21 v6.03 APA citation
 \c@BibCnt=\count110
 \bibleftmargin=\skip70
@@ -498,14 +497,14 @@ Package: apacite 2013/07/21 v6.03 APA citation
 \bibitemsep=\skip73
 \biblabelsep=\skip74
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
 
 
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/tocloft/tocloft.sty
+) (e:/Program Files/texlive/2014/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 44.
 \cftparskip=\skip75
@@ -549,8 +548,8 @@ Package tocloft Info: The document has chapter divisions on input line 44.
 \cftsubtabindent=\skip113
 \cftsubtabnumwidth=\skip114
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/afterpage.sty
-Package: afterpage 1995/10/27 v1.08 After-Page Package (DPC)
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 \AP@output=\toks27
 \AP@partial=\box32
 \AP@footins=\box33
@@ -576,7 +575,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 105.
 LaTeX Font Info:    ... okay on input line 105.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 105.
 
- (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+ (e:/Program Files/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 *geometry* driver: auto-detecting
@@ -613,7 +612,7 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+(e:/Program Files/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count111
 \scratchdimen=\dimen143
@@ -626,11 +625,10 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 \MPnumerator=\count115
 \makeMPintoPDFobject=\count116
 \everyMPtoPDFconversion=\toks29
-) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+) (e:/Program Files/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -639,22 +637,21 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+)) (e:/Program Files/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(e:/Program Files/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -666,7 +663,8 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cf
+g
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -677,8 +675,7 @@ Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box35
 \c@maskedRefs=\count117
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/apacite/english.apc
+ (e:/Program Files/texlive/2014/texmf-dist/tex/latex/apacite/english.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
@@ -698,14 +695,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 132.
  [1
 
-{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo.
-jpg>] [2
+{e:/Program Files/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <.
+/logo.jpg>]
+[2
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 153.
-
-(./Thesis.toc
+ (./Thesis.toc
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
@@ -761,7 +758,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 241.
 
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omsptm.fd
+(e:/Program Files/texlive/2014/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
@@ -775,11 +772,6 @@ com-par-ing the debroglie-wavelength
 [15] [16] [17
 
 ]
-
-LaTeX Warning: Reference `ssch:needsassessmentinnovation' on page 18 undefined 
-on input line 302.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18
@@ -788,13 +780,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 2073) has occurred while \output is active []
 
  [19]
+
+LaTeX Warning: Reference `app:knowledgediagram' on page 20 undefined on input l
+ine 324.
+
 <bloom.png, id=74, 288.8391pt x 210.7875pt>
 File: bloom.png Graphic file (type png)
  <use bloom.png>
 Package pdftex.def Info: bloom.png used on input line 328.
 (pdftex.def)             Requested size: 182.09486pt x 132.89009pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2698) has occurred while \output is active []
 
  [20 <./bloom.png>] [21] [22
 
@@ -1263,28 +1259,29 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6780 strings out of 493117
- 100240 string characters out of 6135433
- 215193 words of memory out of 5000000
- 10066 multiletter control sequences out of 15000+600000
+ 6780 strings out of 493109
+ 101185 string characters out of 6132292
+ 215244 words of memory out of 5000000
+ 10068 multiletter control sequences out of 15000+600000
  33845 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,12n,43p,1987b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
-xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texl
-ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
-e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
-014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/20
-14/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/201
-4/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2014
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2014/tex
-mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fo
-nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
-urw/times/utmri8a.pfb>
-Output written on Thesis.pdf (134 pages, 4697342 bytes).
+{e:/Program Files/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}<e:/Pro
+gram Files/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><e
+:/Program Files/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pf
+b><e:/Program Files/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><e:/Program Files/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr8.pfb><e:/Program Files/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmss10.pfb><e:/Program Files/texlive/2014/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmss12.pfb><e:/Program Files/texlive/2014/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmss17.pfb><e:/Program Files/texlive/2014/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb><e:/Program Files/texlive/2014/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy8.pfb><e:/Program Files/texlive/2014/texmf-dist/font
+s/type1/public/amsfonts/cm/cmtt10.pfb><e:/Program Files/texlive/2014/texmf-dist
+/fonts/type1/urw/times/utmb8a.pfb><e:/Program Files/texlive/2014/texmf-dist/fon
+ts/type1/urw/times/utmr8a.pfb><e:/Program Files/texlive/2014/texmf-dist/fonts/t
+ype1/urw/times/utmri8a.pfb>
+Output written on Thesis.pdf (134 pages, 4695281 bytes).
 PDF statistics:
  532 PDF objects out of 1000 (max. 8388607)
  338 compressed objects within 4 object streams

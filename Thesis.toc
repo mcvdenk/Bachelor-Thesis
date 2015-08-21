@@ -120,9 +120,9 @@
 \contentsline {part}{Conclusion and Discussion}{72}
 \contentsline {chapter}{References}{75}
 \contentsline {part}{Appendices}{78}
-\contentsline {chapter}{Topics mentioned in literature}{79}
+\contentsline {chapter}{Topics Mentioned in Literature}{79}
 \contentsline {chapter}{Topical Domains}{82}
-\contentsline {chapter}{Prerequisite graph of the topical domains}{84}
+\contentsline {chapter}{Prerequisite Graph of the Topical Domains}{84}
 \contentsline {chapter}{Learning Objectives}{85}
 \contentsline {chapter}{Learning Objectives and Standards}{89}
 \contentsline {chapter}{Initial Framework for the Instruction}{95}
@@ -158,4 +158,4 @@
 \contentsline {chapter}{Floor Plans}{124}
 \contentsline {chapter}{Evaluation Matchboard}{127}
 \contentsline {chapter}{Charts of the Results of the Evaluation}{130}
-\contentsline {chapter}{Amount of coded fragments}{133}
+\contentsline {chapter}{Amount of Coded Fragments}{133}
