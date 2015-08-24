@@ -214,6 +214,36 @@ Dori, Y\BPBI J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Einstein%
+, Podolsky%
+\BCBL {}\ \BBA {} Rosen%
+}{%
+Einstein%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1935}}%
+}]{%
+EPR}
+\APACinsertmetastar {%
+EPR}%
+\begin{APACrefauthors}%
+Einstein, A.%
+, Podolsky, B.%
+\BCBL {}\ \BBA {} Rosen, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1935}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Can Quantum-Mechanical Description of Physical Reality
+  Be Considered Complete?} {Can quantum-mechanical description of physical
+  reality be considered complete?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Physical Review}{47}{10}{777-780}.
+\newblock
+\begin{APACrefDOI} \doi{10.1103/PhysRev.47.777} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Erduran%
 }{%
 Erduran%
@@ -268,6 +298,29 @@ Gianino, C.%
 \begin{APACrefURL}
   \url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ802501&site=ehost-live}
   \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Griffiths%
+}{%
+Griffiths%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+qumech}
+\APACinsertmetastar {%
+qumech}%
+\begin{APACrefauthors}%
+Griffiths, D\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2005}.
+\newblock
+\APACrefbtitle {Introduction to quantum mechanics} {Introduction to quantum
+  mechanics}\ (\PrintOrdinal{2}\ \BEd).
+\newblock
+\APACaddressPublisher{Delhi}{Pearson education, inc}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -707,32 +760,6 @@ Plomp, T.%
   en trainingen}\ (W.~Toic, \BED{}).
 \newblock
 \APACaddressPublisher{Utrecht}{LEMMA}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Schell%
-}{%
-Schell%
-}{%
-{\protect \APACyear {2014}}%
-}]{%
-schell}
-\APACinsertmetastar {%
-schell}%
-\begin{APACrefauthors}%
-Schell, J.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{2014}.
-\newblock
-\APACrefbtitle {The Art of Game Design: A Book of Lenses, Second Edition} {The
-  art of game design: A book of lenses, second edition}.
-\newblock
-\APACaddressPublisher{}{Taylor \& Francis}.
-\newblock
-\begin{APACrefURL} \url{https://books.google.nl/books?id=kRMeBQAAQBAJ}
-  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
