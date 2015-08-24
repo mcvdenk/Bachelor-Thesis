@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2015.4.6)  24 AUG 2015 15:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2015.4.6)  24 AUG 2015 15:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -848,9 +848,6 @@ Package pdftex.def Info: roomdesign.png used on input line 608.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-LaTeX Warning: Reference `framework1' on page 41 undefined on input line 614.
-
 [41 <./blocks.png>] [42 <./roomdesign.png (PNG copy)>]
 <mainhall.png, id=157, 1284.8pt x 753.81625pt>
 File: mainhall.png Graphic file (type png)
@@ -1253,10 +1250,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6781 strings out of 493109
- 101200 string characters out of 6132292
+ 6780 strings out of 493109
+ 101188 string characters out of 6132292
  215381 words of memory out of 5000000
- 10069 multiletter control sequences out of 15000+600000
+ 10068 multiletter control sequences out of 15000+600000
  33845 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,12n,43p,1987b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1275,7 +1272,7 @@ s/type1/public/amsfonts/cm/cmtt10.pfb><e:/Program Files/texlive/2014/texmf-dist
 /fonts/type1/urw/times/utmb8a.pfb><e:/Program Files/texlive/2014/texmf-dist/fon
 ts/type1/urw/times/utmr8a.pfb><e:/Program Files/texlive/2014/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on Thesis.pdf (134 pages, 4694910 bytes).
+Output written on Thesis.pdf (134 pages, 4694850 bytes).
 PDF statistics:
  532 PDF objects out of 1000 (max. 8388607)
  338 compressed objects within 4 object streams
